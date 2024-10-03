@@ -1120,6 +1120,1270 @@
 		"e-effect": "CS Cost- (L), SP+ (L)"
 	},
 	{
+		"name": "Powdering Powder",
+		"type": "Recipe",
+		"description": "A book on how to crush objects. First editions had dangerous and gruesome methods, but this one is geared for students. Changing the ingredients can result in varios powders.",
+		"chapter": 1,
+		"location": "Cafeteria",
+		"price": 100,
+		"unlocked_items": [
+			{"reference": "Flour"},
+			{"reference": "Salt"},
+			{"reference": "Black Powder"},
+			{"reference": "Polish Powder"}
+		]
+	},
+	{
+		"name": "Miraculous Powder",
+		"type": "Recipe",
+		"description": "A book that notes how to make special powders infused with Mana Powers. Alchemists will have difficult time understanding it unless they have close relations with their Mana.",
+		"chapter": 8,
+		"location": "Old Schoolhouse - Closed Area",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Shiny Powder"}
+		]
+	},
+	{
+		"name": "How to Knead Dirt",
+		"type": "Recipe",
+		"description": "A literary masterpiece that a potter spent half his life to write. This 800 page book is heavy with the writer's passion for dirt. Read this once and anyone will be able to handle dirt.",
+		"chapter": 6,
+		"location": "Street Vendor",
+		"price": 600,
+		"unlocked_items": [
+			{"reference": "Magical Clay"},
+			{"reference": "Blood Clay"}
+		]
+	},
+	{
+		"name": "Alchemic Steel",
+		"type": "Recipe",
+		"description": "A textbook that explains how to process metals alchemically. It says that in theory, alchemy can process any kind of metal, but ends with a sad conclusion that you must try hard anyway.",
+		"chapter": 4,
+		"location": "Student Store",
+		"price": 350,
+		"unlocked_items": [
+			{"reference": "Black Steel"},
+			{"reference": "Red Steel"},
+			{"reference": "Blue Steel"},
+			{"reference": "White Steel"}
+		]
+	},
+	{
+		"name": "Holy Metal",
+		"type": "Recipe",
+		"description": "A book on how to bless metal. Actually, it is just a religious text that happened to have a section on how to make holy metal.",
+		"chapter": 10,
+		"location": "Dragon's Grave - Cave of Origins",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Altena Ingot"}
+		]
+	},
+	{
+		"name": "Ingot",
+		"type": "Recipe",
+		"description": "A precious book that mentions how to process an alchemist's ultimate goal: gold. Its contents are very difficult. Without proper knowledge, you can't even get past the author's introduction page.",
+		"chapter": 11,
+		"location": "Resource Center Shop",
+		"price": 10000,
+		"unlocked_items": [
+			{"reference": "Gold Bullion"}
+		]
+	},
+	{
+		"name": "God's Drink",
+		"type": "Recipe",
+		"description": "A book on how to make an attractive drink. The first half is an academic essay with much to learn from, but the other half is a story on how juice bars attract teenagers with attitudes.",
+		"chapter": 4,
+		"location": "Infirmary",
+		"price": 350,
+		"unlocked_items": [
+			{"reference": "Nectar"},
+			{"reference": "Black Liquid"}
+		]
+	},
+	{
+		"name": "Generic Cloth",
+		"type": "Recipe",
+		"description": "A textbook on how to make basic cloth. It also includes basic sewing techniques that even gets boys interested in embroidery and quilting.",
+		"chapter": 1,
+		"location": "Story Event",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Nicro Cloth"}
+		]
+	},
+	{
+		"name": "Funfur Cloth",
+		"type": "Recipe",
+		"description": "A book, mostly on how to make cloth out of animal hide and tree bark. A must-have book to make durable garments, even though they may not look great.",
+		"chapter": 2,
+		"location": "The Heights",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Pleather Cloth"}
+		]
+	},
+	{
+		"name": "Noble Fabric",
+		"type": "Recipe",
+		"description": "An advanced anthology on how to create valuable, high-quality, expensive cloth. If you can master all the techniques, you can live a luxurious life as a tailor to royalty and nobles.",
+		"chapter": 5,
+		"location": "Student Store",
+		"price": 500,
+		"unlocked_items": [
+			{"reference": "Silky Cloth"}
+		]
+	},
+	{
+		"name": "Legendary Fabric",
+		"type": "Recipe",
+		"description": "An ancient text on how to create a traditional cloth, lost in history. Many scientists have researched it, but there are still areas of encrypted text, which makes it difficult to make.",
+		"chapter": 8,
+		"location": "Defeat the Family during Job Request",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Formell Fabric"}
+		]
+	},
+	{
+		"name": "Preserved Food",
+		"type": "Recipe",
+		"description": "A book written by a housewife who discovered how to preserve food. The stories of her 'guinea pig' husband, who had to eat the experiments, makes you kind of want to cry.",
+		"chapter": 3,
+		"location": "Defeat the Caterpirider during Job Request",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Goat Cheese"},
+			{"reference": "Bacon"},
+			{"reference": "Smoked Fish"}
+		]
+	},
+	{
+		"name": "Liquid Metal",
+		"type": "Recipe",
+		"description": "A textbook about how to manufacture a liquid metal that won't keep its shape. When the synthesis was discovered, it was revolutionary but useless and so, the inventor's name has been forgotten.",
+		"chapter": 9,
+		"location": "Student Store",
+		"price": 1000,
+		"unlocked_items": [
+			{"reference": "Liquid Metal"}
+		]
+	},
+	{
+		"name": "Curing Medicine",
+		"type": "Recipe",
+		"description": "A textbook on various potions that cure poisons within the body. If you read this book as you synthesize, anyone can make medicine. But if you mess up, even by 1g, a cure can become poison.",
+		"chapter": 3,
+		"location": "Defeat the Fallen Lover during Job Request",
+		"price": 1000,
+		"unlocked_items": [
+			{"reference": "Cure Jar"},
+			{"reference": "Preservative"}
+		]
+	},
+	{
+		"name": "Strong Fiber",
+		"type": "Recipe",
+		"description": "A book that mentions how to extract durable fibers from foods. The harder, chewier food, the higher quality fiber you can get from it.",
+		"chapter": 2,
+		"location": "Story Event",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Dietary Fiber"},
+			{"reference": "Silver Thread"}
+		]
+	},
+	{
+		"name": "Magical String",
+		"type": "Recipe",
+		"description": "A detailed textbook on how to spin thread with spiritual power. It also lists elemental ingredients, and how important the magic can be. Much of it is useful, basic alchemy knowledge.",
+		"chapter": 9,
+		"location": "Mana Ruins - Bottom Center",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Clear Fiber"}
+		]
+	},
+	{
+		"name": "Explosive Powder",
+		"type": "Recipe",
+		"description": "A textbook on how to handle dangerous gunpowder. Simple explosive recipes are also mentioned. The latter half depicts gruesome, tragic accidents of those who misuse gunpowder.",
+		"chapter": 4,
+		"location": "Defeat the Darkbringer from Job Request",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Plosion"}
+		]
+	},
+	{
+		"name": "Mechanical Box",
+		"type": "Recipe",
+		"description": "The plans on how to make a mysterious box that gains movement by combining gears and cogs. It usually comes with a model, but it seems these plans were traded in without it.",
+		"chapter": 4,
+		"location": "Mana Ruins - Outskirts",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Gearbox"},
+			{"reference": "Le Merou Cog"}
+		]
+	},
+	{
+		"name": "Spring Decor",
+		"type": "Recipe",
+		"description": "A textbook on how to make an everlasting mechanism that uses a spring. A 300 page calculation formula explains the Law of Perpetual Motion, but you don't need to understand it to make one.",
+		"chapter": 2,
+		"location": "The Heights",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Eternal Turnkey"}
+		]
+	},
+	{
+		"name": "Normal Paper",
+		"type": "Recipe",
+		"description": "A book on how to make typical paper. It is very easy reading, and even if you're not an alchemist, you can make simple paper just by reading this book.",
+		"chapter": 1,
+		"location": "Student Store",
+		"price": 100,
+		"unlocked_items": [
+			{"reference": "Zettel"}
+		]
+	},
+	{
+		"name": "Expensive Paper",
+		"type": "Recipe",
+		"description": "A book on how to create high-quality paper used for important files and decorations. In order to make good paper, it takes much more processing. Therefore, the book is much thicker.",
+		"chapter": 6,
+		"location": "Student Store",
+		"price": 600,
+		"unlocked_items": [
+			{"reference": "Holy Crest Paper"}
+		]
+	},
+	{
+		"name": "Vibrating Metal",
+		"type": "Recipe",
+		"description": "A book on a strange metal that vibrates on its own. It may sound like magic, but the book explains the scientific reason for why the metal moves, and the truth behind it as well.",
+		"chapter": 4,
+		"location": "Mana Ruins - Outskirts",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Apollo's Diapason"}
+		]
+	},
+	{
+		"name": "Mystery Ring",
+		"type": "Recipe",
+		"description": "How to create a strange metallic circle that is said to be lucky. Astrologists and geomancy specialists created this. It is not a bogus item... we think.",
+		"chapter": 9,
+		"location": "Mana Ruins - Bottom Center",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Fortune Ring"}
+		]
+	},
+	{
+		"name": "Thermometer",
+		"type": "Recipe",
+		"description": "The plans for making a thermometer to measure heat. The logic behind it is very simple, but it requires detailed glasswork. So, actually making one takes a very high level of skill.",
+		"chapter": 4,
+		"location": "Mana Ruins - Outskirts",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Galilean Scope"}
+		]
+	},
+	{
+		"name": "Shiny Stone",
+		"type": "Recipe",
+		"description": "A book on methods of how to attach special magic to natural stones. Stones made in this way are very useful as ingredients to make different items.",
+		"chapter": 7,
+		"location": "Wind's Corridor - Abyss",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Brilliant Stone"},
+			{"reference": "Pentagle"}
+		]
+	},
+	{
+		"name": "Spirit Crystal",
+		"type": "Recipe",
+		"description": "A book on how to extract a natural stone, and crystallize the valuable essence. Since this method was found, alchemy had significantly progressed, and the author became very rich.",
+		"chapter": 7,
+		"location": "Infirmary",
+		"price": 700,
+		"unlocked_items": [
+			{"reference": "Canone Crystal"},
+			{"reference": "Glacier Crystal"},
+			{"reference": "Thunder Crystal"}
+		]
+	},
+	{
+		"name": "Igniter Device",
+		"type": "Recipe",
+		"description": "A book on how to make a tool that lights up easily. Devices made with this item makes daily lifestyles much easier but it's actually not that easy to make, so the common people don't get any.",
+		"chapter": 10,
+		"location": "Student Store",
+		"price": 1500,
+		"unlocked_items": [
+			{"reference": "Auto Igniter"}
+		]
+	},
+	{
+		"name": "Cooler",
+		"type": "Recipe",
+		"description": "How to make a device with such cold air, it lowers the surrounding temperature. Everyone knows that it was Dr. Cooler, alchemist of ice, who invented this item more than 200 years ago.",
+		"chapter": 10,
+		"location": "Student Store",
+		"price": 1500,
+		"unlocked_items": [
+			{"reference": "Cooler"}
+		]
+	},
+	{
+		"name": "Vacuum Pipe",
+		"type": "Recipe",
+		"description": "An excerpt of a scientist's essay that was published 10 years ago. It tells you how to make a tube that can trap lightning and electricity.",
+		"chapter": 9,
+		"location": "Defeat the Gear Sprite during Job Request",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Voidspark Pipe"}
+		]
+	},
+	{
+		"name": "Rhythmical Machine",
+		"type": "Recipe",
+		"description": "How to make a machine that will always beat at a certain rhythm, like a pendulum. It is useless knowledge for normal people, but it is very popular among alchemists in the music industry.",
+		"chapter": 5,
+		"location": "Millennium Tree",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Metronome"}
+		]
+	},
+	{
+		"name": "Musical Strings",
+		"type": "Recipe",
+		"description": "A book on how to alchemically make a string instrument. High alchemy skill equals high-quality instruments. Even if an alchemist uses the same ingredients, no two will make the exact same sound.",
+		"chapter": 9,
+		"location": "Defeat the Rowdy Leader during Job Request",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Carabine Harp"}
+		]
+	},
+	{
+		"name": "Swinging Drum",
+		"type": "Recipe",
+		"description": "A book on how to alchemically make a drum. It's only a drum, but making it is quite difficult. If you don't have much alchemy skill, it is faster to make one the normal way.",
+		"chapter": 3,
+		"location": "Resource Center",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Wood Tympani"}
+		]
+	},
+	{
+		"name": "Giant Music Device",
+		"type": "Recipe",
+		"description": "A book on how to make a large musical instrument. It is very loud, and very difficult to play. At first, your neighbors will complain about it.",
+		"chapter": 10,
+		"location": "Dragon's Grave - Cave of Origins",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Organne La Firste"}
+		]
+	},
+	{
+		"name": "Vortex Trumpet",
+		"type": "Recipe",
+		"description": "A book on how to make a spiral trumpet. Because of its complicated shape, making one requires energy and patience. But when completed, it plays a very elegant sound, even when played by a beginner.",
+		"chapter": 8,
+		"location": "Old Schoolhouse - Closed Area",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Velvet Horn"}
+		]
+	},
+	{
+		"name": "Echoing Cymbal",
+		"type": "Recipe",
+		"description": "How to make an instrument that makes an intense sound when two metal plates are banged together. It looks very simple, but to make it sound good, both plates must be exactly the same.",
+		"chapter": 3,
+		"location": "Resource Center Shop",
+		"price": 3500,
+		"unlocked_items": [
+			{"reference": "Alchemic Cymbal"}
+		]
+	},
+	{
+		"name": "Healing Medicine",
+		"type": "Recipe",
+		"description": "How to make the most elementary healing medicine. It is said to be the basis of all alchemy, and beginners can easily make it too. But, it is very deep.",
+		"chapter": 1,
+		"location": "Story Event",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Heal Jar"},
+			{"reference": "X Heal"}
+		]
+	},
+	{
+		"name": "Spreading Medicine",
+		"type": "Recipe",
+		"description": "A recipe with a twist to making healing medicine. It mentions how to make it heal multiple people at one time.",
+		"chapter": 8,
+		"location": "Infirmary",
+		"price": 800,
+		"unlocked_items": [
+			{"reference": "Heal All"}
+		]
+	},
+	{
+		"name": "Super Juice",
+		"type": "Recipe",
+		"description": "A book on how to make a liquid for medicinal purposes. Most of the time, it is used as a restorative medicine.",
+		"chapter": 8,
+		"location": "Infirmary",
+		"price": 800,
+		"unlocked_items": [
+			{"reference": "Super Nectar"}
+		]
+	},
+	{
+		"name": "A Holy Cup",
+		"type": "Recipe",
+		"description": "A structure on how to make a holy drink, offered to the gods during rituals. It is written in the ancient language, which researchers keep trying to translate, so they can make a quick profit.",
+		"chapter": 10,
+		"location": "Infirmary",
+		"price": 1500,
+		"unlocked_items": [
+			{"reference": "Shining Grail"}
+		]
+	},
+	{
+		"name": "Mental Stabilizer",
+		"type": "Recipe",
+		"description": "A prescription for a shot given to those who get too excited or cannot control their emotions. It is very dangerous if used improperly. It mentions many times, 'Do not use regularly!'",
+		"chapter": 3,
+		"location": "Resource Center",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Amber Soup"},
+			{"reference": "Tranquilizer"}
+		]
+	},
+	{
+		"name": "Ultimate Remedy",
+		"type": "Recipe",
+		"description": "A book on how to make one of the goals of all alchemists, the Elixir. The book itself is widespread, but not many can make it. The processing of an Elixir is very difficult, as you can see.",
+		"chapter": 10,
+		"location": "Defeat Isolde",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Elixir"}
+		]
+	},
+	{
+		"name": "Flaming BBQ",
+		"type": "Recipe",
+		"description": "A cookbook written by chef, Dan Shelden, who has been cooking for 40 years. There are many similarities in alchemy and cooking, and therefore was added as a textbook of the academy last year.",
+		"chapter": 3,
+		"location": "Cafeteria",
+		"price": 250,
+		"unlocked_items": [
+			{"reference": "Steak"},
+			{"reference": "Broiled Fish"},
+			{"reference": "Ceramic Plate"}
+		]
+	},
+	{
+		"name": "Gorgeous Boat",
+		"type": "Recipe",
+		"description": "How to cook up a deluxe boat of fresh seafood. It may seem simple, but you can read up on knifework, how to keep the fish fresh, and about how people sense the beauty in presentation and garnish.",
+		"chapter": 11,
+		"location": "Student Store",
+		"price": 2500,
+		"unlocked_items": [
+			{"reference": "Fish Boat: Marlow"}
+		]
+	},
+	{
+		"name": "Deliciousoup",
+		"type": "Recipe",
+		"description": "A book on how to make delicious soup. It was first published for housewives, but it became a best seller for bachelors for its tasty, easy-to-make soups.",
+		"chapter": 1,
+		"location": "Old Schoolhouse",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Green Soup"},
+			{"reference": "Red Soup"},
+			{"reference": "Golden Soup"}
+		]
+	},
+	{
+		"name": "Bomb",
+		"type": "Recipe",
+		"description": "One book of the best hit series, 'Books on Bombs', by John Urn. This one is the beginner's guide. The motto is 'even 3-year olds can make it.' and is full of cute picture and simple explanations.",
+		"chapter": 1,
+		"location": "Defeat the Lore Beast",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Flame"},
+			{"reference": "Bomb Ice"},
+			{"reference": "Lightning Rod"}
+		]
+	},
+	{
+		"name": "Super Bomb",
+		"type": "Recipe",
+		"description": "One book of the best hit series, 'Books on Bombs' by John Urn. This one contains dangerous, more advanced techniques. On the first page is a warning that says: 'Do not throw bombs at people!'.",
+		"chapter": 7,
+		"location": "Street Vendor",
+		"price": 600,
+		"unlocked_items": [
+			{"reference": "Tera Flame"},
+			{"reference": "Bobomb Ice"},
+			{"reference": "Thunder Rod"}
+		]
+	},
+	{
+		"name": "Exploding Uni",
+		"type": "Recipe",
+		"description": "A book that introduced a method of packing gun powder in Unis for use as bombs. At the time of presentation, many Uni lovers revolted against this horrendous idea.",
+		"chapter": 6,
+		"location": "Defeat the Stonewing Beast",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Uni Bomb"}
+		]
+	},
+	{
+		"name": "Uni the Great",
+		"type": "Recipe",
+		"description": "One book of the best hit series, 'Books on Bombs' by John Urn. This was written during Urn's mental breakdown. Methods on how to make bombs with strange looks, but powerful force are introduced.",
+		"chapter": 7,
+		"location": "Defeat the Scylla during Job Request",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Big Uni Bomb"},
+			{"reference": "Big Orange Bomb"},
+			{"reference": "Big Lando Bomb"}
+		]
+	},
+	{
+		"name": "The Mystic Uni",
+		"type": "Recipe",
+		"description": "A research paper written by a scientist who spent all 18 years of his life researching Uni. The famous line, 'Uni is God' comes from him. Various ways to maximize an Uni's power is noted here.",
+		"chapter": 10,
+		"location": "Dragon's Grave - Cave of Origins",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Uni God"}
+		]
+	},
+	{
+		"name": "Fruit Bomb",
+		"type": "Recipe",
+		"description": "One book of the best hit series, 'Books on Bombs' by John Urn. This was written when Urn was quite tired. Very detailed methods on how to make cute bombs for girls are noted here.",
+		"chapter": 3,
+		"location": "Resource Center",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Orange Bomb"}
+		]
+	},
+	{
+		"name": "Sweet Fruit Bomb",
+		"type": "Recipe",
+		"description": "When John Urn's 'Books on Bombs' were best sellers, this book was published to ride on their coattails. Because the arguments in it were so similar to Urn's, it was almost sued for fraud.",
+		"chapter": 4,
+		"location": "Mana Ruins - Outskirts",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Lando Bomb"}
+		]
+	},
+	{
+		"name": "Twirly Thing",
+		"type": "Recipe",
+		"description": "A book on how to make a round, twirly thing. Originally, it was a scientific document used to recreate the earth. At the end, it says: 'We will not take responsibility for spinning too hard'.",
+		"chapter": 7,
+		"location": "Defeat the Treasure King during Job Request",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Globe"}
+		]
+	},
+	{
+		"name": "A Small Universe",
+		"type": "Recipe",
+		"description": "A book on how to make many round, twirly things. It is said to be written by the same person who wrote 'Twirly Thing'. At the end, it mentions proudly: 'It won't break easily, even if you spin it hard'.",
+		"chapter": 10,
+		"location": "Dragon's Grave - Cave of Origins",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Stellar Globe"}
+		]
+	},
+	{
+		"name": "Pudding",
+		"type": "Recipe",
+		"description": "A book on how to make a gorgeous pudding loved by the late queen. If you look at the ingredients, you'll find that they ate commoners would never dream of.",
+		"chapter": 6,
+		"location": "Cafeteria",
+		"price": 600,
+		"unlocked_items": [
+			{"reference": "Unipuni Pudding"}
+		]
+	},
+	{
+		"name": "Traditional Cake",
+		"type": "Recipe",
+		"description": "A book on how to make traditional cake, that any family can make. Each family has varioations on their own traditional cake, but the most basic one is introduced in this book.",
+		"chapter": 4,
+		"location": "Cafeteria",
+		"price": 350,
+		"unlocked_items": [
+			{"reference": "Cheesecake"},
+			{"reference": "Pumpotatokin Pie"}
+		]
+	},
+	{
+		"name": "Bite-sized Sorbet",
+		"type": "Recipe",
+		"description": "How to make bite-size frozen sweets. It may seem easy to do, but a lot of energy is required to freeze something, so it is difficult for non-alchmists to make.",
+		"chapter": 7,
+		"location": "Cafeteria",
+		"price": 700,
+		"unlocked_items": [
+			{"reference": "Grape Sherbet"},
+			{"reference": "Muscat Sorbet"}
+		]
+	},
+	{
+		"name": "Sweets Paradise",
+		"type": "Recipe",
+		"description": "A cookbook written for people to have fun with sweets, to make them look and taste better. The author of this book used the profits to hand out sweets to poor children around the world.",
+		"chapter": 10,
+		"location": "Defeat the Witch Girls during Job Request",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Sweetsland"}
+		]
+	},
+	{
+		"name": "Fruit Juice",
+		"type": "Recipe",
+		"description": "A book of techniques on how to squeeze fruit juices so they remain delicious. Making it by hand adds impurities that make it taste strange, but by using alchemy solves the problem.",
+		"chapter": 3,
+		"location": "Cafeteria",
+		"price": 250,
+		"unlocked_items": [
+			{"reference": "120% Fruit"},
+			{"reference": "Veggielicious"},
+			{"reference": "Veggie Purple"}
+		]
+	},
+	{
+		"name": "Radiating Disc",
+		"type": "Recipe",
+		"description": "A book on how to make a special shield. It was written when evil alchemists had power in the world, and so it includes a heated discussion on how to effectively protect yourself enemy magic.",
+		"chapter": 4,
+		"location": "Defeat Tony and Roxis",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Divine Shield"}
+		]
+	},
+	{
+		"name": "Magic Stake Cloth",
+		"type": "Recipe",
+		"description": "How to make a special cloth that shuts out any evil magic. The nobles came up with this to protect themselves, so it therefore uses many expensive materials.",
+		"chapter": 4,
+		"location": "Defeat Renee",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Misty Curtain"}
+		]
+	},
+	{
+		"name": "Invisible Mantle",
+		"type": "Recipe",
+		"description": "A book on how to make a mysterious invisible cape. Also known as 'The Cape Fools Can't See', which is used as the topic in some folk tales.",
+		"chapter": 6,
+		"location": "Street Vendor",
+		"price": 600,
+		"unlocked_items": [
+			{"reference": "Treasure Cape"}
+		]
+	},
+	{
+		"name": "Old Collar",
+		"type": "Recipe",
+		"description": "A book on how to make a collar for a pet. This book has a lot of history, beginning from times when humans first began domesticating animals, today.",
+		"chapter": 1,
+		"location": "Received from Moritz",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Ragged Collar"},
+			{"reference": "Leather Collar"}
+		]
+	},
+	{
+		"name": "Medicinal Collar",
+		"type": "Recipe",
+		"description": "A recipe for decorative collars with a twist. The author used various medicines to add to the collar, but cats would smell it and refuse, and therefore, most of the ideas ended in failure.",
+		"chapter": 3,
+		"location": "Infirmary",
+		"price": 250,
+		"unlocked_items": [
+			{"reference": "Flea Necklace"},
+			{"reference": "Bone Necklace"}
+		]
+	},
+	{
+		"name": "Cute Ribbon",
+		"type": "Recipe",
+		"description": "A written document on how to make a ribbon. In the beginning is a ribbon arrangement gallery with cute looking pet cats. Some stores sold out to people who just wanted to see the cat pictures.",
+		"chapter": 4,
+		"location": "Mana Ruins - Outskirts",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Pretty Ribbon"},
+			{"reference": "Cait Sith's Collar"}
+		]
+	},
+	{
+		"name": "Huge Ring",
+		"type": "Recipe",
+		"description": "A book on how to make a giant ring. About the size of two human fists. The author is unknown, but because it is so old, people say it was the giants who went extinct long ago, who wrote it.",
+		"chapter": 7,
+		"location": "Received from your partner during the second round of the Trivia contest",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Giant's Ring"}
+		]
+	},
+	{
+		"name": "Huge Donut",
+		"type": "Recipe",
+		"description": "A book on how to make a huge donut. If it's too big, the shape might collapse, or it won't cook all the way through. It is still a mystery why the author wanted to make such a huge donut.",
+		"chapter": 8,
+		"location": "Cafeteria",
+		"price": 800,
+		"unlocked_items": [
+			{"reference": "Jumbo Donut"}
+		]
+	},
+	{
+		"name": "Collar of Magic",
+		"type": "Recipe",
+		"description": "A scripture on how to infuse magic into collars. The cat-loving author thought of it to protect his pet cat. There are cute cat illustration on some pages.",
+		"chapter": 10,
+		"location": "Dragon's Grave - Cave of Origins",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Runed Collar"},
+			{"reference": "Magic Stone Collar"}
+		]
+	},
+	{
+		"name": "God's Necklace",
+		"type": "Recipe",
+		"description": "A legendary scripture given by god to humans, soon after they were born. There, you will find high technology and ingredients never seen before, but the result is simply a pet's collar.",
+		"chapter": 12,
+		"location": "Heart Prison - The Heights",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Brisingamen"}
+		]
+	},
+	{
+		"name": "Standard Mechsword",
+		"type": "Recipe",
+		"description": "A scripture on how to make a common mechsword. Even an amateur can make one easily, but when a professional does it, a sharper, higher performance standard mechsword can be made.",
+		"chapter": 4,
+		"location": "Mana Ruins - Outskirts",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Pyre Blade"},
+			{"reference": "Pyre Blade II"}
+		]
+	},
+	{
+		"name": "Epigonic Mechsword",
+		"type": "Recipe",
+		"description": "Methods on how to make a mechsword that is popular among a certain group of enthusiasts. It has good performance and is pretty easy to make, but the fanatics withheld the knowledge of the public.",
+		"chapter": 5,
+		"location": "Student Store",
+		"price": 500,
+		"unlocked_items": [
+			{"reference": "Machine Cradle"}
+		]
+	},
+	{
+		"name": "Modified Mechsword",
+		"type": "Recipe",
+		"description": "A book on how to fix up a mechsword. The master of mechsword thought of when he was young. Its performance is high grade, but because of its crazy fix-up, it is hard to use even after making one.",
+		"chapter": 7,
+		"location": "Student Store",
+		"price": 700,
+		"unlocked_items": [
+			{"reference": "Alvero"},
+			{"reference": "Sharkgill Sword"}
+		]
+	},
+	{
+		"name": "Enhanced Mechsword",
+		"type": "Recipe",
+		"description": "The plans to a new model mechsword that was released last year. It was supposed to be a company secret, but someone leaked it out to the entire world. It increased about 80% in performance.",
+		"chapter": 10,
+		"location": "Dragon's Grave - Cave of Origins",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Progius"}
+		]
+	},
+	{
+		"name": "Motorized Mechsword",
+		"type": "Recipe",
+		"description": "How to fix up a mechsword by adding a vibrating function. Because it can cut anything so much easier, people continue to debate its legality.",
+		"chapter": 10,
+		"location": "Defeat the Dualblade Emperor during Job Request",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Quartz Slicer"}
+		]
+	},
+	{
+		"name": "Master Mechsword",
+		"type": "Recipe",
+		"description": "The phantom plans that the founder of mechswords wrote before he passed away. Because of its perfection, it is said that none will create a mechsword better than this from another century.",
+		"chapter": 12,
+		"location": "Heart Prison - The Heights",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Deus Ex Machina"}
+		]
+	},
+	{
+		"name": "Game Card",
+		"type": "Recipe",
+		"description": "A scripture that mentions how to attach simple magic to normal game cards. It is said that the gamblers thought of it to protect themselves when too much money was on the line.",
+		"chapter": 4,
+		"location": "Mana Ruins - Outskirts",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Astral Card"},
+			{"reference": "Itsa Card"}
+		]
+	},
+	{
+		"name": "Ritual Charm",
+		"type": "Recipe",
+		"description": "How to create a charm for monks who go through dangerous daily training. Monks will never let go of these charms, and it also deepens their faith as well.",
+		"chapter": 5,
+		"location": "Dragon's Grave - Bone Grove",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Flonne's Charm"}
+		]
+	},
+	{
+		"name": "Bonus Card",
+		"type": "Recipe",
+		"description": "The method of making a card, thought by the fanatics who wanted to bring back the bonus card attached to snacks. The cards may be duplicates, but you can feel the passion and the nostalgie within.",
+		"chapter": 6,
+		"location": "Defeat the Puni Brother Gang during Job Request",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Bonus Card"}
+		]
+	},
+	{
+		"name": "Magic Card",
+		"type": "Recipe",
+		"description": "A scripture with methods on how to attach strong magic to cards. It is said that a traveling fortune teller made it after predicting his own danger, but the truth and details are unknown.",
+		"chapter": 7,
+		"location": "Wind's Corridor - Abyss",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Trauer Tarot"}
+		]
+	},
+	{
+		"name": "Razor Card",
+		"type": "Recipe",
+		"description": "A dangerous script that had been banned from minors until last year. It mentions a detailed method on how to insert razors into game cards, making a dangerous weapons for sore losers.",
+		"chapter": 8,
+		"location": "Student Store",
+		"price": 800,
+		"unlocked_items": [
+			{"reference": "Solingen"},
+			{"reference": "Wild Card"}
+		]
+	},
+	{
+		"name": "Magic Act",
+		"type": "Recipe",
+		"description": "Long ago, there was a king who made this world into a paradise using devils. This recipe is a few pages of his diary. It mentions how to make the strong talismans he used to control devils.",
+		"chapter": 12,
+		"location": "Heart Prison - Bottom Center",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Type Solomon"}
+		]
+	},
+	{
+		"name": "Lovely Bag",
+		"type": "Recipe",
+		"description": "How to make a bag for girls. Comes with an easy explanation so that beginners can make it, too. The author believes no matter how expensive a bag may be, none can beat the one you make yourself.",
+		"chapter": 1,
+		"location": "Wind's Corridor - Mist",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Favorite Bag"}
+		]
+	},
+	{
+		"name": "Luxure Purse",
+		"type": "Recipe",
+		"description": "How to make a bag using slightly expensive ingredients. The method of making it is no different from a normal bag. Sometimes, it is cheaper to buy it at a shop than make it yourself.",
+		"chapter": 2,
+		"location": "Infirmary",
+		"price": 150,
+		"unlocked_items": [
+			{"reference": "Brand Name Bag"},
+			{"reference": "Fake Brand Bag"}
+		]
+	},
+	{
+		"name": "Net Basket",
+		"type": "Recipe",
+		"description": "How to make a basket, using plants. The looks aren't as great, but it is a very durable basket. It may be convenient to know if you're on a trip and you need an extra bag.",
+		"chapter": 5,
+		"location": "Dragon's Grave - Bone Grove",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Alchemist's Basket"},
+			{"reference": "Eco-Bag"}
+		]
+	},
+	{
+		"name": "Alchemy Pack",
+		"type": "Recipe",
+		"description": "How to make a bag for alchemists who carry around dangerous chemicals. It is common sense for alchemists to make their own bags.",
+		"chapter": 5,
+		"location": "Defeat the Armed Brownie during Job Request",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Alchemic Bag"},
+			{"reference": "Angel's Bag"}
+		]
+	},
+	{
+		"name": "Metallic Pack",
+		"type": "Recipe",
+		"description": "Plans born from the simple thought of needing a durable bag. You think you're making a bag but rather than sewing techniques, this one requries smithing skills.",
+		"chapter": 8,
+		"location": "Street Vendor",
+		"price": 800,
+		"unlocked_items": [
+			{"reference": "Plate Bag"}
+		]
+	},
+	{
+		"name": "High Capacity Pack",
+		"type": "Recipe",
+		"description": "How to make a dream bag that will never fill up. In order to make this bag that ignores scientific laws, you need quite a high level of alchemy knowledge.",
+		"chapter": 12,
+		"location": "Heart Prison - The Heights",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Dimension Bag"}
+		]
+	},
+	{
+		"name": "Hammeryhammer",
+		"type": "Recipe",
+		"description": "How to make a basic hammer. It may look simple, but you must think about power, handling, balance, ingredient affinity, etc., if you wish to make a good hammer.",
+		"chapter": 1,
+		"location": "Wind's Corridor - Mist",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Crack Hammer"},
+			{"reference": "Crusher Twins"}
+		]
+	},
+	{
+		"name": "Wooden Beatstick",
+		"type": "Recipe",
+		"description": "A book on how to make a blunt weapon by carving out a large plant. The writer is unknown, but it is assumed to be part of a survival handbook from the previous kingdom era.",
+		"chapter": 2,
+		"location": "The Heights",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Wooden Club"},
+			{"reference": "Brownie Hammer"},
+			{"reference": "Yula Hammer"}
+		]
+	},
+	{
+		"name": "Charge Hammer",
+		"type": "Recipe",
+		"description": "How to attach a mechanical device to a hammer. It requires some knowledge of machines to make. Unlike mechswords, mech-hammers are not commonly known, so this text is quite valuable.",
+		"chapter": 5,
+		"location": "Defeat the Fairy Trio during Job Request",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Sledgehammer"},
+			{"reference": "Grand Sledgehammer"}
+		]
+	},
+	{
+		"name": "Hammeryhammer Plus",
+		"type": "Recipe",
+		"description": "The hammer industry's next design, bringing on a new era. If you follow exactly with the planned thoughts, you can make a hammer that is far beyond capabilities of current ones.",
+		"chapter": 8,
+		"location": "Student Store",
+		"price": 800,
+		"unlocked_items": [
+			{"reference": "Vorey Splitter"}
+		]
+	},
+	{
+		"name": "God's Hammer",
+		"type": "Recipe",
+		"description": "How to make a weapon known in myths. It is unknown whether god wrote it, or a person who admired god wrote it. The only sure thing is that whoever makes this will attain powers equal to god.",
+		"chapter": 12,
+		"location": "Heart Prison - The Heights",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Thor Hammer"}
+		]
+	},
+	{
+		"name": "Stuffed Animal",
+		"type": "Recipe",
+		"description": "A book on how to make a different sort of stuffed animal. Most of it is how to make weapon decorations for the doll. If you buy this book expecting to make a normal doll, you will be disappointed.",
+		"chapter": 3,
+		"location": "Resource Center",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Doll's Claw"},
+			{"reference": "Plastic Claw"}
+		]
+	},
+	{
+		"name": "Metallic Claw",
+		"type": "Recipe",
+		"description": "How to make a claw out of metal. The completed claw is very small and can barely fit on a stuffed animal. The author of this book must have been a stuffed animal fanatic.",
+		"chapter": 6,
+		"location": "Student Store",
+		"price": 600,
+		"unlocked_items": [
+			{"reference": "Steel Claw"},
+			{"reference": "Alloy Claw"},
+			{"reference": "Super Alloy Claw"}
+		]
+	},
+	{
+		"name": "Beast's Claw",
+		"type": "Recipe",
+		"description": "How to create evil claws with a mechanic spinner. People decided not to announce this since it's an unsafe world we live in. It is passed on secretly between people in the underground society.",
+		"chapter": 7,
+		"location": "Wind's Corridor - Abyss",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Bear Claw"},
+			{"reference": "Electric Claw"}
+		]
+	},
+	{
+		"name": "Claw Super Weapon",
+		"type": "Recipe",
+		"description": "A book taht teaches you how to make something like claws. The blood red letters on the yellow leather pages cause people to feel uneasy.",
+		"chapter": 12,
+		"location": "Heart Prison - Bottom Center",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Hellclaw"}
+		]
+	},
+	{
+		"name": "Favorite Sword",
+		"type": "Recipe",
+		"description": "A scroll on how to make a weapon of the east, called a katana. The top to bottom handwriting makes it difficult to read. Normally, training is required to make a katana, but it's not hard with alchemy.",
+		"chapter": 5,
+		"location": "Student Store",
+		"price": 500,
+		"unlocked_items": [
+			{"reference": "Dimentia Blade"},
+			{"reference": "Muramasa"}
+		]
+	},
+	{
+		"name": "Foreign Blade",
+		"type": "Recipe",
+		"description": "A scroll that teaches you how to make a professional katana. It is a lengthy article talking about ingredients, the correct way to cure metal, and how to hammer your soul into the katana.",
+		"chapter": 7,
+		"location": "Wind's Corridor - Abyss",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Blue Dragon"},
+			{"reference": "Ben Breaker"}
+		]
+	},
+	{
+		"name": "Alchemic Sword",
+		"type": "Recipe",
+		"description": "How to make a sword known to those who are part of the alchemy world. The heart of the wielder can change it into a holy sword or evil sword. None are allowed to make this blade without determination.",
+		"chapter": 8,
+		"location": "Defeat the Glass Dragon during Job Request",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Azoth Z"}
+		]
+	},
+	{
+		"name": "A Master's Swing",
+		"type": "Recipe",
+		"description": "How to make a rare blade whose existence was doubted because its appears only in legend. Even after this recipe was found, none have been able to recreate the swrod, so it remains legendary.",
+		"chapter": 12,
+		"location": "Heart Prison - Bottom Center",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Pellucian"}
+		]
+	},
+	{
+		"name": "Sphere Spaceship",
+		"type": "Recipe",
+		"description": "An ancient text on how to make a round, metallic pot. It looks like any old book at first, but it is made of unknown substances. Who wrote it, and when remains an eternal mystery.",
+		"chapter": 6,
+		"location": "Mana Ruins - Interior Heights, Resource Center Shop",
+		"price": 3500,
+		"unlocked_items": [
+			{"reference": "Commercial Pot"},
+			{"reference": "Proto Pot"}
+		]
+	},
+	{
+		"name": "Neo Spaceship",
+		"type": "Recipe",
+		"description": "A diary of a scientist who researched a spherical spaceship. It describes how to make a strong pot. Also note that he disappeared into a mysterious light after he finished writing this entry.",
+		"chapter": 9,
+		"location": "God's Scar",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Mark II"}
+		]
+	},
+	{
+		"name": "Object from Space",
+		"type": "Recipe",
+		"description": "A super ancient civilization recipe discovered in a layer of earth 400 million years old. It looks like a simple round pot, but we assume it has technology unknown to us humans.",
+		"chapter": 10,
+		"location": "Dragon's Grave - Cave of Origins",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Pot Station"}
+		]
+	},
+	{
+		"name": "Royal Spaceship",
+		"type": "Recipe",
+		"description": "A few years ago, an unidentified flying object was seen multiple times in the sky. A single strain of light came down, and this book was all taht remained. What was it trying to tell us...?",
+		"chapter": 12,
+		"location": "Heart Prison - Heaven's Road",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Crown Pot"}
+		]
+	},
+	{
+		"name": "Light Armor",
+		"type": "Recipe",
+		"description": "A book on how to make simple armor using animal hide as the basic ingredient.",
+		"chapter": 3,
+		"location": "Student Store",
+		"price": 250,
+		"unlocked_items": [
+			{"reference": "Leather Cuirass"}
+		]
+	},
+	{
+		"name": "Platemail",
+		"type": "Recipe",
+		"description": "A book on how to make armor out of metal plates. It should be fresh in everyone's memory how the publication of this book changed the mainstream armor industry from leather to metal armor.",
+		"chapter": 4,
+		"location": "Mana Ruins - Outskirts",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Iron Plate"},
+			{"reference": "Bronze Plate"},
+			{"reference": "Baked Plate"},
+			{"reference": "Armored Crab"}
+		]
+	},
+	{
+		"name": "Royal Metal Armor",
+		"type": "Recipe",
+		"description": "How to make armor using precious metal. At first, only the nobility used it as decorative armor, but after discovering that the metal has magic resistance, it became used in actual combat more often.",
+		"chapter": 9,
+		"location": "Mana Ruins - Clock Tower",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Silver Cuirass"},
+			{"reference": "Kaiserfish Mail"},
+			{"reference": "Gold Mail"}
+		]
+	},
+	{
+		"name": "Standard Uniform-M",
+		"type": "Recipe",
+		"description": "How to make your school uniform. You just wear it for three years, so just in case you tear it, use this book to patch it up. Naughty students use this book to make modified uniforms, too.",
+		"chapter": 1,
+		"location": "Student Store",
+		"price": 100,
+		"unlocked_items": [
+			{"reference": "Male Uniform"},
+			{"reference": "Altered Uniform M"}
+		]
+	},
+	{
+		"name": "Oldschool Uniform",
+		"type": "Recipe",
+		"description": "How to make uniforms worn by the guys who fight to rule the school. Some teachers are against selling this book because of educational problems it may cause.",
+		"chapter": 4,
+		"location": "Street Vendor",
+		"price": 350,
+		"unlocked_items": [
+			{"reference": "Japanesque Uniform"},
+			{"reference": "White Japanesque"},
+			{"reference": "Gangster"}
+		]
+	},
+	{
+		"name": "Royal Clothes",
+		"type": "Recipe",
+		"description":
+		"chapter": 
+		"location": 
+		"price": 
+		"unlocked_items": [
+			{"reference": },
+			{"reference": },
+			{"reference": },
+			{"reference": }
+		]
+	},
+	{
 		"name": "Flour",
 		"type": "Synthesis Item",
 		"description": "A pure white powder from crushing some grain. The one necessity in most cooking.", 
@@ -9065,7 +10329,7 @@
 				"alternatives": [
 					{"reference": "Tuft"},
 					{"reference": "Knot"},
-					{"reference": "Puni Gummy"},
+					{"reference": "Puni Gummy"}
 				]
 			},
 			{
@@ -10411,7 +11675,5 @@
 			"SPD": 0
 		},
 		"gathering spot":"Secret Dungeon (Beat the game first)"
-	},
-
-	
+	}
 ]
