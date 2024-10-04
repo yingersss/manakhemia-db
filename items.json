@@ -2372,15 +2372,514 @@
 	{
 		"name": "Royal Clothes",
 		"type": "Recipe",
-		"description":
-		"chapter": 
-		"location": 
-		"price": 
+		"description": "A book on how to make clothes worn by the noble and  serene. The ingredients are all hard to obtain by common people. As you read the book, you will begin to feel anger towards the wealthy.",
+		"chapter": 11, 
+		"location": "Student Store",
+		"price": 2500,
 		"unlocked_items": [
-			{"reference": },
-			{"reference": },
-			{"reference": },
-			{"reference": }
+			{"reference": "King Style"}
+		]
+	},
+	{
+		"name": "Standard Uniform-F",
+		"type": "Recipe",
+		"description": "How to make a girl's uniform. At one time, there was an incident where a man opened a shady business with this recipe. Ever since, only students are allowed to have this recipe.",
+		"chapter": 1, 
+		"location": "Student Store",
+		"price": 100,
+		"unlocked_items": [
+			{"reference": "Female Uniform" },
+			{"reference": "Altered Uniform F"},
+			{"reference": "Long Uniform"}
+		]
+	},
+	{
+		"name": "Retro Uniform",
+		"type": "Recipe",
+		"description": "A book on how to make ladies' uniforms from the good old days. IT was once a best selling book, but in recent days, only those who are determined to oppose change would make one for themselves.",
+		"chapter": 4,
+		"location": "Street Vendor",
+		"price": 350,
+		"unlocked_items": [
+			{"reference": "Bad Girl"},
+			{"reference": "Maiden"}
+		]
+	},
+	{
+		"name": "Elegant Clothes",
+		"type": "Recipe",
+		"description": "A book on how to make gorgeous clothing for women. It is designed with mobility and magical skin protection in mind but it has a bad reputation among the modest women of this world.",
+		"chapter": 7,
+		"location": "Wind's Corridor - Abyss",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Heaven's Silk"}
+		]
+	},
+	{
+		"name": "Cat Suit",
+		"type": "Recipe",
+		"description": "A book on how to make an alluring outfit to look like a cat. It is acknowledged by artists for complete expression of the wild beauty in cats. But for some reason, men buy the book more often.",
+		"chapter": 5,
+		"location": "Dragon's Grave - Heaven's Road",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Black Cat"},
+			{"reference": "Kitty Ear Maid"}
+		]
+	},
+	{
+		"name": "Robe",
+		"type": "Recipe",
+		"description": "A script on how to make the standard outfit of alchemists. After all, it is standard, so it can't be helped that the resulting product may look shabby.",
+		"chapter": 3,
+		"location": "Resource Center",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Arabesque Robe"},
+			{"reference": "Raven Robe"},
+			{"reference": "La Matador"},
+			{"reference": "Chocolate Robe"}
+		]
+	},
+	{
+		"name": "Magic Garments",
+		"type": "Recipe",
+		"description": "A scripture on how to make a special outfit using magic blessings. This is a must have for alchemists who don't like heavy armor. It is said that the author was a famous alchemist.",
+		"chapter": 8,
+		"location": "Street Vendor",
+		"price": 800,
+		"unlocked_items": [
+			{"reference": "Dragonscale Garb"},
+			{"reference": "Aurora Curtain"},
+			{"reference": "Fishscale Garb"}
+		]
+	},
+	{
+		"name": "Heavy Armor",
+		"type": "Recipe",
+		"description": "A scripture on how to make durable, heavy armor. It was published for military blacksmiths, but in recent years, fighter alchemists seem to like to buy this book.",
+		"chapter": 6,
+		"location": "Defeat Tony",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Estevan Guard"},
+			{"reference": "Bone Breastplate"}
+		]
+	},
+	{
+		"name": "Holy Armor",
+		"type": "Recipe",
+		"description": "How to make armor with holy blessings. In addition to high alchemy skill, making one requires benevolence and religious devotion.",
+		"chapter": 11,
+		"location": "Resource Center - Unorganized Zone",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Crown Breastplate"}
+		]
+	},
+	{
+		"name": "Hardened Cloak",
+		"type": "Recipe",
+		"description": "A book recommended for people who aren't satisfied with a normal robe. It notes how to add metal plates to guard against any attack. But it weights a lot, so the elderly should be careful.",
+		"chapter": 4,
+		"location": "Defeat the Giant Golden Pig during Job Request",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Panzer Cloak"},
+			{"reference": "Imperial Cloth"}
+		]
+	},
+	{
+		"name": "Women's Armor",
+		"type": "Recipe",
+		"description": "How to make a durable, lightweight armor for women. There was thought put into the design, and therefore, of the not-so-well-selling armor books, this one became a best seller.",
+		"chapter": 6,
+		"location": "Defeat Renee",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Feathery Flow"},
+			{"reference": "Star Queen"},
+			{"reference": "Angel Cloth"}
+		]
+	},
+	{
+		"name": "Legendary Robe",
+		"type": "Recipe",
+		"description": "How to make the robe of the legendary alchemist. The appearance can be well duplicated, but the exact ingredients are still unknown, so it is slightly inferior to the original.",
+		"chapter": 10,
+		"location": "Student Store",
+		"price": 1500,
+		"unlocked_items": [
+			{"reference": "Alchemy Robe"},
+			{"reference": "Saint's Garb"}
+		]
+	},
+	{
+		"name": "Sexy Outfit",
+		"type": "Recipe",
+		"description": "A text on how to make a very revealing outfit. Many young boys buy this book with blushed faces. It is actually quite difficult to make, but even more difficult to find someone to wear it.",
+		"chapter": 10,
+		"location": "Dragon's Grave - Cave of Origins",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Lucifer's Leotard"}
+		]
+	},
+	{
+		"name": "Dark Battlespirit",
+		"type": "Recipe",
+		"description": "How to create an outfit that releases a dark aura, that is not of human. The recipe exists, as you see, but no one knows how the dark aura occurs, and people still research it.",
+		"chapter": 11,
+		"location": "Resource Center - Unorganized Zone",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Black Veil"}
+		]
+	},
+	{
+		"name": "Man's Mantle",
+		"type": "Recipe",
+		"description": "How to make a man's cape, for men, by men. The entire thing is hand written by brush, and is therefore quite difficult to read.",
+		"chapter": 11,
+		"location": "Resource Center - Unorganized Zone",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Gallant Mantle"}
+		]
+	},
+	{
+		"name": "Grand Robe",
+		"type": "Recipe",
+		"description": "A recipe only select alchemists are allowed to see. To make and wear one yourself is admired by all alchemists, and is a goal for many.",
+		"chapter": 11,
+		"location": "Resource Center - Unorganized Zone",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Grand Alchemist"}
+		]
+	},
+	{
+		"name": "Sensitive Hair",
+		"type": "Recipe",
+		"description": "A research paper on making artificial hair with nerves. A researcher invented this last year, but it is diffiuclt to create with the current technology. Only alchemy can make this happen.",
+		"chapter": 11,
+		"location": "Resource Center - Unorganized Zone",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Biohair Wig"}
+		]
+	},
+	{
+		"name": "Beast Hide",
+		"type": "Recipe",
+		"description": "A scripture on how to combine various ingredients to make a mythical holy beast's leather. It sounds like a silly story, but the completed hide has a glow that makes you wonder.",
+		"chapter": 11,
+		"location": "Resource Center - Unorganized Zone",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Holy Beast Hide"}
+		]
+	},
+	{
+		"name": "Master's Outfit",
+		"type": "Recipe",
+		"description": "A scripture by Soutatsu Kashiwabara, the master of swords and needlework. Not only does it talk about swordsmanship, but also includes the detailed pattern to the outfit he used to wear.",
+		"chapter": 11,
+		"location": "Resource Center - Unorganized Zone",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Knight's Waistcoat"}
+		]
+	},
+	{
+		"name": "Incanter's Garb",
+		"type": "Recipe",
+		"description": "How to make an outfit worn by magicians who crossed the boundaries of alchemy. It is an interesting read about the 2000 year history of black magic, and dark emotions of hatred toward people.",
+		"chapter": 11,
+		"location": "Resource Center - Unorganized Zone",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Robe of Life"}
+		]
+	},
+	{
+		"name": "Liquid Armor",
+		"type": "Recipe",
+		"description": "How to make an ointment that makes your skin smooth. It uses rather expensive items, so only rich people use it.",
+		"chapter": 11,
+		"location": "Resource Center - Unorganized Zone",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Rejuvenator Skin"}
+		]
+	},
+	{
+		"name": "Magic Ring",
+		"type": "Recipe",
+		"description": "An academic text on how to trap magic into a ring. It is possible to trap different kinds of magic depending on the ingredient used. A very intuitive book on how alchemy works.",
+		"chapter": 5,
+		"location": "Defeat the Grandwing Drake",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Flame Ring"},
+			{"reference": "Ice Ring"},
+			{"reference": "Thunder Ring"}
+		]
+	},
+	{
+		"name": "Pot of Flames",
+		"type": "Recipe",
+		"description": "Writing on a researched announcement on how to trap fire into a pot, allowing it to burn forever. Their goal now is to adjust this fire power so that any household can safely use it.",
+		"chapter": 10,
+		"location": "Street Vendor",
+		"price": 1500,
+		"unlocked_items": [
+			{"reference": "Fires of Hell"}
+		]
+	},
+	{
+		"name": "Freezing Device",
+		"type": "Recipe",
+		"description": "How to make a special device that can lower the temperature of an object. It is currently made with technology and expensive ingredients but we all hope a cheaper version will be invented soon.",
+		"chapter": 10,
+		"location": "Street Vendor",
+		"price": 1500,
+		"unlocked_items": [
+			{"reference": "Diamond Dust"}
+		]
+	},
+	{
+		"name": "Electric Machine",
+		"type": "Recipe",
+		"description": "How to make a device that purposely creates lightning. The current plans do not allow control of the output, making it a dangerous item. No one but you can take responsibility for items you make.",
+		"chapter": 10,
+		"location": "Street Vendor",
+		"price": 1500,
+		"unlocked_items": [
+			{"reference": "Electric Elect"}
+		]
+	},
+	{
+		"name": "Gloves",
+		"type": "Recipe",
+		"description": "A wonderful book on how to make various kinds of gloves and mittens. Read this book to learn how to make cute mittens for children, to gauntlets that protect a soldier's rough hands.",
+		"chapter": 2,
+		"location": "Street Vendor",
+		"price": 200,
+		"unlocked_items": [
+			{"reference": "Punny Paw Gloves"},
+			{"reference": "Thorn Gauntlet"},
+			{"reference": "Gloves of Artorius"},
+			{"reference": "Scale Gauntlet"}
+		]
+	},
+	{
+		"name": "A Small Wand",
+		"type": "Recipe",
+		"description": "A small book sold last year by a doll maker that notes how to make canes for dolls. Not only can you make a small cane, but it teaches you how to infuse magic into it.",
+		"chapter": 3,
+		"location": "Resource Center",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Asclepius"}
+		]
+	},
+	{
+		"name": "Stone of Sealing",
+		"type": "Recipe",
+		"description": "A textbook on how to seal magic within a natural stone. Because infusing magic into an object is an important skill in alchemy, this book is highly recommended by the school.",
+		"chapter": 7,
+		"location": "Wind's Corridor - Abyss",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Stone of Alectoria"}
+		]
+	},
+	{
+		"name": "Alchemy Symbol",
+		"type": "Recipe",
+		"description": "A book with an article on making an alchemy symbol. How to replicate its details, what magic applies to the symbol, etc., has been noted by the modelers who continue to add details.",
+		"chapter": 8,
+		"location": "Student Store",
+		"price": 800,
+		"unlocked_items": [
+			{"reference": "Symbol of Uroborus"}
+		]
+	},
+	{
+		"name": "Doll",
+		"type": "Recipe",
+		"description": "A book on how to make a hand-made doll. All girls buy it, but because of the author's taste, no matter how hard you try, it never turns out cute. Many give unstatisfied remarks about this book.",
+		"chapter": 2,
+		"location": "The Heights",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Straw Doll"},
+			{"reference": "Vasilissa's Doll"}
+		]
+	},
+	{
+		"name": "Wing of an Angel",
+		"type": "Recipe",
+		"description": "A book on how to make an accessory that looks like angel wings. It has been selling like crazy due to the angel trend from last year, and is actually hard to buy right now.",
+		"chapter": 3,
+		"location": "Resource Center",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Angel Wing"},
+			{"reference": "Fallen Wing"},
+			{"reference": "Archangel Wings"}
+		]
+	},
+	{
+		"name": "Power Girdle",
+		"type": "Recipe",
+		"description": "A scripture on a traditional method of infusing magic into a girdle. This book is full of knowledge on how to protect you hip, and what part of your hip is used when you move.",
+		"chapter": 9,
+		"location": "Mana Ruins - Clock Tower",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Megingjorz"}
+		]
+	},
+	{
+		"name": "Green Tablet",
+		"type": "Recipe",
+		"description": "How to make a green tablet that appears in myths. In one story, this tablet flew in from the universe and gave humans knowledge and because of it, we make recipes like this to follow suit.",
+		"chapter": 9,
+		"location": "Defeat the Zweis Monde",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Jade Tablet"}
+		]
+	},
+	{
+		"name": "Hard Shield",
+		"type": "Recipe",
+		"description": "An anthology on how to make durable shields. The shield market belonged to blacksmiths, but with the publication of this book, half the market was taken by alchemists. This caused much hatred.",
+		"chapter": 8,
+		"location": "Old Schoolhouse - Closed Area",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Shield of Ajax"},
+			{"reference": "Mirror of Gargol"}
+		]
+	},
+	{
+		"name": "Fishbot",
+		"type": "Recipe",
+		"description": "A book on how to make a robot here that the current 40-50 year old men used to watch as a kid. The book is currently out of print, so you may find some of them at premium prices.",
+		"chapter": 8,
+		"location": "Cafeteria",
+		"price": 800,
+		"unlocked_items": [
+			{"reference": "Kaiser: Aqua Hero"}
+		]
+	},
+	{
+		"name": "The Gem of Alchemy",
+		"type": "Recipe",
+		"description": "A book on how to create aroma material. This gem was once called the product of a miraccle, but thanks to centuries of alchemists' research, anyone can learn how to make one today.",
+		"chapter": 11,
+		"location": "Defeat Isolde",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Aroma Material"}
+		]
+	},
+	{
+		"name": "Wallet",
+		"type": "Recipe",
+		"description": "A book on how to make a pouch that holds the second most important thing in life, money. In simpler terms, how to make a wallet. The latter half is a lecture on techniques to protect one's wallet.",
+		"chapter": 5,
+		"location": "Millennium Tree",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Toad Mouth"}
+		]
+	},
+	{
+		"name": "Handprint",
+		"type": "Recipe",
+		"description": "A list of details on the hand sizes of a charismatic philosopher. Every single older lady who love philosophers are bound to have one.",
+		"chapter": 9,
+		"location": "Mana Ruins - Clock Tower",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Philosopher's Hand"}
+		]
+	},
+	{
+		"name": "Glasses",
+		"type": "Recipe",
+		"description": "A book on how to make glasses. If you're a glasses lover, this is a must-have. The structure is very simple but to make lenses that match youreyesight requires very high skill.",
+		"chapter": 3,
+		"location": "Resource Center Shop",
+		"price": 3500,
+		"unlocked_items": [
+			{"reference": "Glasses of Death"}
+		]
+	},
+	{
+		"name": "Head Gear",
+		"type": "Recipe",
+		"description": "A book on how to make armor to protect the head. Recently, youngsters make their own unique head gear and wear it as a fashion statement in this trend.",
+		"chapter": 4,
+		"location": "Infirmary",
+		"price": 350,
+		"unlocked_items": [
+			{"reference": "Feather Charm"},
+			{"reference": "Kitty Ears"},
+			{"reference": "Bunny Ears"}
+		]
+	},
+	{
+		"name": "Fancy Hat",
+		"type": "Recipe",
+		"description": "A book on how to make a different kind of head protector. It features cute armor hats that look like fruits. This is just a rumor, but the girl at the cafeteria loves this book.",
+		"chapter": 3,
+		"location": "Defeat the Yulaurnie during Job Request",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Tangerine Hat"},
+			{"reference": "Lando Cap"},
+			{"reference": "Yubana Cover"},
+			{"reference": "Afrotic Wig"}
+		]
+	},
+	{
+		"name": "Boots",
+		"type": "Recipe",
+		"description": "A book on how to fix up shoes. The author boasts that you can even make shoes that will let you walk across the sky, but it is unknown whether such an effect is possible.",
+		"chapter": 6,
+		"location": "Mana Ruins - Interior Heights",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Winged Boots"},
+			{"reference": "Flying Fish Boots"}
+		]
+	},
+	{
+		"name": "Mystery Medicine",
+		"type": "Recipe",
+		"description": "An original recipe thought up by Jess using a Love Potion as the base. It is a recipe full of worries, whether it actually works, whether it harms the person it is used on...",
+		"chapter": 3,
+		"location": "Nikki - Second Story Event",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Loveless Potion"}
+		]
+	},
+	{
+		"name": "Synthesizer's Text",
+		"type": "Recipe",
+		"description": "A book on how to make a flask, used by all and every alchemist there is. If the flask is distorted, the items you make will all be distorted, so take special care upon creating a flask.",
+		"chapter": 9,
+		"location": "Resource Center during Assignment",
+		"price": 0,
+		"unlocked_items": [
+			{"reference": "Flask of Galileo"}
 		]
 	},
 	{
@@ -9092,7 +9591,7 @@
 		"idea_trigger": "None"
 	},
 	{
-		"name": "Imperial Cloak",
+		"name": "Imperial Cloth",
 		"type": "Armor",
 		"equippable": "Roxis",
 		"description": "A decorated armored cloak for royalty.",
@@ -9295,7 +9794,7 @@
 			{"reference": "Altena Ingot"},
 			{
 				"alternatives": [
-					{"reference": "Imperial Cloak"},
+					{"reference": "Imperial Cloth"},
 					{"reference": "Alchemy Robe"}
 				]
 			},
