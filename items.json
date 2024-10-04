@@ -3031,6 +3031,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/flour.png",
 		"original_recipe": {"reference": "Powdering Powder"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -3056,6 +3057,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/salt.png",
 		"original_recipe": {"reference": "Powdering Powder"},
 		"character": "Nikki",
 		"idea_trigger": "After making Flour"
@@ -3095,6 +3097,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/black_powder.png",
 		"original_recipe": {"reference": "Powdering Powder"},
 		"character": "Jess",
 		"idea_trigger": "After making Salt"
@@ -3122,6 +3125,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/polish_powder.png",
 		"original_recipe": {"reference": "Powdering Powder"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Legien Steel, Cyprus Copper, or Preuve Lead"
@@ -3148,6 +3152,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/shiny_powder.png",
 		"original_recipe": {"reference": "Miraculous Powder"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -3188,6 +3193,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/magical_clay.png",
 		"original_recipe": {"reference": "How to Knead Dirt"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -3229,6 +3235,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/blood_clay.png",
 		"original_recipe": {"reference": "How to Knead Dirt"},
 		"character": "Roxis",
 		"idea_trigger": "After making Magical Clay"
@@ -3259,6 +3266,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/black_steel.png",
 		"original_recipe": {"reference": "Alchemic Steel"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -3288,6 +3296,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/red_steel.png",
 		"original_recipe": {"reference": "Alchemic Steel"},
 		"character": "Flay",
 		"idea_trigger": "After making Black Steel"
@@ -3318,6 +3327,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/blue_steel.png",
 		"original_recipe": {"reference": "Alchemic Steel"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Preuve Lead"
@@ -3338,6 +3348,7 @@
 			},
 			{"reference": "Liquid Metal"}
 		],
+		"image": "images/synthesis/white_steel.png",
 		"original_recipe": {"reference": "Alchemic Steel"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Elemia Silver"
@@ -3364,6 +3375,7 @@
 			},
 			{"reference": "Liquid Metal"}
 		],
+		"image": "images/synthesis/altena_ingot.png",
 		"original_recipe": {"reference": "Holy Metal"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -3379,6 +3391,7 @@
 			{"reference": "Blood Clay"},
 			{"reference": "Dragon Tongue"}
 		],
+		"image": "images/synthesis/gold_bullion.png",
 		"original_recipe": {"reference": "Ingot"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -3411,6 +3424,7 @@
 			},
 			{"reference": "Carbon Boulder"}
 		],
+		"image": "images/synthesis/black_liquid.png",
 		"original_recipe": {"reference": "God's Drink"},
 		"character": "Pamela",
 		"idea_trigger": "After making Nectar"
@@ -3450,6 +3464,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/nicro_cloth.png",
 		"original_recipe": {"reference": "Generic Cloth"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -3498,6 +3513,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/pleather_cloth.png",
 		"original_recipe": {"reference": "Funfur Cloth"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -3536,6 +3552,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/silky_cloth.png",
 		"original_recipe": {"reference": "Noble Fabric"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -3583,6 +3600,7 @@
 			}
 
 		],
+		"image": "images/synthesis/formell_fabric.png",
 		"original_recipe": {"reference": "Legendary Fabric"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -3615,6 +3633,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/goat_cheese.png",
 		"original_recipe": {"reference": "Preserved Food"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -3635,6 +3654,7 @@
 			{"reference": "Preservative"},
 			{"reference": "Salt"}
 		],
+		"image": "images/synthesis/bacon.png",
 		"original_recipe": {"reference": "Preserved Food"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Wild Meat, Rotten Meat, or Golden Meat"
@@ -3670,6 +3690,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/smoked_fish.png",
 		"original_recipe": {"reference": "Preserved Food"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Masou, Bonita, Joker Fish, Chinook, or Trout"
@@ -3706,6 +3727,7 @@
 			{"reference": "Pendelook"}
 
 		],
+		"image": "images/synthesis/liquid_metal.png",
 		"original_recipe": {"reference": "Liquid Metal"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -3757,6 +3779,7 @@
 			}
 
 		],
+		"image": "images/synthesis/preservative.png",
 		"original_recipe": {"reference": "Curing Medicine"},
 		"character": "Jess",
 		"idea_trigger": "After making Cure Jar"
@@ -3794,6 +3817,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/dietary_fiber.png",
 		"original_recipe": {"reference": "Strong Fiber"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -3826,6 +3850,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/silver_thread.png",
 		"original_recipe": {"reference": "Strong Fiber"},
 		"character": "Jess",
 		"idea_trigger": "After making Dietary Fiber"
@@ -3858,6 +3883,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/clear_fiber.png",
 		"original_recipe": {"reference": "Magical String"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -3895,8 +3921,8 @@
 					{"reference": "Dietary Fiber"}
 				]
 			}
-
 		],
+		"image": "images/synthesis/plosion.png",
 		"original_recipe": {"reference": "Explosive Powder"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -3911,6 +3937,7 @@
 			{"reference": "Little Gear"},
 			{"reference": "Black Liquid"}
 		],
+		"image": "images/synthesis/le_merou_cog.png",
 		"original_recipe": {"reference": "Mechanical Box"},
 		"character": "Flay",
 		"idea_trigger": "After making Gearbox"
@@ -3945,6 +3972,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/eternal_turnkey.png",
 		"original_recipe": {"reference": "Spring Decor"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -3990,6 +4018,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/zettel.png",
 		"original_recipe": {"reference": "Normal Paper"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4020,6 +4049,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/holy_crest_paper.png",
 		"original_recipe": {"reference": "Expensive Paper"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4051,6 +4081,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/apollos_diapason.png",
 		"original_recipe": {"reference": "Vibrating Metal"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4075,6 +4106,7 @@
 			},
 			{"reference": "Gravity Stone"}
 		],
+		"image": "images/synthesis/fortune_ring.png",
 		"original_recipe": {"reference": "Mystery Ring"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4106,6 +4138,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/galilean_scope.png",
 		"original_recipe": {"reference": "Thermometer"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4133,6 +4166,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/pentagle.png",
 		"original_recipe": {"reference": "Shiny Stone"},
 		"character": "Roxis",
 		"idea_trigger": "After making Brilliant Stone"
@@ -4160,6 +4194,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/brilliant_stone.png",
 		"original_recipe": {"reference": "Shiny Stone"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4188,6 +4223,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/gearbox.png",
 		"original_recipe": {"reference": "Mechanical Box"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4212,6 +4248,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/canone_crystal.png",
 		"original_recipe": {"reference": "Spirit Crystal"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4237,6 +4274,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/glacier_crystal.png",
 		"original_recipe": {"reference": "Spirit Crystal"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Glacier Stone"
@@ -4263,6 +4301,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/thunder_crystal.png",
 		"original_recipe": {"reference": "Spirit Crystal"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Thunder Stone"
@@ -4288,6 +4327,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/auto_igniter.png",
 		"original_recipe": {"reference": "Igniter Device"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4313,6 +4353,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/coolster.png",
 		"original_recipe": {"reference": "Cooler"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4338,6 +4379,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/voidspark_pipe.png",
 		"original_recipe": {"reference": "Vacuum Pipe"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4353,6 +4395,7 @@
 			{"reference": "Apollo's Diapason"},
 			{"reference": "Le Merou Cog"}
 		],
+		"image": "images/synthesis/metronome.png",
 		"original_recipe": {"reference": "Rhythmical Machine"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4379,6 +4422,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/carabine_harp.png",
 		"original_recipe": {"reference": "Musical Strings"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4419,6 +4463,7 @@
 			}
 
 		],
+		"image": "images/synthesis/wood_tympani.png",
 		"original_recipe": {"reference": "Swinging Drum"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4434,6 +4479,7 @@
 			{"reference": "Velvet Horn"},
 			{"reference": "Metronome"}
 		],
+		"image": "images/synthesis/organne_la_firste.png",
 		"original_recipe": {"reference": "Giant Music Device"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4465,8 +4511,8 @@
 					{"reference": "Fortune Ring"}
 				]
 			}
-
 		],
+		"image": "images/synthesis/velvet_horn.png",
 		"original_recipe": {"reference": "Vortex Trumpet"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4500,6 +4546,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/alchemic_cymbal.png",
 		"original_recipe": {"reference": "Echoing Cymbal"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4545,6 +4592,7 @@
 				]
 			}
 		],
+		"image": "images/synthesis/loveless_potion.png",
 		"original_recipe": {"reference": "Mystery Medicine"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4585,6 +4633,7 @@
 				]
 			}
 		],
+		"image": "images/usable/heal_jar.png",
 		"original_recipe": {"reference": "Healing Medicine"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4629,6 +4678,7 @@
 				]
 			}
 		],
+		"image": "images/usable/x_heal.png",
 		"original_recipe": {"reference": "Healing Medicine"},
 		"character": "Roxis",
 		"idea_trigger": "After making Heal Jar"
@@ -4670,6 +4720,7 @@
 			}
 
 		],
+		"image": "images/usable/heal_all.png",
 		"original_recipe": {"reference": "Spreading Medicine"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4715,6 +4766,7 @@
 				]
 			}
 		],
+		"image": "images/usable/cure_jar.png",
 		"original_recipe": {"reference": "Curing Medicine"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4752,6 +4804,7 @@
 			},
 			{"reference": "Salt"}
 		],
+		"image": "images/usable/nectar.png",
 		"original_recipe": {"reference": "God's Drink"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4794,6 +4847,7 @@
 			}
 
 		],
+		"image": "images/usable/super_nectar.png",
 		"original_recipe": {"reference": "Super Juice"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4816,6 +4870,7 @@
 				]
 			}
 		],
+		"image": "images/usable/shining_grail.png",
 		"original_recipe": {"reference": "A Holy Cup"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4858,6 +4913,7 @@
 				]
 			}
 		],
+		"image": "images/usable/amber_soup.png",
 		"original_recipe": {"reference": "Mental Stabilizer"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4891,6 +4947,7 @@
 			},
 					{"reference": "Fortune Ring"}
 		],
+		"image": "images/usable/tranquilizer.png",
 		"original_recipe": {"reference": "Mental Stabilizer"},
 		"character": "Jess",
 		"idea_trigger": "After making Amber Soup"
@@ -4909,6 +4966,7 @@
 			{"reference": "Dunkelhite"},
 			{"reference": "Shinke Onion"}
 		],
+		"image": "images/usable/elixir.png",
 		"original_recipe": {"reference": "Ultimate Remedy"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4938,6 +4996,7 @@
 			},
 			{"reference": "Salt"}
 		],
+		"image": "images/usable/steak.png",
 		"original_recipe": {"reference": "Flaming BBQ"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -4966,6 +5025,7 @@
 			},
 			{"reference": "Salt"}
 		],
+		"image": "images/usable/broiled_fish.png",
 		"original_recipe": {"reference": "Flaming BBQ"},
 		"character": "Nikki",
 		"idea_trigger": "After making Steak"
@@ -4998,6 +5058,7 @@
 				]
 			}
 		],
+		"image": "images/usable/ceramic_plate.png",
 		"original_recipe": {"reference": "Flaming BBQ"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Magical Clay or Blood Clay"
@@ -5036,6 +5097,7 @@
 			},
 			{"reference": "Bobomb Ice"}
 		],
+		"image": "images/usable/fish_boat_marlow.png",
 		"original_recipe": {"reference": "Gorgeous Boat"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -5072,8 +5134,8 @@
 					{"reference": "Pumpotatokin"}
 				]
 			}
-
 		],
+		"image": "images/usable/green_soup.png",
 		"original_recipe": {"reference": "Deliciousoup"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -5111,6 +5173,7 @@
 				]
 			}
 		],
+		"image": "images/usable/red_soup.png",
 		"original_recipe": {"reference": "Deliciousoup"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Lando, X-Lando, Sweet Lando, or Night-In-Grape"
@@ -5129,6 +5192,7 @@
 			{"reference": "Liquid Metal"},
 			{"reference": "Ceramic Plate"}
 		],
+		"image": "images/usable/golden_soup.png",
 		"original_recipe": {"reference": "Deliciousoup"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Golden Bullion"
@@ -5160,6 +5224,7 @@
 				]
 			}
 		],
+		"image": "images/usable/flame.png",
 		"original_recipe": {"reference": "Bomb"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -5177,6 +5242,7 @@
 			{"reference": "Plosion"},
 			{"reference": "Flame Ring"}
 		],
+		"image": "images/usable/tera_flame.png",
 		"original_recipe": {"reference": "Super Bomb"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -5206,6 +5272,7 @@
 				]
 			}
 		],
+		"image": "images/usable/bomb_ice.png",
 		"original_recipe": {"reference": "Bomb"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Glacier Stone"
@@ -5223,6 +5290,7 @@
 			{"reference": "Plosion"},
 			{"reference": "Ice Ring"}
 			],
+		"image": "images/usable/bobomb_ice.png",
 		"original_recipe": {"reference": "Super Bomb"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Glacier Crystal"
@@ -5253,6 +5321,7 @@
 				]
 			}
 		],
+		"image": "images/usable/lightning_rod.png",
 		"original_recipe": {"reference": "Bomb"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Thunder Stone"
@@ -5270,6 +5339,7 @@
 			{"reference": "Plosion"},
 			{"reference": "Thunder Ring"}
 		],
+		"image": "images/usable/thunder_rod.png",
 		"original_recipe": {"reference": "Super Bomb"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Thunder Crystal"
@@ -5299,6 +5369,7 @@
 				]
 			}
 		],
+		"image": "images/usable/uni_bomb.png",
 		"original_recipe": {"reference": "Exploding Uni"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -5322,6 +5393,7 @@
 				]
 			}
 		],
+		"image": "images/usable/big_uni_bomb.png",
 		"original_recipe": {"reference": "Uni the Great"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -5345,6 +5417,7 @@
 			{"reference": "Dragon Tongue"},
 			{"reference": "Pentagle"}
 		],
+		"image": "images/usable/uni_god.png",
 		"original_recipe": {"reference": "The Mystic Uni"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -5375,6 +5448,7 @@
 			},
 			{"reference": "Pleather Cloth"}
 		],
+		"image": "images/usable/orange_bomb.png",
 		"original_recipe": {"reference": "Fruit Bomb"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -5398,6 +5472,7 @@
 			{"reference": "Plosion"},
 			{"reference": "Pleather Cloth"}
 		],
+		"image": "images/usable/big_orange_bomb.png",
 		"original_recipe": {"reference": "Uni the Great"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Tangerine, Sunrise Orange, or Mandarin Orange"
@@ -5428,6 +5503,7 @@
 			},
 			{"reference": "Black Steel"}
 		],
+		"image": "images/usable/lando_bomb.png",
 		"original_recipe": {"reference": "Sweet Fruit Bomb"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -5456,6 +5532,7 @@
 				]
 			}
 		],
+		"image": "images/usable/big_lando_bomb.png",
 		"original_recipe": {"reference": "Uni the Great"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to X-Lando or Sweet Lando"
@@ -5489,6 +5566,7 @@
 			},
 			{"reference": "Black Steel"}
 		],
+		"image": "images/usable/globe.png",
 		"original_recipe": {"reference": "Twirly Thing"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -5520,6 +5598,7 @@
 			},
 			{"reference": "Pot Station"}
 		],
+		"image": "images/usable/stellar_globe.png",
 		"original_recipe": {"reference": "A Small Universe"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -5543,6 +5622,7 @@
 			{"reference": "Puni Gummi"},
 			{"reference": "Ceramic Plate"}
 		],
+		"image": "images/usable/unipuni_pudding.png",
 		"original_recipe": {"reference": "Pudding"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -5564,6 +5644,7 @@
 				]
 			}
 		],
+		"image": "images/usable/cheesecake.png",
 		"original_recipe": {"reference": "Traditional Cake"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -5591,6 +5672,7 @@
 				]
 			}
 		],
+		"image": "images/usable/pumpotatokin_pie.png",
 		"original_recipe": {"reference": "Traditional Cake"},
 		"character": "Nikki",
 		"idea_trigger": "After making Cheesecake"
@@ -5618,6 +5700,7 @@
 				]
 			}
 		],
+		"image": "images/usable/grape_sherbet.png",
 		"original_recipe": {"reference": "Bite-Sized Sorbet"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -5640,6 +5723,7 @@
 				]
 			}
 		],
+		"image": "images/usable/muscat_sorbet.png",
 		"original_recipe": {"reference": "Bite-Sized Sorbet"},
 		"character": "Nikki",
 		"idea_trigger": "After making Grape Sherbet"
@@ -5668,6 +5752,7 @@
 				]
 			}
 		],
+		"image": "images/usable/sweetsland.png",
 		"original_recipe": {"reference": "Sweets Paradise"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -5700,6 +5785,7 @@
 			},
 			{"reference": "Goat Milk"}
 		],
+		"image": "images/usable/120_fruit.png",
 		"original_recipe": {"reference": "Fruit Juice"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -5729,6 +5815,7 @@
 				]
 			}
 		],
+		"image": "images/usable/veggielicious.png",
 		"original_recipe": {"reference": "Fruit Juice"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Spinacherb"
@@ -5758,6 +5845,7 @@
 				]
 			}
 		],
+		"image": "images/usable/veggie_purple.png",
 		"original_recipe": {"reference": "Fruit Juice"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -5791,6 +5879,7 @@
 				]
 			}
 		],
+		"image": "images/usable/divine_shield.png",
 		"original_recipe": {"reference": "Radiating Disc"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -5827,6 +5916,7 @@
 				]
 			}
 		],
+		"image": "images/usable/misty_curtain.png",
 		"original_recipe": {"reference": "Magic Stake Cloth"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -5860,6 +5950,7 @@
 				]
 			}
 		],
+		"image": "images/usable/treasure_cape.png",
 		"original_recipe": {"reference": "Invisible Mantle"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -5897,6 +5988,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/ragged_collar.png",
 		"original_recipe": {"reference": "Old Collar"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -5931,6 +6023,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/leather_collar.png",
 		"original_recipe": {"reference": "Old Collar"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Pleather Cloth or Brisingamen"
@@ -5971,6 +6064,7 @@
 			{"reference": "Tuft"},
 			{"reference": "Cyprus Copper"}
 		],
+		"image": "images/weapons/flea_necklace.png",
 		"original_recipe": {"reference": "Medicinal Collar"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -6023,6 +6117,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/pretty_ribbon.png",
 		"original_recipe": {"reference": "Cute Ribbon"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -6065,6 +6160,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/giants_ring.png",
 		"original_recipe": {"reference": "Huge Ring"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -6105,6 +6201,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/bone_necklace.png",
 		"original_recipe": {"reference": "Medicinal Collar"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Beast Fang or Monster Bone"
@@ -6147,6 +6244,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/jumbo_donut.png",
 		"original_recipe": {"reference": "Huge Donut"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -6178,6 +6276,7 @@
 			{"reference": "Shiny Moustache"},
 			{"reference": "Vasilissa's Doll"}
 		],
+		"image": "images/weapons/cait_siths_collar.png",
 		"original_recipe": {"reference": "Cute Ribbon"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Pentagle, Brilliant Stone, or Gravity Stone"
@@ -6218,6 +6317,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/runed_collar.png",
 		"original_recipe": {"reference": "Collar of Magic"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -6248,6 +6348,7 @@
 			{"reference": "Stone of Alectoria"},
 			{"reference": "Fortune Ring"}
 		],
+		"image": "images/weapons/magic_stone_collar.png",
 		"original_recipe": {"reference": "Collar of Magic"},
 		"character": "Roxis",
 		"idea_trigger": "After making Runed Collar"
@@ -6272,6 +6373,7 @@
 			{"reference": "Uni God"},
 			{"reference": "Symbol of Uroborus"}
 		],
+		"image": "images/weapons/brisingamen.png",
 		"original_recipe": {"reference": "God's Necklace"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -6290,6 +6392,7 @@
 			"RES": 75,
 			"SPD": 32
 		},
+		"image": "images/weapons/mana_torque.png",
 		"gathering spot": "Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -6332,6 +6435,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/pyre_blade.png",
 		"original_recipe": {"reference": "Standard Mechsword"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -6374,6 +6478,7 @@
 			},
 			{"reference": "Polish Powder"}
 		],
+		"image": "images/weapons/machine_cradle.png",
 		"original_recipe": {"reference": "Epigonic Mechsword"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -6419,6 +6524,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/alvero.png",
 		"original_recipe": {"reference": "Modified Mechsword"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -6443,6 +6549,7 @@
 			{"reference": "Kaiser: Aqua Hero"},
 			{"reference": "Machine Cradle"}
 		],
+		"image": "images/weapons/sharkgill_sword.png",
 		"original_recipe": {"reference": "Modified Mechsword"},
 		"character": "Flay",
 		"idea_trigger": "After making Alvero"
@@ -6484,6 +6591,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/pyre_blade_ii.png",
 		"original_recipe": {"reference": "Standard Mechsword"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Pyre Blade"
@@ -6520,6 +6628,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/proguis.png",
 		"original_recipe": {"reference": "Enhanced Mechsword"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -6557,6 +6666,7 @@
 			},
 			{"reference": "Thunder Rod"}
 		],
+		"image": "images/weapons/quartz_slicer.png",
 		"original_recipe": {"reference": "Motorized Mechsword"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -6581,6 +6691,7 @@
 			{"reference": "Quartz Slicer"},
 			{"reference": "Progius"}
 		],
+		"image": "images/weapons/deus_ex_machina.png",
 		"original_recipe": {"reference": "Master Mechsword"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -6599,6 +6710,7 @@
 			"RES": 0,
 			"SPD": 0
 		},
+		"image": "images/weapons/dandy_blade.png",
 		"gathering spot": "Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -6645,6 +6757,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/astral_card.png",
 		"original_recipe": {"reference": "Game Card"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -6693,6 +6806,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/flonnes_charm.png",
 		"original_recipe": {"reference": "Ritual Charm"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -6727,6 +6841,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/bonus_card.png",
 		"original_recipe": {"reference": "Bonus Card"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -6763,6 +6878,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/trauer_card.png",
 		"original_recipe": {"reference": "Magic Card"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -6814,6 +6930,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/solingen.png",
 		"original_recipe": {"reference": "Razor Card"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -6841,6 +6958,7 @@
 					{"reference": "Stone of Alectoria"},
 					{"reference": "Magic Stone Collar"}
 		],
+		"image": "images/weapons/wild_card.png",
 		"original_recipe": {"reference": "Razor Card"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Astral Card"
@@ -6868,6 +6986,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/itsa_card.png",
 		"original_recipe": {"reference": "Game Card"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to King Style"
@@ -6904,6 +7023,7 @@
 			},
 			{"reference": "Holy Crest Paper"}
 		],
+		"image": "images/weapons/type_solomon.png",
 		"original_recipe": {"reference": "Magic Act"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -6922,6 +7042,7 @@
 			"RES": 150,
 			"SPD": 25
 		},
+		"image": "images/weapons/fate_spinner.png",
 		"gathering spot": "Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -6955,6 +7076,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/favorite_bag.png",
 		"original_recipe": {"reference": "Lovely Bag"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -6995,6 +7117,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/fake_brand_bag.png",
 		"original_recipe": {"reference": "Luxure Purse"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -7026,6 +7149,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/brand_name_bag.png",
 		"original_recipe": {"reference": "Luxure Purse"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Pleather Cloth"
@@ -7070,6 +7194,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/alchemists_basket.png",
 		"original_recipe": {"reference": "Net Basket"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -7110,6 +7235,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/alchemic_bag.png",
 		"original_recipe": {"reference": "Alchemy Pack"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -7159,6 +7285,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/plate_bag.png",
 		"original_recipe": {"reference": "Metallic Pack"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -7198,6 +7325,7 @@
 			{"reference": "Alchemic Bag"},
 			{"reference": "Jade Tablet"}
 		],
+		"image": "images/weapons/eco_bag.png",
 		"original_recipe": {"reference": "Net Basket"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Kittynip"
@@ -7228,6 +7356,7 @@
 			{"reference": "Formell Fabric"},
 			{"reference": "Stone of Alectoria"}
 		],
+		"image": "images/weapons/angels_bag.png",
 		"original_recipe": {"reference": "Alchemy Pack"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Archangel Wings"
@@ -7259,6 +7388,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/dimension_bag.png",
 		"original_recipe": {"reference": "High Capacity Pack"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -7277,6 +7407,7 @@
 			"RES": 0,
 			"SPD": 0
 		},
+		"image": "images/weapons/shopping_basket.png",
 		"gathering spot": "Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -7323,6 +7454,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/crack_hammer.png",
 		"original_recipe": {"reference": "Hammeryhammer"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -7365,6 +7497,7 @@
 			},
 			{"reference": "Nicro Cloth"}
 		],
+		"image": "images/weapons/wooden_club.png",
 		"original_recipe": {"reference": "Wooden Beatstick"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -7400,6 +7533,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/brownie_hammer.png",
 		"original_recipe": {"reference": "Wooden Beatstick"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Wooden Club or Wood Tympani"
@@ -7450,6 +7584,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/crusher_twins.png",
 		"original_recipe": {"reference": "Hammeryhammer"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Uni or Big Uni"
@@ -7497,6 +7632,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/sledgehammer.png",
 		"original_recipe": {"reference": "Charge Hammer"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -7542,6 +7678,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/vorey_splitter.png",
 		"original_recipe": {"reference": "Hammeryhammer Plus"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -7567,6 +7704,7 @@
 			{"reference": "Raw Komet Ore"},
 			{"reference": "Crusher Twins"}
 		],
+		"image": "images/weapons/yula_hammer.png",
 		"original_recipe": {"reference": "Wooden Beatstick"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Brownie Hammer"
@@ -7592,6 +7730,7 @@
 			{"reference": "Progius"},
 			{"reference": "Brownie Hammer"}
 		],
+		"image": "images/weapons/grand_sledgehammer.png",
 		"original_recipe": {"reference": "Charge Hammer"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Sledgehammer"
@@ -7617,12 +7756,13 @@
 			{"reference": "Gold Bullion"},
 			{"reference": "Raw Komet Ore"}
 		],
+		"image": "images/weapons/thor_hammer.png",
 		"original_recipe": {"reference": "God's Hammer"},
 		"character": "None",
 		"idea_trigger": "None"
 	},
 	{
-		"name": "Ultimate Macel",
+		"name": "Ultimate Mace",
 		"type": "Weapon",
 		"character_weapon": "Nikki",
 		"description": "A weapon carved from the strongest metal.",
@@ -7635,6 +7775,7 @@
 			"RES": 50,
 			"SPD": 0
 		},
+		"image": "images/weapons/ultimate_mace.png",
 		"gathering spot": "Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -7673,6 +7814,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/dolls_claw.png",
 		"original_recipe": {"reference": "Stuffed Animal"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -7714,6 +7856,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/plastic_claw.png",
 		"original_recipe": {"reference": "Stuffed Animal"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Carbon Boulder or Rocks rock!"
@@ -7748,6 +7891,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/steel_claw.png",
 		"original_recipe": {"reference": "Metallic Claw"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -7785,6 +7929,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/bear_claw.png",
 		"original_recipe": {"reference": "Beast's Claw"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -7815,6 +7960,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/alloy_claw.png",
 		"original_recipe": {"reference": "Metallic Claw"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Preuve Lead"
@@ -7840,6 +7986,7 @@
 			{"reference": "Alloy Claw"},
 			{"reference": "Megingjorz"}
 		],
+		"image": "images/weapons/super_alloy_claw.png",
 		"original_recipe": {"reference": "Metallic Claw"},
 		"character": "Flay",
 		"idea_trigger": "After making Steel Claw"
@@ -7876,6 +8023,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/electric_claw.png",
 		"original_recipe": {"reference": "Beast's Claw"},
 		"character": "Muppy",
 		"idea_trigger": "After making Bear Claw"
@@ -7901,6 +8049,7 @@
 			{"reference": "Gold Bullion"},
 			{"reference": "Armored Crab"}
 		],
+		"image": "images/weapons/hellclaw.png",
 		"original_recipe": {"reference": "Claw Super Weapon"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -7919,6 +8068,7 @@
 			"RES": 50,
 			"SPD": 0
 		},
+		"image": "images/weapons/platinum_claw.png",
 		"gathering spot": "Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -7969,6 +8119,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/dimentia_blade.png",
 		"original_recipe": {"reference": "Favorite Sword"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -8011,6 +8162,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/muramasa.png",
 		"original_recipe": {"reference": "Favorite Sword"},
 		"character": "Anna",
 		"idea_trigger": "After making Dimentia Blade"
@@ -8059,6 +8211,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/blue_dragon.png",
 		"original_recipe": {"reference": "Foreign Blade"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -8089,6 +8242,7 @@
 			},
 			{"reference": "Glasses of Death"}
 		],
+		"image": "images/weapons/ben_breaker.png",
 		"original_recipe": {"reference": "Foreign Blade"},
 		"character": "Anna",
 		"idea_trigger": "After making Blue Dragon"
@@ -8114,6 +8268,7 @@
 			{"reference": "Dragon Tongue"},
 			{"reference": "Dunkelhite"}
 		],
+		"image": "images/weapons/azoth_z.png",
 		"original_recipe": {"reference": "Alchemic Sword"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -8151,6 +8306,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/pellucian.png",
 		"original_recipe": {"reference": "A Master's Swing"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -8169,6 +8325,7 @@
 			"RES": 0,
 			"SPD": 50
 		},
+		"image": "images/weapons/stargazer.png",
 		"gathering spot": "Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -8221,6 +8378,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/commercial_pot.png",
 		"original_recipe": {"reference": "Sphere Spaceship"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -8274,6 +8432,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/proto_pot.png",
 		"original_recipe": {"reference": "Sphere Spaceship"},
 		"character": "Muppy",
 		"idea_trigger": "After making Commercial Pot"
@@ -8312,6 +8471,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/mark_ii.png",
 		"original_recipe": {"reference": "Neo Spaceship"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -8348,6 +8508,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/pot_station.png",
 		"original_recipe": {"reference": "Object from Space"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -8381,6 +8542,7 @@
 				]
 			}
 		],
+		"image": "images/weapons/crown_pot.png",
 		"original_recipe": {"reference": "Royal Spaceship"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -8399,6 +8561,7 @@
 			"RES": 0,
 			"SPD": 0
 		},
+		"image": "images/weapons/pleasant_pot.png",
 		"gathering spot": "Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -8433,6 +8596,7 @@
 				]
 			}
 		],
+		"image": "images/armor/leather_cuirass.png",
 		"original_recipe": {"reference": "Light Armor"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -8464,6 +8628,7 @@
 				]
 			}
 		],
+		"image": "images/armor/iron_plate.png",
 		"original_recipe": {"reference": "Platemail"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -8500,6 +8665,7 @@
 				]
 			}
 		],
+		"image": "images/armor/bronze_plate.png",
 		"original_recipe": {"reference": "Platemail"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Red Steel"
@@ -8549,6 +8715,7 @@
 				]
 			}
 		],
+		"image": "images/armor/baked_plate.png",
 		"original_recipe": {"reference": "Platemail"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Monster Cookie or Sweetsland"
@@ -8587,6 +8754,7 @@
 				]
 			}
 		],
+		"image": "images/armor/armored_crab.png",
 		"original_recipe": {"reference": "Platemail"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to King Crab"
@@ -8627,6 +8795,7 @@
 				]
 			}
 		],
+		"image": "images/armor/kaiserfish_mail.png",
 		"original_recipe": {"reference": "Royal Metal Armor"},
 		"character": "Muppy",
 		"idea_trigger": "After making Armored Crab"
@@ -8671,6 +8840,7 @@
 				]
 			}
 		],
+		"image": "images/armor/silver_cuirass.png",
 		"original_recipe": {"reference": "Royal Metal Armor"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -8710,6 +8880,7 @@
 				]
 			}
 		],
+		"image": "images/armor/gold_mail.png",
 		"original_recipe": {"reference": "Royal Metal Armor"},
 		"character": "Flay",
 		"idea_trigger": "After making Silver Cuirass"
@@ -8746,6 +8917,7 @@
 				]
 			}
 		],
+		"image": "images/armor/male_uniform.png",
 		"original_recipe": {"reference": "Standard Uniform-M"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -8781,6 +8953,7 @@
 			},
 			{"reference": "Eternal Turnkey"}
 		],
+		"image": "images/armor/altered_uniform_m.png",
 		"original_recipe": {"reference": "Standard Uniform-M"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Male Uniform"
@@ -8824,6 +8997,7 @@
 				]
 			}
 		],
+		"image": "images/armor/japanesque_uniform.png",
 		"original_recipe": {"reference": "Oldschool Uniform"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -8860,6 +9034,7 @@
 				]
 			}
 		],
+		"image": "images/armor/white_japanesque_uniform.png",
 		"original_recipe": {"reference": "Oldschool Uniform"},
 		"character": "Vayne",
 		"idea_trigger": "Change the first material to Japanesque Uniform"
@@ -8900,6 +9075,7 @@
 				]
 			}
 		],
+		"image": "images/armor/gangster.png",
 		"original_recipe": {"reference": "Oldschool Uniform"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to White Japanesque"
@@ -8944,6 +9120,7 @@
 				]
 			}
 		],
+		"image": "images/armor/king_style.png",
 		"original_recipe": {"reference": "Royal CLothes"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -8980,6 +9157,7 @@
 				]
 			}
 		],
+		"image": "images/armor/female_uniform.png",
 		"original_recipe": {"reference": "Standard Uniform-F"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -9017,6 +9195,7 @@
 			},
 			{"reference": "Eternal Turnkey"}
 		],
+		"image": "images/armor/altered_uniform_f.png",
 		"original_recipe": {"reference": "Standard Uniform-F"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Female Uniform"
@@ -9049,6 +9228,7 @@
 			},
 			{"reference": "Asclepius"}
 		],
+		"image": "images/armor/long_uniform.png",
 		"original_recipe": {"reference": "Standard Uniform-F"},
 		"character": "Vayne",
 		"idea_trigger": "Just change the first material to Altered Uniform F"
@@ -9093,6 +9273,7 @@
 				]
 			}
 		],
+		"image": "images/armor/bad_girl.png",
 		"original_recipe": {"reference": "Retro Uniform"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -9129,6 +9310,7 @@
 			{"reference": "Aurora Curtain"},
 			{"reference": "Formell Fabric"}
 		],
+		"image": "images/armor/maiden.png",
 		"original_recipe": {"reference": "Retro Uniform"},
 		"character": "Anna",
 		"idea_trigger": "After making Bad Girl"
@@ -9165,6 +9347,7 @@
 			{"reference": "Misty Curtain"},
 			{"reference": "Silver Thread"}
 		],
+		"image": "images/armor/heavens_silk.png",
 		"original_recipe": {"reference": "Elegant Clothes"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -9207,6 +9390,7 @@
 				]
 			}
 		],
+		"image": "images/armor/black_cat.png",
 		"original_recipe": {"reference": "Cat Suit"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -9253,6 +9437,7 @@
 				]
 			}
 		],
+		"image": "images/armor/kitty_ear_maid.png",
 		"original_recipe": {"reference": "Cat Suit"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Heaven's Sik, Long Uniform, or Bad Girl"
@@ -9302,6 +9487,7 @@
 				]
 			}
 		],
+		"image": "images/armor/raven_robe.png",
 		"original_recipe": {"reference": "Robe"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Black Liquid, Black Powder, or Black Feather"
@@ -9353,6 +9539,7 @@
 				]
 			}
 		],
+		"image": "images/armor/arabesque_robe.png",
 		"original_recipe": {"reference": "Robe"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -9398,6 +9585,7 @@
 				]
 			}
 		],
+		"image": "images/armor/la_matador.png",
 		"original_recipe": {"reference": "Robe"},
 		"character": "Vayne",
 		"idea_trigger": "Just change the first material to Crimson Feather, Night-In-Grape, Cyprus Copper, or Red Petal"
@@ -9435,6 +9623,7 @@
 				]
 			}
 		],
+		"image": "images/armor/aurora_curtain.png",
 		"original_recipe": {"reference": "Magic Garments"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Rainbow Feather or Dunkelhite"
@@ -9472,6 +9661,7 @@
 			},
 			{"reference": "Symbol of Uroborus"}
 		],
+		"image": "images/armor/dragonscale_garb.png",
 		"original_recipe": {"reference": "Magic Garments"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -9525,6 +9715,7 @@
 				]
 			}
 		],
+		"image": "images/armor/fishscale_garb.png",
 		"original_recipe": {"reference": "Magic Garments"},
 		"character": "Anna",
 		"idea_trigger": "After making Dragonscale Garb"
@@ -9550,6 +9741,7 @@
 			{"reference": "Candy Eye"},
 			{"reference": "Bomb Ice"}
 		],
+		"image": "images/armor/chocolate_robe.png",
 		"original_recipe": {"reference": "Robe"},
 		"character": "Nikki",
 		"idea_trigger": "After making Arabesque Robe"
@@ -9598,6 +9790,7 @@
 				]
 			}
 		],
+		"image": "images/armor/estevan_guard.png",
 		"original_recipe": {"reference": "Heavy Armor"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -9635,6 +9828,7 @@
 				]
 			}
 		],
+		"image": "images/armor/bone_breastplate.png",
 		"original_recipe": {"reference": "Heavy Armor"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Iron Plate"
@@ -9674,6 +9868,7 @@
 				]
 			}
 		],
+		"image": "images/armor/crown_breastplate.png",
 		"original_recipe": {"reference": "Holy Armor"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -9710,6 +9905,7 @@
 			},
 			{"reference": "Chrome Crystal"}
 		],
+		"image": "images/armor/panzer_cloak.png",
 		"original_recipe": {"reference": "Hardened Cloak"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -9745,6 +9941,7 @@
 			},
 			{"reference": "Liquid Metal"}
 		],
+		"image": "images/armor/imperial_cloth.png",
 		"original_recipe": {"reference": "Hardened Cloak"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Dragonscale Garb, Aurora Curtain, or Fishscale Garb"
@@ -9784,6 +9981,7 @@
 				]
 			}
 		],
+		"image": "images/armor/feathery_flow.png",
 		"original_recipe": {"reference": "Women's Armor"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -9821,6 +10019,7 @@
 				]
 			}
 		],
+		"image": "images/armor/star_queen.png",
 		"original_recipe": {"reference": "Women's Armor"},
 		"character": "Anna",
 		"idea_trigger": "After making Angel Cloth"
@@ -9856,6 +10055,7 @@
 				]
 			}
 		],
+		"image": "images/armor/angel_cloth.png",
 		"original_recipe": {"reference": "Women's Armor"},
 		"character": "Anna",
 		"idea_trigger": "After making Feathery Flow"
@@ -9895,6 +10095,7 @@
 				]
 			}
 		],
+		"image": "images/armor/alchemy_robe.png",
 		"original_recipe": {"reference": "Legendary Robe"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -9924,7 +10125,8 @@
 			},
 			{"reference": "Aroma Material"}
 		],
-		"original_recipe": {"reference": "Legenday Robe"},
+		"image": "images/armor/saints_garb.png",
+		"original_recipe": {"reference": "Legendary Robe"},
 		"character": "Pamela",
 		"idea_trigger": "After making Alchemy Robe"
 	},
@@ -9954,6 +10156,7 @@
 			{"reference": "Pentagle"},
 			{"reference": "Fallen Wing"}
 		],
+		"image": "images/armor/lucifers_leotard.png",
 		"original_recipe": {"reference": "Sexy Outfit"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -9979,6 +10182,7 @@
 			{"reference": "Stellar Globe"},
 			{"reference": "Symbol of Uroborus"}
 		],
+		"image": "images/armor/black_veil.png",
 		"original_recipe": {"reference": "Dark Battlespirit"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -10004,6 +10208,7 @@
 			{"reference": "Altena Ingot"},
 			{"reference": "Tera Flame"}
 		],
+		"image": "images/armor/gallant_mantle.png",
 		"original_recipe": {"reference": "Man's Mantle"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -10029,6 +10234,7 @@
 			{"reference": "Philosopher's Hand"},
 			{"reference": "Glasses of Death"}
 		],
+		"image": "images/armor/grand_alchemist.png",
 		"original_recipe": {"reference": "Grand Robe"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -10054,6 +10260,7 @@
 			{"reference": "Brilliant Stone"},
 			{"reference": "Aurora Curtain"}
 		],
+		"image": "images/armor/biohair_wig.png",
 		"original_recipe": {"reference": "Sensitive Hair"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -10079,6 +10286,7 @@
 			{"reference": "Bunny Ears"},
 			{"reference": "Super Nectar"}
 		],
+		"image": "images/armor/holy_beast_hide.png",
 		"original_recipe": {"reference": "Beast Hide"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -10104,6 +10312,7 @@
 			{"reference": "Symbol of Uroborus"},
 			{"reference": "Winged Boots"}
 		],
+		"image": "images/armor/knights_waistcoat.png",
 		"original_recipe": {"reference": "Master's Outfit"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -10129,6 +10338,7 @@
 			{"reference": "Elixir"},
 			{"reference": "Formell Fabric"}
 		],
+		"image": "images/armor/robe_of_life.png",
 		"original_recipe": {"reference": "Incanter's Garb"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -10167,6 +10377,7 @@
 				]
 			}
 		],
+		"image": "images/armor/rejuvenator_skin.png",
 		"original_recipe": {"reference": "Liquid Armor"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -10185,6 +10396,7 @@
 			"RES": 150,
 			"SPD": 25
 		},
+		"image": "images/armor/mana-eurism_coat.png",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -10201,6 +10413,7 @@
 			"RES": 0,
 			"SPD": 0
 		},
+		"image": "images/armor/mans_clothes.png",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -10217,6 +10430,7 @@
 			"RES": 200,
 			"SPD": 25
 		},
+		"image": "images/armor/meister_cloak.png",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -10233,6 +10447,7 @@
 			"RES": 160,
 			"SPD": 0
 		},
+		"image": "images/armor/dames_hair.png",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -10249,6 +10464,7 @@
 			"RES": 125,
 			"SPD": 0
 		},
+		"image": "images/armor/beast_leather.png",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -10265,6 +10481,7 @@
 			"RES": 120,
 			"SPD": 50
 		},
+		"image": "images/armor/swiftwing_garb.png",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -10281,6 +10498,7 @@
 			"RES": 150,
 			"SPD": 0
 		},
+		"image": "images/armor/platinum_robe.png",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -10297,6 +10515,7 @@
 			"RES": 166,
 			"SPD": 0
 		},
+		"image": "images/armor/future_suit.png",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -10361,6 +10580,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/flame_ring.png",
 		"original_recipe": {"reference": "Magic Ring"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -10427,6 +10647,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/ice_ring.png",
 		"original_recipe": {"reference": "Magic Ring"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Glacier Stone, Glacier Crystal, Coolster, Long Ice Cream, Ice Ring, or Diamond Dust"
@@ -10493,6 +10714,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/thunder_ring.png",
 		"original_recipe": {"reference": "Magic Ring"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Thunder Stone, Thunder Crystal, Voidspark Pipe, Lightning Rod, Thunder Rod, or Electric Elect"
@@ -10545,6 +10767,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/fires_of_hell.png",
 		"original_recipe": {"reference": "Pot of Flames"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -10598,6 +10821,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/diamond_dust.png",
 		"original_recipe": {"reference": "Freezing Device"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -10650,6 +10874,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/electric_elect.png",
 		"original_recipe": {"reference": "Electric Machine"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -10706,6 +10931,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/puppy_paw_gloves.png",
 		"original_recipe": {"reference": "Gloves"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -10752,6 +10978,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/asclepius.png",
 		"original_recipe": {"reference": "A Small Wand"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -10812,6 +11039,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/stone_of_alectoria.png",
 		"original_recipe": {"reference": "Stone of Sealing"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -10868,6 +11096,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/symbol_of_uroborus.png",
 		"original_recipe": {"reference": "Alchemy Symbol"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -10915,6 +11144,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/thorn_gauntlet.png",
 		"original_recipe": {"reference": "Gloves"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Cyprus Copper"
@@ -10972,6 +11202,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/straw_doll.png",
 		"original_recipe": {"reference": "Doll"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -11018,6 +11249,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/gloves_of_artorius.png",
 		"original_recipe": {"reference": "Gloves"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Legien Steel"
@@ -11065,6 +11297,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/vasilissas_doll.png",
 		"original_recipe": {"reference": "Doll"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Brownie Mask"
@@ -11119,6 +11352,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/angel_wing.png",
 		"original_recipe": {"reference": "Wing of an Angel"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -11170,6 +11404,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/megingjorz.png",
 		"original_recipe": {"reference": "Power Girdle"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -11231,6 +11466,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/jade_tablet.png",
 		"original_recipe": {"reference": "Green Tablet"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -11283,6 +11519,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/shield_of_ajax.png",
 		"original_recipe": {"reference": "Hard Shield"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -11335,6 +11572,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/mirror_of_gargol.png",
 		"original_recipe": {"reference": "Hard Shield"},
 		"character": "Roxis",
 		"idea_trigger": "After making Shield of Ajax"
@@ -11374,6 +11612,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/archangel_wings.png",
 		"original_recipe": {"reference": "Wing of an Angel"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Angel Wing"
@@ -11421,6 +11660,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/fallen_wing.png",
 		"original_recipe": {"reference": "Wing of an Angel"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Devil's Panties"
@@ -11479,6 +11719,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/scale_gauntlet.png",
 		"original_recipe": {"reference": "Gloves"},
 		"character": "Anna",
 		"idea_trigger": "After making Fishscale Garbe, make any accessory that are gauntlets"
@@ -11532,6 +11773,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/kaiser_aqua_hero.png",
 		"original_recipe": {"reference": "Fishbot"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -11582,6 +11824,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/aroma_material.png",
 		"original_recipe": {"reference": "The Gem of Alchemy"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -11639,6 +11882,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/toad_mouth.png",
 		"original_recipe": {"reference": "Wallet"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -11685,6 +11929,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/philosophers_hand.png",
 		"original_recipe": {"reference": "Handprint"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -11741,6 +11986,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/glasses_of_death.png",
 		"original_recipe": {"reference": "Glasses"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -11796,6 +12042,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/feather_charm.png",
 		"original_recipe": {"reference": "Head Gear"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -11848,6 +12095,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/kitty_ears.png",
 		"original_recipe": {"reference": "Head Gear"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Beast Fang, Tuft, Knot, or Shiny Moustache"
@@ -11888,6 +12136,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/bunny_ears.png",
 		"original_recipe": {"reference": "Head Gear"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Kitty Ears"
@@ -11943,6 +12192,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/tangerine_hat.png",
 		"original_recipe": {"reference": "Fancy Hat"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -11996,6 +12246,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/lando_cap.png",
 		"original_recipe": {"reference": "Fancy Hat"},
 		"character": "Pamela",
 		"idea_trigger": "After making Tangerine Hat"
@@ -12047,6 +12298,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/yubana_cover.png",
 		"original_recipe": {"reference": "Fancy Hat"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Yubana Fruit, Dried Yubana, or Yubana Flower"
@@ -12094,6 +12346,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/afrotic_wig.png",
 		"original_recipe": {"reference": "Fancy Hat"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Flame or Tera Flame"
@@ -12156,6 +12409,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/flying_fish_boots.png",
 		"original_recipe": {"reference": "Boots"},
 		"character": "Muppy",
 		"idea_trigger": "After making Winged Boots"
@@ -12215,6 +12469,7 @@
 				]
 			}
 		],
+		"image": "images/accessory/winged_boots.png",
 		"original_recipe": {"reference": "Boots"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -12233,6 +12488,7 @@
 			"RES": 50,
 			"SPD": 25
 		},
+		"image": "images/accessory/mana-eurism_ring.png",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -12249,6 +12505,7 @@
 			"RES": 0,
 			"SPD": 0
 		},
+		"image": "images/accessory/willpower_headband.png",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -12265,6 +12522,7 @@
 			"RES": 0,
 			"SPD": 50
 		},
+		"image": "images/accessory/quick_shifter.png",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -12281,6 +12539,7 @@
 			"RES": 200,
 			"SPD": 0
 		},
+		"image": "images/accessory/scapegoat_doll.png",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -12297,6 +12556,7 @@
 			"RES": 0,
 			"SPD": 0
 		},
+		"image": "images/accessory/twilight_morion.png",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	}
 ]
