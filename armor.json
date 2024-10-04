@@ -1,0 +1,1956 @@
+[
+	{
+		"name": "Leather Cuirass",
+		"type": "Armor",
+		"equippable": "Vayne, Flay, Anna, Nikki",
+		"description": "Lightweight armor for minimum guard.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 61,
+			"MGK": 0,
+			"RES": 64,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Pleather Cloth"},
+			{
+				"alternatives": [
+					{"reference": "Male Uniform"},
+					{"reference": "Altered Uniform M"},
+					{"reference": "Female Uniform"},
+					{"reference": "Altered Uniform F"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Legien Steel"},
+					{"reference": "Cyprus Copper"}
+				]
+			}
+		],
+		"image": "images/armor/leather_cuirass.png",
+		"original_recipe": {"reference": "Light Armor"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Iron Plate",
+		"type": "Armor",
+		"equippable": "Vayne, Flay, Anna, Nikki",
+		"description": "Heavy armor made from iron scraps.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 74,
+			"MGK": 0,
+			"RES": 77,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Black Steel"},
+			{"reference": "Leather Cuirass"},
+			{
+				"alternatives": [
+					{"reference": "Flour"},
+					{"reference": "Salt"},
+					{"reference": "Black Powder"},
+					{"reference": "Polish Powder"}
+				]
+			}
+		],
+		"image": "images/armor/iron_plate.png",
+		"original_recipe": {"reference": "Platemail"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Bronze Plate",
+		"type": "Armor",
+		"equippable": "Vayne, Flay, Anna, Nikki",
+		"description": "Magic enchants this bronze armor.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 96,
+			"MGK": 0,
+			"RES": 99,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Red Steel"},
+			{
+				"alternatives": [
+					{"reference": "Leather Cuirass"},
+					{"reference": "Iron Plate"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Flour"},
+					{"reference": "Salt"},
+					{"reference": "Black Powder"},
+					{"reference": "Polish Powder"}
+				]
+			}
+		],
+		"image": "images/armor/bronze_plate.png",
+		"original_recipe": {"reference": "Platemail"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Red Steel"
+	},
+	{
+		"name": "Baked Plate",
+		"type": "Armor",
+		"equippable": "Vayne, Flay, Anna, Nikki",
+		"description": "Mystery armor made of cookies and cake.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 85,
+			"MGK": 0,
+			"RES": 88,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Monster Cookie"},
+					{"reference": "Sweetsland"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Flour"},
+					{"reference": "Salt"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Goat Milk"},
+					{"reference": "Vanilla Syrup"},
+					{"reference": "120% Fruit"},
+					{"reference": "Veggielicious"},
+					{"reference": "Veggie Purple"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Taiyaki"},
+					{"reference": "Rocks rock!"},
+					{"reference": "Meringue Whip"}
+				]
+			}
+		],
+		"image": "images/armor/baked_plate.png",
+		"original_recipe": {"reference": "Platemail"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Monster Cookie or Sweetsland"
+	},
+	{
+		"name": "Armored Crab",
+		"type": "Armor",
+		"equippable": "Vayne, Flay, Anna, Nikki",
+		"description": "Crimson armor shaped like a crab shell.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 105,
+			"MGK": 0,
+			"RES": 110,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "King Crab"},
+			{
+				"alternatives": [
+					{"reference": "Iron Plate"},
+					{"reference": "Bronze Plate"},
+					{"reference": "Baked Plate"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Raw Komet Ore"},
+					{"reference": "Super Komet"},
+					{"reference": "Gravity Stone"},
+					{"reference": "Elemia Silver"},
+					{"reference": "Pendelook"}
+				]
+			}
+		],
+		"image": "images/armor/armored_crab.png",
+		"original_recipe": {"reference": "Platemail"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to King Crab"
+	},
+	{
+		"name": "Kaiserfish Mail",
+		"type": "Armor",
+		"equippable": "Vayne, Flay, Anna, Nikki",
+		"description": "Armor made to look like the fish hero.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 120,
+			"MGK": 0,
+			"RES": 125,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Kaiser: Aqua Hero"},
+			{
+				"alternatives": [
+					{"reference": "Iron Plate"},
+					{"reference": "Bronze Plate"},
+					{"reference": "Baked Plate"},
+					{"reference": "Armored Crab"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Masou"},
+					{"reference": "Trout"},
+					{"reference": "Chinook"},
+					{"reference": "King Tuna"},
+					{"reference": "Queen Tuna"},
+					{"reference": "Sharkgill"}
+				]
+			}
+		],
+		"image": "images/armor/kaiserfish_mail.png",
+		"original_recipe": {"reference": "Royal Metal Armor"},
+		"character": "Muppy",
+		"idea_trigger": "After making Armored Crab"
+	},
+	{
+		"name": "Silver Cuirass",
+		"type": "Armor",
+		"equippable": "Vayne, Flay, Anna, Nikki",
+		"description": "Light, strong armor made of silver.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 124,
+			"MGK": 0,
+			"RES": 129,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "White Steel"},
+					{"reference": "Liquid Metal"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Iron Plate"},
+					{"reference": "Bronze Plate"},
+					{"reference": "Baked Plate"},
+					{"reference": "Armored Crab"},
+					{"reference": "Kaiserfish Mail"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Apollo's Diapason"},
+					{"reference": "Fortune Ring"},
+					{"reference": "Alchemic Cymbal"},
+					{"reference": "Divine Shield"}
+				]
+			}
+		],
+		"image": "images/armor/silver_cuirass.png",
+		"original_recipe": {"reference": "Royal Metal Armor"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Gold Mail",
+		"type": "Armor",
+		"equippable": "Vayne, Flay, Anna, Nikki",
+		"description": "Golden armor with gorgeous decorations.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 137,
+			"MGK": 0,
+			"RES": 143,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Gold Bullion"},
+					{"reference": "Golden Soup"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Silver Cuirass"},
+					{"reference": "Estevan Guard"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Fortune Ring"},
+					{"reference": "Divine Shield"}
+				]
+			}
+		],
+		"image": "images/armor/gold_mail.png",
+		"original_recipe": {"reference": "Royal Metal Armor"},
+		"character": "Flay",
+		"idea_trigger": "After making Silver Cuirass"
+	},
+	{
+		"name": "Male Uniform",
+		"type": "Armor",
+		"equippable": "Vayne, Flay, Roxis",
+		"description": "An orthodox male uniform.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 43,
+			"MGK": 0,
+			"RES": 37,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Nicro Cloth"},
+			{
+				"alternatives": [
+					{"reference": "Zettel"},
+					{"reference": "Tuft"},
+					{"reference": "Knot"},
+					{"reference": "Worn Armor"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Gear"},
+					{"reference": "Red Petal"}
+				]
+			}
+		],
+		"image": "images/armor/male_uniform.png",
+		"original_recipe": {"reference": "Standard Uniform-M"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Altered Uniform M",
+		"type": "Armor",
+		"equippable": "Vayne, Flay, Roxis",
+		"description": "Uniform for boys who want to stand out.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 56,
+			"MGK": 0,
+			"RES": 49,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Male Uniform"},
+			{
+				"alternatives": [
+					{"reference": "Woodchip"},
+					{"reference": "Worn Weapon"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Wild Meat"},
+					{"reference": "Rotten Meat"}
+				]
+			},
+			{"reference": "Eternal Turnkey"}
+		],
+		"image": "images/armor/altered_uniform_m.png",
+		"original_recipe": {"reference": "Standard Uniform-M"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Male Uniform"
+	},
+	{
+		"name": "Japanesque Uniform",
+		"type": "Armor",
+		"equippable": "Vayne, Flay, Roxis",
+		"description": "A unique outfit that attracts attention.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 77,
+			"MGK": 0,
+			"RES": 68,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Male Uniform"},
+					{"reference": "Altered Uniform M"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Black Liquid"},
+					{"reference": "Black Powder"},
+					{"reference": "Black Steel"},
+					{"reference": "Black Dirt"},
+					{"reference": "Black Feather"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Pleather Cloth"},
+					{"reference": "Bonita"},
+					{"reference": "Endless Seaweed"}
+				]
+			}
+		],
+		"image": "images/armor/japanesque_uniform.png",
+		"original_recipe": {"reference": "Oldschool Uniform"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "White Japanesque Uniform",
+		"type": "Armor",
+		"equippable": "Vayne, Flay, Roxis",
+		"description": "A pure white uniform with a classy feel.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 116,
+			"MGK": 0,
+			"RES": 102,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Japanesque Uniform"},
+			{
+				"alternatives": [
+					{"reference": "White Feather"},
+					{"reference": "Long Ice Cream"},
+					{"reference": "Meringue Whip"},
+					{"reference": "White Steel"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Glowing Petal"},
+					{"reference": "Scale Chips"}
+				]
+			}
+		],
+		"image": "images/armor/white_japanesque_uniform.png",
+		"original_recipe": {"reference": "Oldschool Uniform"},
+		"character": "Vayne",
+		"idea_trigger": "Change the first material to Japanesque Uniform"
+	},
+	{
+		"name": "Gangster",
+		"type": "Armor",
+		"equippable": "Vayne, Flay, Roxis",
+		"description": "Only the boss of the school wears this.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 129,
+			"MGK": 0,
+			"RES": 113,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "White Japanesque"},
+			{
+				"alternatives": [
+					{"reference": "Bone Necklace"},
+					{"reference": "Cait Sith's Collar"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Knot"},
+					{"reference": "Meringue Whip"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Brilliant Stone"},
+					{"reference": "Pentagle"}
+				]
+			}
+		],
+		"image": "images/armor/gangster.png",
+		"original_recipe": {"reference": "Oldschool Uniform"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to White Japanesque"
+	},
+	{
+		"name": "King Style",
+		"type": "Armor",
+		"equippable": "Vayne, Flay, Roxis",
+		"description": "Formal outfit for the royal gentleman.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 141,
+			"MGK": 0,
+			"RES": 124,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "King Tuna"},
+					{"reference": "Queen Tuna"},
+					{"reference": "Crown Pot"},
+					{"reference": "Crown Breastplate"},
+					{"reference": "Star Queen"}
+				]
+			},
+			{"reference": "White Japanesque"},
+			{
+				"alternatives": [
+					{"reference": "Silky Cloth"},
+					{"reference": "Formell Fabric"},
+					{"reference": "Misty Curtain"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Silver Thread"},
+					{"reference": "Clear Fiber"}
+				]
+			}
+		],
+		"image": "images/armor/king_style.png",
+		"original_recipe": {"reference": "Royal CLothes"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Female Uniform",
+		"type": "Armor",
+		"equippable": "Jess, Anna, Nikki, Pamela",
+		"description": "An orthodox female student uniform.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 31,
+			"MGK": 0,
+			"RES": 49,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Nicro Cloth"},
+			{
+				"alternatives": [
+					{"reference": "Zettel"},
+					{"reference": "Tuft"},
+					{"reference": "Knot"},
+					{"reference": "Angel's Slip"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Gear"},
+					{"reference": "Red Petal"}
+				]
+			}
+		],
+		"image": "images/armor/female_uniform.png",
+		"original_recipe": {"reference": "Standard Uniform-F"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Altered Uniform F",
+		"type": "Armor",
+		"equippable": "Jess, Anna, Nikki, Pamela",
+		"description": "For girls who care about fashion.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 39,
+			"MGK": 0,
+			"RES": 61,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Female Uniform"},
+			{
+				"alternatives": [
+					{"reference": "Tangerine"},
+					{"reference": "Sunrise Orange"},
+					{"reference": "Bitter Grape"},
+					{"reference": "Night-In-Grape"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Heal Jar"},
+					{"reference": "Green Soup"}
+				]
+			},
+			{"reference": "Eternal Turnkey"}
+		],
+		"image": "images/armor/altered_uniform_f.png",
+		"original_recipe": {"reference": "Standard Uniform-F"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Female Uniform"
+	},
+	{
+		"name": "Long Uniform",
+		"type": "Armor",
+		"equippable": "Jess, Anna, Nikki, Pamela",
+		"description": "Less hoochy for conservative girls.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 51,
+			"MGK": 0,
+			"RES": 79,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Altered Uniform F"},
+			{"reference": "Pleather Cloth"},
+			{
+				"alternatives": [
+					{"reference": "Huffin"},
+					{"reference": "Gash Twig"},
+					{"reference": "Endless Seaweed"},
+					{"reference": "Long Ice Cream"}
+				]
+			},
+			{"reference": "Asclepius"}
+		],
+		"image": "images/armor/long_uniform.png",
+		"original_recipe": {"reference": "Standard Uniform-F"},
+		"character": "Vayne",
+		"idea_trigger": "Just change the first material to Altered Uniform F"
+	},
+	{
+		"name": "Bad Girl",
+		"type": "Armor",
+		"equippable": "Jess, Anna, Nikki, Pamela",
+		"description": "For the real boss. Chain included.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 62,
+			"MGK": 0,
+			"RES": 98,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Long Uniform"},
+					{"reference": "Altered Uniform F"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Knot"},
+					{"reference": "Dietary Fiber"},
+					{"reference": "Silver Thread"},
+					{"reference": "Clear Fiber"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Thorn Gauntlet"},
+					{"reference": "Lando"},
+					{"reference": "X-Lando"},
+					{"reference": "Sweet Lando"},
+					{"reference": "King Crab"}
+				]
+			}
+		],
+		"image": "images/armor/bad_girl.png",
+		"original_recipe": {"reference": "Retro Uniform"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Maiden",
+		"type": "Armor",
+		"equippable": "Jess, Anna, Nikki, Pamela",
+		"description": "Clothes of virgins who serve God.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 104,
+			"MGK": 0,
+			"RES": 163,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Crimson Feather"},
+					{"reference": "Rainbow Feather"},
+					{"reference": "Angel Wing"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Heaven's Silk"},
+					{"reference": "Feathery Flow"}
+				]
+			},
+			{"reference": "Aurora Curtain"},
+			{"reference": "Formell Fabric"}
+		],
+		"image": "images/armor/maiden.png",
+		"original_recipe": {"reference": "Retro Uniform"},
+		"character": "Anna",
+		"idea_trigger": "After making Bad Girl"
+	},
+	{
+		"name": "Heaven's Silk",
+		"type": "Armor",
+		"equippable": "Jess, Anna, Nikki, Pamela",
+		"description": "A silk bustier of heavenly touch.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 79,
+			"MGK": 0,
+			"RES": 124,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Angel's Slip"},
+					{"reference": "Devil's Panties"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Angel Wing"},
+					{"reference": "Archangel Wings"},
+					{"reference": "Fallen Wing"}
+				]
+			},
+			{"reference": "Misty Curtain"},
+			{"reference": "Silver Thread"}
+		],
+		"image": "images/armor/heavens_silk.png",
+		"original_recipe": {"reference": "Elegant Clothes"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Black Cat",
+		"type": "Armor",
+		"equippable": "Jess, Anna, Nikki, Pamela",
+		"description": "A dealer outfit with a kitty ear accent.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 66,
+			"MGK": 0,
+			"RES": 104,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Kitty Ears"},
+			{
+				"alternatives": [
+					{"reference": "Angel's Slip"},
+					{"reference": "Devil's Panties"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Black Liquid"},
+					{"reference": "Black Powder"},
+					{"reference": "Black Dirt"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Pretty Ribbon"},
+					{"reference": "Cait Sith's Collar"},
+					{"reference": "Kittynip"}
+				]
+			}
+		],
+		"image": "images/armor/black_cat.png",
+		"original_recipe": {"reference": "Cat Suit"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Kitty Ear Maid",
+		"type": "Armor",
+		"equippable": "Jess, Anna, Nikki, Pamela",
+		"description": "A maid outfit with blaring kitty ears.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 97,
+			"MGK": 0,
+			"RES": 151,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Heaven's Silk"},
+					{"reference": "Long Uniform"},
+					{"reference": "Bad Girl"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Kitty Ears"},
+					{"reference": "Black Cat"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Cait Sith's Collar"},
+					{"reference": "Kittynip"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Silky Cloth"},
+					{"reference": "Formell Fabric"}
+				]
+			}
+		],
+		"image": "images/armor/kitty_ear_maid.png",
+		"original_recipe": {"reference": "Cat Suit"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Heaven's Sik, Long Uniform, or Bad Girl"
+	},
+	{
+		"name": "Raven Robe",
+		"type": "Armor",
+		"equippable": "Roxis, Jess, Pamela, Muppy",
+		"description": "It may look somber, but it's very strong.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 74,
+			"MGK": 0,
+			"RES": 101,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Black Liquid"},
+					{"reference": "Black Powder"},
+					{"reference": "Black Feather"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Nicro Cloth"},
+					{"reference": "Pleather Cloth"},
+					{"reference": "Silky Cloth"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Taun"},
+					{"reference": "Tercia Pollen"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Goat Milk"},
+					{"reference": "Marine Water"}
+				]
+			}
+		],
+		"image": "images/armor/raven_robe.png",
+		"original_recipe": {"reference": "Robe"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Black Liquid, Black Powder, or Black Feather"
+	},
+	{
+		"name": "Arabesque Robe",
+		"type": "Armor",
+		"equippable": "Roxis, Jess, Pamela, Muppy",
+		"description": "A strange looking, bright green robe.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 57,
+			"MGK": 0,
+			"RES": 78,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Spinacherb"},
+					{"reference": "Purplinacherb"},
+					{"reference": "Gash Twig"},
+					{"reference": "Kittynip"},
+					{"reference": "Dunkelhite"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Nicro Cloth"},
+					{"reference": "Pleather Cloth"},
+					{"reference": "Silky Cloth"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Puniball"},
+					{"reference": "Strom Shell"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Goat Milk"},
+					{"reference": "Marine Water"}
+				]
+			}
+		],
+		"image": "images/armor/arabesque_robe.png",
+		"original_recipe": {"reference": "Robe"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "La Matador",
+		"type": "Armor",
+		"equippable": "Roxis, Jess, Pamela, Muppy",
+		"description": "The crimson robe of a legendary matador.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 66,
+			"MGK": 0,
+			"RES": 89,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Crimson Feather"},
+					{"reference": "Night-In-Grape"},
+					{"reference": "Cyprus Copper"},
+					{"reference": "Red Petal"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Nicro Cloth"},
+					{"reference": "Pleather Cloth"},
+					{"reference": "Silky Cloth"}
+				]
+			},
+			{"reference": "Feather Charm"},
+			{
+				"alternatives": [
+					{"reference": "Lando"},
+					{"reference": "X-Lando"},
+					{"reference": "Sweet Lando"},
+					{"reference": "Red Soup"}
+				]
+			}
+		],
+		"image": "images/armor/la_matador.png",
+		"original_recipe": {"reference": "Robe"},
+		"character": "Vayne",
+		"idea_trigger": "Just change the first material to Crimson Feather, Night-In-Grape, Cyprus Copper, or Red Petal"
+	},
+	{
+		"name": "Aurora Curtain",
+		"type": "Armor",
+		"equippable": "Roxis, Jess, Pamela, Muppy",
+		"description": "Clothes that glow like an aurora.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 150,
+			"MGK": 0,
+			"RES": 150,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Rainbow Feather"},
+					{"reference": "Dunkelhite"}
+				]
+			},
+			{"reference": "Misty Curtain"},
+			{"reference": "Dragonscale Garb"},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Goat Milk"},
+					{"reference": "Marine Water"}
+				]
+			}
+		],
+		"image": "images/armor/aurora_curtain.png",
+		"original_recipe": {"reference": "Magic Garments"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Rainbow Feather or Dunkelhite"
+	},
+	{
+		"name": "Dragonscale Garb",
+		"type": "Armor",
+		"equippable": "Roxis, Jess, Pamela, Muppy",
+		"description": "A magical gown made of woven dragonscale.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 123,
+			"MGK": 0,
+			"RES": 120,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Dragon Scale"},
+			{
+				"alternatives": [
+					{"reference": "Silky Cloth"},
+					{"reference": "Formell Fabric"},
+					{"reference": "Misty Curtain"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Dragon Bone"},
+					{"reference": "Dragon Tongue"},
+					{"reference": "Carabine Harp"}
+				]
+			},
+			{"reference": "Symbol of Uroborus"}
+		],
+		"image": "images/armor/dragonscale_garb.png",
+		"original_recipe": {"reference": "Magic Garments"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Fishscale Garb",
+		"type": "Armor",
+		"equippable": "Roxis, Jess, Pamela, Muppy",
+		"description": "A magical gown made of fishscale instead.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 136,
+			"MGK": 0,
+			"RES": 136,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Blowfish-X"},
+					{"reference": "Tiger Blowfish"},
+					{"reference": "Chinook"},
+					{"reference": "Trout"},
+					{"reference": "Masou"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Silky Cloth"},
+					{"reference": "Formell Fabric"},
+					{"reference": "Misty Curtain"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Raven Robe"},
+					{"reference": "Arabesque Robe"},
+					{"reference": "La Matador"},
+					{"reference": "Chocolate Robe"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Goat Milk"},
+					{"reference": "Marine Water"}
+				]
+			}
+		],
+		"image": "images/armor/fishscale_garb.png",
+		"original_recipe": {"reference": "Magic Garments"},
+		"character": "Anna",
+		"idea_trigger": "After making Dragonscale Garb"
+	},
+	{
+		"name": "Chocolate Robe",
+		"type": "Armor",
+		"equippable": "Roxis, Jess, Pamela, Muppy",
+		"description": "An edible robe made of chocolate.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 147,
+			"MGK": 0,
+			"RES": 107,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Raven Robe"},
+			{"reference": "99% Chaos Choco"},
+			{"reference": "Candy Eye"},
+			{"reference": "Bomb Ice"}
+		],
+		"image": "images/armor/chocolate_robe.png",
+		"original_recipe": {"reference": "Robe"},
+		"character": "Nikki",
+		"idea_trigger": "After making Arabesque Robe"
+	},
+	{
+		"name": "Estevan Guard",
+		"type": "Armor",
+		"equippable": "Vayne, Flay",
+		"description": "Regal alloy armor, heavily decorated.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 19,
+			"DEF": 149,
+			"MGK": 0,
+			"RES": 99,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Bronze Plate"},
+					{"reference": "Bone Breastplate"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Dragon Scale"},
+					{"reference": "Dragon Tongue"},
+					{"reference": "Carabine Harp"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Elemia Silver"},
+					{"reference": "Raw Komet Ore"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Stone of Alectoria"},
+					{"reference": "Flame Ring"},
+					{"reference": "Ice Ring"},
+					{"reference": "Thunder Ring"}
+				]
+			}
+		],
+		"image": "images/armor/estevan_guard.png",
+		"original_recipe": {"reference": "Heavy Armor"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Bone Breastplate",
+		"type": "Armor",
+		"equippable": "Vayne, Flay",
+		"description": "Eerie armor made of bones and skulls.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 16,
+			"DEF": 122,
+			"MGK": 0,
+			"RES": 81,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Iron Plate"},
+			{"reference": "Monster Bone"},
+			{
+				"alternatives": [
+					{"reference": "Chrome Crystal"},
+					{"reference": "Soul of Darkness"},
+					{"reference": "Preservative"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Wild Meat"},
+					{"reference": "Rotten Meat"},
+					{"reference": "Golden Meat"}
+				]
+			}
+		],
+		"image": "images/armor/bone_breastplate.png",
+		"original_recipe": {"reference": "Heavy Armor"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Iron Plate"
+	},
+	{
+		"name": "Crown Breastplate",
+		"type": "Armor",
+		"equippable": "Vayne, Flay",
+		"description": "Blessed armor made to guard the royalty.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 22,
+			"DEF": 173,
+			"MGK": 0,
+			"RES": 115,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Estevan Guard"},
+					{"reference": "Bone Breastplate"},
+					{"reference": "Silver Cuirass"},
+					{"reference": "Gold Mail"}
+				]
+			},
+			{"reference": "Altena Ingot"},
+			{
+				"alternatives": [
+					{"reference": "King Tuna"},
+					{"reference": "Queen Tuna"},
+					{"reference": "Crown Pot"},
+					{"reference": "King Style"},
+					{"reference": "Star Queen"}
+				]
+			}
+		],
+		"image": "images/armor/crown_breastplate.png",
+		"original_recipe": {"reference": "Holy Armor"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Panzer Cloak",
+		"type": "Armor",
+		"equippable": "Roxis",
+		"description": "A heavily armored cloak for protection.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 69,
+			"MGK": 13,
+			"RES": 104,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Iron Plate"},
+					{"reference": "Bronze Plate"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Nicro Cloth"},
+					{"reference": "Pleather Cloth"},
+					{"reference": "Silky Cloth"},
+					{"reference": "Formell Fabric"}
+				]
+			},
+			{"reference": "Chrome Crystal"}
+		],
+		"image": "images/armor/panzer_cloak.png",
+		"original_recipe": {"reference": "Hardened Cloak"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Imperial Cloth",
+		"type": "Armor",
+		"equippable": "Roxis",
+		"description": "A decorated armored cloak for royalty.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 103,
+			"MGK": 20,
+			"RES": 155,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Dragonscale Garb"},
+					{"reference": "Aurora Curtain"},
+					{"reference": "Fishscale Garb"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Symbol of Uroborus"},
+					{"reference": "Velvet Horn"}
+				]
+			},
+			{"reference": "Liquid Metal"}
+		],
+		"image": "images/armor/imperial_cloth.png",
+		"original_recipe": {"reference": "Hardened Cloak"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Dragonscale Garb, Aurora Curtain, or Fishscale Garb"
+	},
+	{
+		"name": "Feathery Flow",
+		"type": "Armor",
+		"equippable": "Anna, Nikki",
+		"description": "A very light armor made of plumes.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 16,
+			"DEF": 129,
+			"MGK": 0,
+			"RES": 114,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Angel Wing"},
+					{"reference": "Fallen Wing"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Blue Steel"},
+					{"reference": "White Steel"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Divine Shield"},
+					{"reference": "Shield of Ajax"}
+				]
+			}
+		],
+		"image": "images/armor/feathery_flow.png",
+		"original_recipe": {"reference": "Women's Armor"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Star Queen",
+		"type": "Armor",
+		"equippable": "Anna, Nikki",
+		"description": "Elegant armor for the legendary queen.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 18,
+			"DEF": 143,
+			"MGK": 0,
+			"RES": 127,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Brilliant Stone"},
+					{"reference": "Pentagle"},
+					{"reference": "Aroma Material"}
+				]
+			},
+			{"reference": "Feathery Flow"},
+			{"reference": "Queen Tuna"},
+			{
+				"alternatives": [
+					{"reference": "Gloves of Artorius"},
+					{"reference": "Thorn Gauntlet"},
+					{"reference": "Scale Gauntlet"}
+				]
+			}
+		],
+		"image": "images/armor/star_queen.png",
+		"original_recipe": {"reference": "Women's Armor"},
+		"character": "Anna",
+		"idea_trigger": "After making Angel Cloth"
+	},
+	{
+		"name": "Angel Cloth",
+		"type": "Armor",
+		"equippable": "Anna, Nikki",
+		"description": "Armor with wings for innocent maidens.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 19,
+			"DEF": 151,
+			"MGK": 0,
+			"RES": 134,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Archangel Wings"},
+			{
+				"alternatives": [
+					{"reference": "Angel's Slip"},
+					{"reference": "Devil's Panties"}
+				]
+			},
+			{"reference": "Feathery Flow"},
+			{
+				"alternatives": [
+					{"reference": "Winged Boots"},
+					{"reference": "Flying Fish Boots"}
+				]
+			}
+		],
+		"image": "images/armor/angel_cloth.png",
+		"original_recipe": {"reference": "Women's Armor"},
+		"character": "Anna",
+		"idea_trigger": "After making Feathery Flow"
+	},
+	{
+		"name": "Alchemy Robe",
+		"type": "Armor",
+		"equippable": "Jess, Pamela",
+		"description": "Clothes worn by the legendary alchemist.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 65,
+			"MGK": 25,
+			"RES": 195,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Angel Wing"},
+					{"reference": "Fallen Wing"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Blue Steel"},
+					{"reference": "White Steel"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Divine Shield"},
+					{"reference": "Shield of Ajax"}
+				]
+			}
+		],
+		"image": "images/armor/alchemy_robe.png",
+		"original_recipe": {"reference": "Legendary Robe"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Saint's Garb",
+		"type": "Armor",
+		"equippable": "Jess, Pamela",
+		"description": "Holy garment guarded by holy powers.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 71,
+			"MGK": 27,
+			"RES": 214,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Altena Ingot"},
+			{
+				"alternatives": [
+					{"reference": "Imperial Cloth"},
+					{"reference": "Alchemy Robe"}
+				]
+			},
+			{"reference": "Aroma Material"}
+		],
+		"image": "images/armor/saints_garb.png",
+		"original_recipe": {"reference": "Legendary Robe"},
+		"character": "Pamela",
+		"idea_trigger": "After making Alchemy Robe"
+	},
+	{
+		"name": "Lucifer's Leotard",
+		"type": "Armor",
+		"equippable": "Jess, Pamela",
+		"description": "A sexy leotard with an alluring aura.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 67,
+			"MGK": 25,
+			"RES": 201,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Devil's Panties"},
+			{
+				"alternatives": [
+					{"reference": "Heaven's Silk"},
+					{"reference": "Black Cat"}
+				]
+			},
+			{"reference": "Pentagle"},
+			{"reference": "Fallen Wing"}
+		],
+		"image": "images/armor/lucifers_leotard.png",
+		"original_recipe": {"reference": "Sexy Outfit"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Black Veil",
+		"type": "Armor",
+		"equippable": "Vayne",
+		"description": "Woven with cloth darker than black.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 199,
+			"MGK": 0,
+			"RES": 180,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Gold Mail"},
+			{"reference": "Fallen Wing"},
+			{"reference": "Stellar Globe"},
+			{"reference": "Symbol of Uroborus"}
+		],
+		"image": "images/armor/black_veil.png",
+		"original_recipe": {"reference": "Dark Battlespirit"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Gallant Mantle",
+		"type": "Armor",
+		"equippable": "Flay",
+		"description": "Reminiscent of the boldest hero.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 238,
+			"MGK": 0,
+			"RES": 149,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Gangster"},
+			{"reference": "Megingjorz"},
+			{"reference": "Altena Ingot"},
+			{"reference": "Tera Flame"}
+		],
+		"image": "images/armor/gallant_mantle.png",
+		"original_recipe": {"reference": "Man's Mantle"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Grand Alchemist",
+		"type": "Armor",
+		"equippable": "Roxis",
+		"description": "Robes worn only by the great alchemist.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 149,
+			"MGK": 0,
+			"RES": 238,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Saint's Garb"},
+			{"reference": "Shining Grail"},
+			{"reference": "Philosopher's Hand"},
+			{"reference": "Glasses of Death"}
+		],
+		"image": "images/armor/grand_alchemist.png",
+		"original_recipe": {"reference": "Grand Robe"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Biohair Wig",
+		"type": "Armor",
+		"equippable": "Jess",
+		"description": "Cool extensions of the near future.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 179,
+			"MGK": 0,
+			"RES": 198,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Dragon Tongue"},
+			{"reference": "Uni God"},
+			{"reference": "Brilliant Stone"},
+			{"reference": "Aurora Curtain"}
+		],
+		"image": "images/armor/biohair_wig.png",
+		"original_recipe": {"reference": "Sensitive Hair"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Holy Beast Hide",
+		"type": "Armor",
+		"equippable": "Nikki",
+		"description": "Battlegear made of beastlord coats.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 207,
+			"MGK": 0,
+			"RES": 177,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Angel Cloth"},
+			{"reference": "Shiny Moustache"},
+			{"reference": "Bunny Ears"},
+			{"reference": "Super Nectar"}
+		],
+		"image": "images/armor/holy_beast_hide.png",
+		"original_recipe": {"reference": "Beast Hide"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Knight's Waistcoat",
+		"type": "Armor",
+		"equippable": "Anna",
+		"description": "Noble armor worn by masters of the sword.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 179,
+			"MGK": 0,
+			"RES": 179,
+			"SPD": 40
+		},
+		"items_needed": [
+
+			{"reference": "Maiden"},
+			{"reference": "Feathery Flow"},
+			{"reference": "Symbol of Uroborus"},
+			{"reference": "Winged Boots"}
+		],
+		"image": "images/armor/knights_waistcoat.png",
+		"original_recipe": {"reference": "Master's Outfit"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Robe of Life",
+		"type": "Armor",
+		"equippable": "Pamela",
+		"description": "Spiritual robes of a high priest.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 119,
+			"MGK": 0,
+			"RES": 268,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Saint's Garb"},
+			{"reference": "Trauer Tarot"},
+			{"reference": "Elixir"},
+			{"reference": "Formell Fabric"}
+		],
+		"image": "images/armor/robe_of_life.png",
+		"original_recipe": {"reference": "Incanter's Garb"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Rejuvenator Skin",
+		"type": "Armor",
+		"equippable": "Muppy",
+		"description": "Advanced pneumatic liquid armor.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 250,
+			"MGK": 0,
+			"RES": 156,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Elixir"},
+			{"reference": "Blood Clay"},
+			{
+				"alternatives": [
+					{"reference": "Fires of Hell"},
+					{"reference": "Diamond Dust"},
+					{"reference": "Electric Elect"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Goat Milk"},
+					{"reference": "Marine Water"}
+				]
+			}
+		],
+		"image": "images/armor/rejuvenator_skin.png",
+		"original_recipe": {"reference": "Liquid Armor"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Mana-eurism Coat",
+		"type": "Armor",
+		"equippable": "Vayne",
+		"description": "The ultimate armor woven with Mana gems.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 50,
+			"DEF": 150,
+			"MGK": 50,
+			"RES": 150,
+			"SPD": 25
+		},
+		"image": "images/armor/mana-eurism_coat.png",
+		"gathering spot":"Secret Dungeon (Beat the game first)"
+	},
+	{
+		"name": "Man's Clothes",
+		"type": "Armor",
+		"equippable": "Flay",
+		"description": "For the men, for the strongest gangster.",
+		"stats": {
+			"HP": 150,
+			"SP": 0,
+			"ATK": 250,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"image": "images/armor/mans_clothes.png",
+		"gathering spot":"Secret Dungeon (Beat the game first)"
+	},
+	{
+		"name": "Meister Cloak",
+		"type": "Armor",
+		"equippable": "Roxis",
+		"description": "Robes of an alchemy master.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 100,
+			"MGK": 50,
+			"RES": 200,
+			"SPD": 25
+		},
+		"image": "images/armor/meister_cloak.png",
+		"gathering spot":"Secret Dungeon (Beat the game first)"
+	},
+	{
+		"name": "Dame's Hair",
+		"type": "Armor",
+		"equippable": "Jess",
+		"description": "A wig designed like a noble lady's hair.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 120,
+			"MGK": 80,
+			"RES": 160,
+			"SPD": 0
+		},
+		"image": "images/armor/dames_hair.png",
+		"gathering spot":"Secret Dungeon (Beat the game first)"
+	},
+	{
+		"name": "Beast Leather",
+		"type": "Armor",
+		"equippable": "Nikki",
+		"description": "Armor made of beast hide. Kind of smelly.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 100,
+			"DEF": 175,
+			"MGK": 0,
+			"RES": 125,
+			"SPD": 0
+		},
+		"image": "images/armor/beast_leather.png",
+		"gathering spot":"Secret Dungeon (Beat the game first)"
+	},
+	{
+		"name": "Swiftwing Garb",
+		"type": "Armor",
+		"equippable": "Anna",
+		"description": "The wind's robe of ultimate speed.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 60,
+			"DEF": 120,
+			"MGK": 0,
+			"RES": 120,
+			"SPD": 50
+		},
+		"image": "images/armor/swiftwing_garb.png",
+		"gathering spot":"Secret Dungeon (Beat the game first)"
+	},
+	{
+		"name": "Platinum Robe",
+		"type": "Armor",
+		"equippable": "Pamela",
+		"description": "A robe woven with platinum. Expensive.",
+		"stats": {
+			"HP": 0,
+			"SP": 100,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 75,
+			"RES": 150,
+			"SPD": 0
+		},
+		"image": "images/armor/platinum_robe.png",
+		"gathering spot":"Secret Dungeon (Beat the game first)"
+	},
+	{
+		"name": "Future Suit",
+		"type": "Armor",
+		"equippable": "Muppy",
+		"description": "Evolved Rejuvenator Skin. Non-stick.",
+		"stats": {
+			"HP": 166,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 166,
+			"MGK": 0,
+			"RES": 166,
+			"SPD": 0
+		},
+		"image": "images/armor/future_suit.png",
+		"gathering spot":"Secret Dungeon (Beat the game first)"
+	}
+]

@@ -1,0 +1,1360 @@
+[
+	{
+		"name": "Heal Jar",
+		"type": "Usable Synthesis Item",
+		"use_type": "Heal",
+		"effect": "HP Heal (M)",
+		"target": "Single Ally",
+		"description": "A basic healing medicine made from various extracts.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Spinacherb"},
+					{"reference": "Purplinacherb"},
+					{"reference": "Gash Twig"},
+					{"reference": "Huffin"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Blue Petal"},
+					{"reference": "Glowing Petal"},
+					{"reference": "Red Petal"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Goat Milk"},
+					{"reference": "Marine Water"},
+					{"reference": "Vanilla Syrup"},
+					{"reference": "Black Liquid"},
+					{"reference": "Preservative"}
+				]
+			}
+		],
+		"image": "images/usable/heal_jar.png",
+		"original_recipe": {"reference": "Healing Medicine"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "X Heal",
+		"type": "Usable Synthesis Item",
+		"use_type": "Heal",
+		"effect": "HP Heal (L)",
+		"target": "Single Ally",
+		"description": "A strong healing medicine made from select materials.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Taun"},
+					{"reference": "Purplinacherb"},
+					{"reference": "Tercia Pollen"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Lando"},
+					{"reference": "X-Lando"},
+					{"reference": "Sweet Lando"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Bitter Grape"},
+					{"reference": "Night-In-Grape"},
+					{"reference": "Muscat"},
+					{"reference": "Tangerine"},
+					{"reference": "Sunrise Orange"},
+					{"reference": "Mandarin Orange"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Black Liquid"},
+					{"reference": "Preservative"}
+				]
+			}
+		],
+		"image": "images/usable/x_heal.png",
+		"original_recipe": {"reference": "Healing Medicine"},
+		"character": "Roxis",
+		"idea_trigger": "After making Heal Jar"
+	},
+	{
+		"name": "Heal All",
+		"type": "Usable Synthesis Item",
+		"use_type": "Heal",
+		"effect": "HP Heal (S)",
+		"target": "All Allies",
+		"description": "A diffusive healing medicine created for a larger range.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Heal Jar"},
+					{"reference": "X Heal"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Apollo's Diapason"},
+					{"reference": "Alchemic Cymbal"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Tercia Pollen"},
+					{"reference": "Kittynip"},
+					{"reference": "Dunkelhite"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Yubana Fruit"},
+					{"reference": "Dried Yubana"},
+					{"reference": "Yubana Flower"}
+				]
+			}
+
+		],
+		"image": "images/usable/heal_all.png",
+		"original_recipe": {"reference": "Spreading Medicine"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Cure Jar",
+		"type": "Usable Synthesis Item",
+		"use_type": "Heal",
+		"effect": "Cure Anomaly",
+		"target": "Single Ally",
+		"description": "Neutralizes poisons and effects within the body.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Belgrade Potato"},
+					{"reference": "Burdock Straight"},
+					{"reference": "Burdock Curve"},
+					{"reference": "Radish"},
+					{"reference": "Medicinal Radish"},
+					{"reference": "Shinke Onion"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Spinacherb"},
+					{"reference": "Purplinacherb"},
+					{"reference": "Gash Twig"},
+					{"reference": "Eicheloa"},
+					{"reference": "Poison Shroom"},
+					{"reference": "Taun"},
+					{"reference": "Huffin"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Goat Milk"},
+					{"reference": "Marine Water"},
+					{"reference": "Vanilla Syrup"},
+					{"reference": "Black Liquid"}
+				]
+			}
+		],
+		"image": "images/usable/cure_jar.png",
+		"original_recipe": {"reference": "Curing Medicine"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Nectar",
+		"type": "Usable Synthesis Item",
+		"use_type": "Heal",
+		"effect": "Awaken",
+		"target": "Single Ally",
+		"description": "An imitation of the drink of the gods.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Bitter Grape"},
+					{"reference": "Night-In-Grape"},
+					{"reference": "Muscat"},
+					{"reference": "Tangerine"},
+					{"reference": "Sunrise Orange"},
+					{"reference": "Mandarin Orange"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Carrotato"},
+					{"reference": "Belgrade Potato"},
+					{"reference": "Burdock Straight"},
+					{"reference": "Burdock Curve"},
+					{"reference": "Radish"},
+					{"reference": "Medicinal Radish"},
+					{"reference": "Shinke Onion"},
+					{"reference": "Pumpotatokin"}
+				]
+			},
+			{"reference": "Salt"}
+		],
+		"image": "images/usable/nectar.png",
+		"original_recipe": {"reference": "God's Drink"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Super Nectar",
+		"type": "Usable Synthesis Item",
+		"use_type": "Heal",
+		"effect": "Max Recovery",
+		"target": "Single Ally",
+		"description": "Aged Nectar that now has a much stronger effect.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Brilliant Stone"},
+					{"reference": "Pentagle"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "X-Lando"},
+					{"reference": "Sweet Lando"},
+					{"reference": "Mandarin Orange"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Radish"},
+					{"reference": "Medicinal Radish"},
+					{"reference": "Shinke Onion"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Preservative"},
+					{"reference": "X Heal"},
+					{"reference": "Heal All"}
+				]
+			}
+
+		],
+		"image": "images/usable/super_nectar.png",
+		"original_recipe": {"reference": "Super Juice"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Shining Grail",
+		"type": "Usable Synthesis Item",
+		"use_type": "Heal",
+		"effect": "Awaken",
+		"target":"All Allies",
+		"description": "God had blessed this cup, Nectar flows naturally.",
+		"items_needed": [
+
+			{"reference": "Nectar"},
+			{"reference": "Super Nectar"},
+			{
+				"alternatives": [
+					{"reference": "Liquid Metal"},
+					{"reference": "Velvet Horn"}
+				]
+			}
+		],
+		"image": "images/usable/shining_grail.png",
+		"original_recipe": {"reference": "A Holy Cup"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Amber Soup",
+		"type": "Usable Synthesis Item",
+		"use_type": "Heal",
+		"effect": "SP Heal (S)",
+		"target":"Single Ally",
+		"description": "Extracts of stewed medicinal plant. Calms you down.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "ATK Fruit"},
+					{"reference": "MGK Fruit"},
+					{"reference": "DEF Fruit"},
+					{"reference": "RES Fruit"},
+					{"reference": "SPD Fruit"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Carrotato"},
+					{"reference": "Belgrade Potato"},
+					{"reference": "Burdock Straight"},
+					{"reference": "Burdock Curve"},
+					{"reference": "Radish"},
+					{"reference": "Medicinal Radish"},
+					{"reference": "Shinke Onion"},
+					{"reference": "Pumpotatokin"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Marine Water"}
+				]
+			}
+		],
+		"image": "images/usable/amber_soup.png",
+		"original_recipe": {"reference": "Mental Stabilizer"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Tranquilizer",
+		"type": "Usable Synthesis Item",
+		"use_type": "Heal",
+		"effect": "SP Heal (L)",
+		"target":"Single Ally",
+		"description": "A strong stress relieving medicine. Slightly addictive.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Youthful Apple"},
+					{"reference": "Eternal Peach"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Carrotato"},
+					{"reference": "Belgrade Potato"},
+					{"reference": "Burdock Straight"},
+					{"reference": "Burdock Curve"},
+					{"reference": "Radish"},
+					{"reference": "Medicinal Radish"},
+					{"reference": "Shinke Onion"},
+					{"reference": "Pumpotatokin"}
+				]
+			},
+					{"reference": "Fortune Ring"}
+		],
+		"image": "images/usable/tranquilizer.png",
+		"original_recipe": {"reference": "Mental Stabilizer"},
+		"character": "Jess",
+		"idea_trigger": "After making Amber Soup"
+	},
+	{
+		"name": "Elixir",
+		"type": "Usable Synthesis Item",
+		"use_type": "Heal",
+		"effect": "HP Full Heal, Cure Anomaly",
+		"target":"Single Ally",
+		"description": "The ultimate remedy to cure everything.",
+		"items_needed": [
+
+			{"reference": "Super Nectar"},
+			{"reference": "X Heal"},
+			{"reference": "Dunkelhite"},
+			{"reference": "Shinke Onion"}
+		],
+		"image": "images/usable/elixir.png",
+		"original_recipe": {"reference": "Ultimate Remedy"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Steak",
+		"type": "Usable Synthesis Item",
+		"use_type": "Heal",
+		"effect": "HP Heal (S), ATK Up",
+		"target": "Single Ally",
+		"description": "A thick, juicy slab of grilled meat.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Wild Meat"},
+					{"reference": "Rotten Meat"},
+					{"reference": "Golden Meat"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Carrotato"},
+					{"reference": "Belgrade Potato"},
+					{"reference": "Pumpotatokin"}
+				]
+			},
+			{"reference": "Salt"}
+		],
+		"image": "images/usable/steak.png",
+		"original_recipe": {"reference": "Flaming BBQ"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Broiled Fish",
+		"type": "Usable Synthesis Item",
+		"use_type": "Heal",
+		"effect": "HP Heal (M), MGK UP",
+		"target":"Single Ally",
+		"description": "Light salted and flame broiled.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Masou"},
+					{"reference": "Trout"},
+					{"reference": "Chinook"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Radish"},
+					{"reference": "Medicinal Radish"}
+				]
+			},
+			{"reference": "Salt"}
+		],
+		"image": "images/usable/broiled_fish.png",
+		"original_recipe": {"reference": "Flaming BBQ"},
+		"character": "Nikki",
+		"idea_trigger": "After making Steak"
+	},
+	{
+		"name": "Ceramic Plate",
+		"type": "Usable Synthesis Item",
+		"use_type": "Attack",
+		"effect": "Physical Damage (S)",
+		"target": "Single Enemy",
+		"description": "A very heavy plate, painful if thrown at somebody.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Magical Clay"},
+					{"reference": "Blood Clay"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Liquid Metal"},
+					{"reference": "Preservative"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Plosion"},
+					{"reference": "Tera Flame"}
+				]
+			}
+		],
+		"image": "images/usable/ceramic_plate.png",
+		"original_recipe": {"reference": "Flaming BBQ"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Magical Clay or Blood Clay"
+	},
+	{
+		"name": "Fish Boat: Marlow",
+		"type": "Usable Synthesis Item",
+		"use_type": "Heal",
+		"effect": "HP Full Heal, Cure Anomaly",
+		"target": "All Allies",
+		"description": "A spectacular dish of the best seafood.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "King Tuna"},
+					{"reference": "Queen Tuna"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Bonita"},
+					{"reference": "Joker Fish"},
+					{"reference": "Blowfish-X"},
+					{"reference": "Tiger Blowfish"},
+					{"reference": "Chinook"},
+					{"reference": "Trout"},
+					{"reference": "Masou"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Radish"},
+					{"reference": "Medicinal Radish"}
+				]
+			},
+			{"reference": "Bobomb Ice"}
+		],
+		"image": "images/usable/fish_boat_marlow.png",
+		"original_recipe": {"reference": "Gorgeous Boat"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Green Soup",
+		"type": "Usable Synthesis Item",
+		"use_type": "Heal",
+		"effect": "HP Heal (S), DEF Up",
+		"target":"Single Ally",
+		"description": "A healthy green vegetable soup.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Spinacherb"},
+					{"reference": "Purplinacherb"},
+					{"reference": "Gash Twig"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Goat Milk"}
+				]
+			},
+			{"reference": "Salt"},
+			{
+				"alternatives": [
+					{"reference": "Carrotato"},
+					{"reference": "Belgrade Potato"},
+					{"reference": "Burdock Straight"},
+					{"reference": "Burdock Curve"},
+					{"reference": "Pumpotatokin"}
+				]
+			}
+		],
+		"image": "images/usable/green_soup.png",
+		"original_recipe": {"reference": "Deliciousoup"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Red Soup",
+		"type": "Usable Synthesis Item",
+		"use_type": "Heal",
+		"effect": "HP Heal (S), RES Up",
+		"target":"Single Ally",
+		"description": "A red stew made of red ingredients.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Lando"},
+					{"reference": "X-Lando"},
+					{"reference": "Sweet Lando"},
+					{"reference": "Night-In-Grape"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Tiger Blowfish"},
+					{"reference": "Blowfish-X"},
+					{"reference": "99% Chaos Choco"}
+				]
+			},
+			{"reference": "Salt"},
+			{
+				"alternatives": [
+					{"reference": "Green Soup"},
+					{"reference": "Goat Milk"},
+					{"reference": "Ceramic Plate"}
+				]
+			}
+		],
+		"image": "images/usable/red_soup.png",
+		"original_recipe": {"reference": "Deliciousoup"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Lando, X-Lando, Sweet Lando, or Night-In-Grape"
+	},
+	{
+		"name": "Golden Soup",
+		"type": "Usable Synthesis Item",
+		"use_type": "Heal",
+		"effect": "HP Full Heal, Auto Heal",
+		"target": "Single Ally",
+		"description": "Supreme soup with a huge golden nugget.",
+		"items_needed": [
+
+			{"reference": "Golden Bullion"},
+			{"reference": "Golden Meat"},
+			{"reference": "Liquid Metal"},
+			{"reference": "Ceramic Plate"}
+		],
+		"image": "images/usable/golden_soup.png",
+		"original_recipe": {"reference": "Deliciousoup"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Golden Bullion"
+	},
+	{
+		"name": "Flame",
+		"type": "Usable Synthesis Item",
+		"use_type": "Attack",
+		"effect": "Fire Damage (S)",
+		"target": "Area (M)",
+		"description": "A basic bomb filled with gunpowder.",
+		"items_needed": [
+
+			{"reference": "Canone Rock"},
+			{
+				"alternatives": [
+					{"reference": "Polish Powder"},
+					{"reference": "Flour"},
+					{"reference": "Black Powder"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Nicro Cloth"},
+					{"reference": "Pleather Cloth"},
+					{"reference": "Silky Cloth"},
+					{"reference": "Formell Fabric"}
+
+				]
+			}
+		],
+		"image": "images/usable/flame.png",
+		"original_recipe": {"reference": "Bomb"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Tera Flame",
+		"type": "Usable Synthesis Item",
+		"use_type": "Attack",
+		"effect": "Fire Damage (L), Knockback",
+		"target": "All Enemies",
+		"description": "The ultimate bomb made of many Flames.",
+		"items_needed": [
+
+			{"reference": "Chrome Crystal"},
+			{"reference": "Plosion"},
+			{"reference": "Flame Ring"}
+		],
+		"image": "images/usable/tera_flame.png",
+		"original_recipe": {"reference": "Super Bomb"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Bomb Ice",
+		"type": "Usable Synthesis Item",
+		"use_type": "Attack",
+		"effect": "Ice Damage (S)",
+		"target": "Area (M)",
+		"description": "An ice bomb. It will freeze everything upon explosion.",
+		"items_needed": [
+
+			{"reference": "Glacier Stone"},
+			{
+				"alternatives": [
+					{"reference": "Polish Powder"},
+					{"reference": "Flour"},
+					{"reference": "Black Powder"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Black Liquid"},
+					{"reference": "Preservative"}
+				]
+			}
+		],
+		"image": "images/usable/bomb_ice.png",
+		"original_recipe": {"reference": "Bomb"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Glacier Stone"
+	},
+	{
+		"name": "Bobomb Ice",
+		"type": "Usable Synthesis Item",
+		"use_type": "Attack",
+		"effect": "Ice Damage (L)",
+		"target": "All Enemies",
+		"description": "A series of Bomb Ice were tied together for maximum effect.",
+		"items_needed": [
+
+			{"reference": "Glacier Crystal"},
+			{"reference": "Plosion"},
+			{"reference": "Ice Ring"}
+			],
+		"image": "images/usable/bobomb_ice.png",
+		"original_recipe": {"reference": "Super Bomb"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Glacier Crystal"
+	},
+	{
+		"name": "Lightning Rod",
+		"type": "Usable Synthesis Item",
+		"use_type": "Attack",
+		"effect": "Lightning Damage (S)",
+		"target": "Single Enemy",
+		"description": "This lightning rod produces electricity instead",
+		"items_needed": [
+
+			{"reference": "Thunder Stone"},
+			{
+				"alternatives": [
+					{"reference": "Polish Powder"},
+					{"reference": "Flour"},
+					{"reference": "Black Powder"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Legien Steel"},
+					{"reference": "Cyprus Copper"},
+					{"reference": "Preuve Lead"},
+					{"reference": "Elemia Silver"}
+				]
+			}
+		],
+		"image": "images/usable/lightning_rod.png",
+		"original_recipe": {"reference": "Bomb"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Thunder Stone"
+	},
+	{
+		"name": "Thunder Rod",
+		"type": "Usable Synthesis Item",
+		"use_type": "Attack",
+		"effect": "Lightning Damage (L)",
+		"target": "All Enemies",
+		"description": "A dangerous rod that causes huge sparks.",
+		"items_needed": [
+
+			{"reference": "Thunder Crystal"},
+			{"reference": "Plosion"},
+			{"reference": "Thunder Ring"}
+		],
+		"image": "images/usable/thunder_rod.png",
+		"original_recipe": {"reference": "Super Bomb"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Thunder Crystal"
+	},
+	{
+		"name": "Uni Bomb",
+		"type": "Usable Synthesis Item",
+		"use_type": "Attack",
+		"effect": "Magic Damage (S), Poison",
+		"target": "Single Enemy",
+		"description": "A bomb that explodes with spikes.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Uni"},
+					{"reference": "Big Uni"}
+				]
+			},
+			{"reference": "Plosion"},
+			{
+				"alternatives": [
+					{"reference": "Tuft"},
+					{"reference": "Knot"},
+					{"reference": "Shiny Moustache"},
+					{"reference": "Meringue Whip"}
+				]
+			}
+		],
+		"image": "images/usable/uni_bomb.png",
+		"original_recipe": {"reference": "Exploding Uni"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Big Uni Bomb",
+		"type": "Usable Synthesis Item",
+		"use_type": "Attack",
+		"effect": "Magic Damage (S), Poison",
+		"target": "Area (M)",
+		"description": "A  more dangerous and larger Uni Bomb.",
+		"items_needed": [
+
+			{"reference": "Big Uni"},
+			{"reference": "Plosion"},
+			{
+				"alternatives": [
+					{"reference": "Uni Bomb"},
+					{"reference": "Flame"},
+					{"reference": "Tera Flame"}
+				]
+			}
+		],
+		"image": "images/usable/big_uni_bomb.png",
+		"original_recipe": {"reference": "Uni the Great"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Uni God",
+		"type": "Usable Synthesis Item",
+		"use_type": "Attack",
+		"effect": "Magic Damage (S), Poison",
+		"target": "Single Enemy",
+		"description": "A bomb in the image of the Uni God.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Uni"},
+					{"reference": "Big Uni"}
+				]
+			},
+			{"reference": "Soul of Darkness"},
+			{"reference": "Dragon Tongue"},
+			{"reference": "Pentagle"}
+		],
+		"image": "images/usable/uni_god.png",
+		"original_recipe": {"reference": "The Mystic Uni"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Orange Bomb",
+		"type": "Usable Synthesis Item",
+		"use_type": "Attack",
+		"effect": "Magic Damage (S), Sleep",
+		"target":"Single Enemy",
+		"description": "An orange bomb that smells citrusy.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Tangerine"},
+					{"reference": "Sunrise Orange"},
+					{"reference": "Mandarin Orange"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Flour"},
+					{"reference": "Black Powder"},
+					{"reference": "Polish Powder"},
+					{"reference": "Plosion"}
+				]
+			},
+			{"reference": "Pleather Cloth"}
+		],
+		"image": "images/usable/orange_bomb.png",
+		"original_recipe": {"reference": "Fruit Bomb"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Big Orange Bomb",
+		"type": "Usable Synthesis Item",
+		"use_type": "Attack",
+		"effect": "Magic Damage (M), Sleep",
+		"target": "Area (M)",
+		"description": "A stronger, jumbo-sized Orange Bomb.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Tangerine"},
+					{"reference": "Sunrise Orange"},
+					{"reference": "Mandarin Orange"}
+				]
+			},
+			{"reference": "Plosion"},
+			{"reference": "Pleather Cloth"}
+		],
+		"image": "images/usable/big_orange_bomb.png",
+		"original_recipe": {"reference": "Uni the Great"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Tangerine, Sunrise Orange, or Mandarin Orange"
+	},
+	{
+		"name": "Lando Bomb",
+		"type": "Usable Synthesis Item",
+		"use_type": "Attack",
+		"effect": "Magic Damage (S), Seal",
+		"target": "Single Enemy",
+		"description": "A light, easy-to-use sweet aromatic bomb.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Lando"},
+					{"reference": "X-Lando"},
+					{"reference": "Sweet Lando"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Flour"},
+					{"reference": "Black Powder"},
+					{"reference": "Polish Powder"},
+					{"reference": "Plosion"}
+				]
+			},
+			{"reference": "Black Steel"}
+		],
+		"image": "images/usable/lando_bomb.png",
+		"original_recipe": {"reference": "Sweet Fruit Bomb"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Big Lando Bomb",
+		"type": "Usable Synthesis Item",
+		"use_type": "Attack",
+		"effect": "Magic Damage (M), Seal",
+		"target": "Area (M)",
+		"description": "For those who need an ever bigger bomb.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "X-Lando"},
+					{"reference": "Sweet Lando"}
+				]
+			},
+			{"reference": "Plosion"},
+			{
+				"alternatives": [
+					{"reference": "Lando Bomb"},
+					{"reference": "Flame"},
+					{"reference": "Tera Flame"}
+				]
+			}
+		],
+		"image": "images/usable/big_lando_bomb.png",
+		"original_recipe": {"reference": "Uni the Great"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to X-Lando or Sweet Lando"
+	},
+	{
+		"name": "Globe",
+		"type": "Usable Synthesis Item",
+		"use_type": "Attack",
+		"effect": "Physical Damage (M)",
+		"target": "Single Enemy",
+		"description": "A spinny, breakable object. Often used to throw around.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Raw Komet Ore"},
+					{"reference": "Super Komet"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Polish Powder"},
+					{"reference": "Shiny Powder"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Zettel"},
+					{"reference": "Holy Crest Paper"}
+				]
+			},
+			{"reference": "Black Steel"}
+		],
+		"image": "images/usable/globe.png",
+		"original_recipe": {"reference": "Twirly Thing"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Stellar Globe",
+		"type": "Usable Synthesis Item",
+		"use_type": "Attack",
+		"effect": "Physical Damage (M), Slow",
+		"target": "Single Enemy",
+		"description": "A stellar model that implodes upon shock.",
+		"items_needed": [
+
+			{"reference": "Globe"},
+			{
+				"alternatives": [
+					{"reference": "Le Merou Cog"},
+					{"reference": "Eternal Turnkey"},
+					{"reference": "Gearbox"},
+					{"reference": "Organne La Firste"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Canone Crystal"},
+					{"reference": "Glacier Crystal"},
+					{"reference": "Thunder Crystal"}
+				]
+			},
+			{"reference": "Pot Station"}
+		],
+		"image": "images/usable/stellar_globe.png",
+		"original_recipe": {"reference": "A Small Universe"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Unipuni Pudding",
+		"type": "Usable Synthesis Item",
+		"use_type": "Support",
+		"effect": "ATK Up, DEF Up",
+		"target":"Single Ally",
+		"description": "A very encouraging pudding.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Uni"},
+					{"reference": "Big Uni"}
+				]
+			},
+			{"reference": "Punny Paw Flan"},
+			{"reference": "Puni Gummi"},
+			{"reference": "Ceramic Plate"}
+		],
+		"image": "images/usable/unipuni_pudding.png",
+		"original_recipe": {"reference": "Pudding"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Cheesecake",
+		"type": "Usable Synthesis Item",
+		"use_type": "Support",
+		"effect": "MGK Up, RES Up",
+		"target": "Single Ally",
+		"description": "Homemade cheesecake that enlightens you.",
+		"items_needed": [
+
+			{"reference": "Goat Cheese"},
+			{
+				"alternatives": [
+					{"reference": "Vanilla Syrup"},
+					{"reference": "Goat Milk"}
+				]
+			}
+		],
+		"image": "images/usable/cheesecake.png",
+		"original_recipe": {"reference": "Traditional Cake"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Pumpotatokin Pie",
+		"type": "Usable Synthesis Item",
+		"use_type": "Support",
+		"effect": "Guard Chance",
+		"target": "Single Ally",
+		"description": "A pie that shields the consumer with Pumpotatokin Skin.",
+		"items_needed": [
+
+			{"reference": "Pumpotatokin"},
+			{
+				"alternatives": [
+					{"reference": "Vanilla Syrup"},
+					{"reference": "Goat Milk"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Monster Cookie"},
+					{"reference": "Taiyaki"}
+				]
+			}
+		],
+		"image": "images/usable/pumpotatokin_pie.png",
+		"original_recipe": {"reference": "Traditional Cake"},
+		"character": "Nikki",
+		"idea_trigger": "After making Cheesecake"
+	},
+	{
+		"name": "Grape Sherbet",
+		"type": "Usable Synthesis Item",
+		"use_type": "Heal",
+		"effect": "Auto Heal",
+		"target": "Single Ally",
+		"description": "A dessert with the best texture, made from tons of grapes.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Bitter Grape"},
+					{"reference": "Night-In-Grape"}
+				]
+			},
+			{"reference": "Long Ice Cream"},
+			{
+				"alternatives": [
+					{"reference": "Bomb Ice"},
+					{"reference": "Bobomb Ice"}
+				]
+			}
+		],
+		"image": "images/usable/grape_sherbet.png",
+		"original_recipe": {"reference": "Bite-Sized Sorbet"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Muscat Sorbet",
+		"type": "Usable Synthesis Item",
+		"use_type": "Heal",
+		"effect": "Auto Heal",
+		"target":"Single Ally",
+		"description": "A shiny, gem-like dessert made from the king of grapes.",
+		"items_needed": [
+
+			{"reference": "Muscat"},
+			{"reference": "Long Ice Cream"},
+			{
+				"alternatives": [
+					{"reference": "Bomb Ice"},
+					{"reference": "Bobomb Ice"}
+				]
+			}
+		],
+		"image": "images/usable/muscat_sorbet.png",
+		"original_recipe": {"reference": "Bite-Sized Sorbet"},
+		"character": "Nikki",
+		"idea_trigger": "After making Grape Sherbet"
+	},
+	{
+		"name": "Sweetsland",
+		"type": "Usable Synthesis Item",
+		"use_type": "Support",
+		"effect": "Shield Wall",
+		"target": "All Allies",
+		"description": "A snack theme park that lures you to a world of taste.",
+		"items_needed": [
+
+			{"reference": "Unipuni Pudding"},
+			{"reference": "Jumbo Donut"},
+			{
+				"alternatives": [
+					{"reference": "Grape Sherbet"},
+					{"reference": "Muscat Sorbet"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Cheesecake"},
+					{"reference": "Pumpotatokin Pie"}
+				]
+			}
+		],
+		"image": "images/usable/sweetsland.png",
+		"original_recipe": {"reference": "Sweets Paradise"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "120% Fruit",
+		"type": "Usable Synthesis Item",
+		"use_type": "Heal",
+		"effect": "Awaken (S)",
+		"target": "Single Ally",
+		"description": "A thick concentrated drink made of real juice and milk.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Bitter Grape"},
+					{"reference": "Night-In-Grape"},
+					{"reference": "Muscat"},
+					{"reference": "Tangerine"},
+					{"reference": "Sunshine Orange"},
+					{"reference": "Mandarin Orange"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Lando"},
+					{"reference": "X-Lando"},
+					{"reference": "Sweet Lando"}
+				]
+			},
+			{"reference": "Goat Milk"}
+		],
+		"image": "images/usable/120_fruit.png",
+		"original_recipe": {"reference": "Fruit Juice"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Veggielicious",
+		"type": "Usable Synthesis Item",
+		"use_type": "Support",
+		"effect": "Dispel Buff",
+		"target": "Single Enemy",
+		"description": "A very bitter drink made of select healthy vegetables.",
+		"items_needed": [
+
+			{"reference": "Spinacherb"},
+			{"reference": "Carrotato"},
+			{
+				"alternatives": [
+					{"reference": "Radish"},
+					{"reference": "Medicinal Radish"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Marine Water"}
+				]
+			}
+		],
+		"image": "images/usable/veggielicious.png",
+		"original_recipe": {"reference": "Fruit Juice"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Spinacherb"
+	},
+	{
+		"name": "Veggie Purple",
+		"type": "Usable Synthesis Item",
+		"use_type": "Support",
+		"effect": "Cure Anomaly, Auto Heal",
+		"target": "Single Ally",
+		"description": "An unnatural purple drink that purifies.",
+		"items_needed": [
+
+			{"reference": "Purplinacherb"},
+			{"reference": "Carrotato"},
+			{
+				"alternatives": [
+					{"reference": "Radish"},
+					{"reference": "Medicinal Radish"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Marine Water"}
+				]
+			}
+		],
+		"image": "images/usable/veggie_purple.png",
+		"original_recipe": {"reference": "Fruit Juice"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Divine Shield",
+		"type": "Usable Synthesis Item",
+		"use_type": "Support",
+		"effect": "Guard Chance",
+		"target": "Single Ally",
+		"description": "A device to create a magical shield. Slightly inaccurate.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Holy Crest Paper"},
+					{"reference": "Brilliant Stone"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Red Steel"},
+					{"reference": "Blue Steel"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Chrome Crystal"},
+					{"reference": "Pendelook"},
+					{"reference": "Soul of Darkness"}
+				]
+			}
+		],
+		"image": "images/usable/divine_shield.png",
+		"original_recipe": {"reference": "Radiating Disc"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Misty Curtain",
+		"type": "Usable Synthesis Item",
+		"use_type": "Support",
+		"effect": "Triple RES Up",
+		"target": "Single Ally",
+		"description": "A rainbow curtain that weakens fire, ice and lightning.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Holy Crest Paper"},
+					{"reference": "Brilliant Stone"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Silky Cloth"},
+					{"reference": "Formell Fabric"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Yubana Fruit"},
+					{"reference": "Dried Yubana"},
+					{"reference": "Yubana Flower"},
+					{"reference": "Lando"},
+					{"reference": "X-Lando"},
+					{"reference": "Sweet Lando"}
+				]
+			}
+		],
+		"image": "images/usable/misty_curtain.png",
+		"original_recipe": {"reference": "Magic Stake Cloth"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Treasure Cape",
+		"type": "Usable Synthesis Item",
+		"use_type": "Support",
+		"effect": "Invincible",
+		"target": "Field (Exploring)",
+		"description": "A magical covering that temporarily makes you invisible.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Amber Soup"},
+					{"reference": "Tranquilizer"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Silky Cloth"},
+					{"reference": "Formell Fabric"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Chrome Crystal"},
+					{"reference": "Pendelook"},
+					{"reference": "Soul of Darkness"}
+				]
+			}
+		],
+		"image": "images/usable/treasure_cape.png",
+		"original_recipe": {"reference": "Invisible Mantle"},
+		"character": "None",
+		"idea_trigger": "None"
+	}
+]

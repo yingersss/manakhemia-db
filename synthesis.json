@@ -1,0 +1,1593 @@
+[
+	{
+		"name": "Flour",
+		"type": "Synthesis Item",
+		"description": "A pure white powder from crushing some grain. The one necessity in most cooking.", 
+		"items_needed": [
+			{
+				"alternatives": [
+					{"reference": "Carrotato"},
+					{"reference": "Belgrade Potato"},
+					{"reference": "Pumpotatokin"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Spinacherb"},
+					{"reference": "Dunkelhite"},
+					{"reference": "Purplinacherb"},
+					{"reference": "Gash Twig"},
+					{"reference": "Kittynip"},
+					{"reference": "Tercia Pollen"},
+					{"reference": "Taun"},
+					{"reference": "Huffin"}
+				]
+			}
+		],
+		"image": "images/synthesis/flour.png",
+		"original_recipe": {"reference": "Powdering Powder"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Salt",
+		"type": "Synthesis Item",
+		"description": "The basic spice to cooking. It can taste different depending on the ingredient used.", 
+		"items_needed": [
+			{
+				"alternatives": [
+					{"reference": "Masou"},
+					{"reference": "Endless Seaweed"},
+					{"reference": "Strom Shell"},
+					{"reference": "Joker Fish"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Marine Water"}
+				]
+			}
+		],
+		"image": "images/synthesis/salt.png",
+		"original_recipe": {"reference": "Powdering Powder"},
+		"character": "Nikki",
+		"idea_trigger": "After making Flour"
+	},
+	{
+		"name": "Black Powder",
+		"type": "Synthesis Item",
+		"description": "Blasting powder made from very flammable material. Take great care when handling, or else...", 
+		"items_needed": [
+			{
+				"alternatives": [
+					{"reference": "Carbon Boulder"},
+					{"reference": "Raw Komet Ore"},
+					{"reference": "Super Komet"},
+					{"reference": "Black Steel"},
+					{"reference": "Black Liquid"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Spinacherb"},
+					{"reference": "Purplinacherb"},
+					{"reference": "Gash Twig"},
+					{"reference": "Kittynip"},
+					{"reference": "Eicheloa"},
+					{"reference": "Poison Shroom"},
+					{"reference": "Taun"},
+					{"reference": "Huffin"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Canone Rock"},
+					{"reference": "Flame"},
+					{"reference": "Tera Flame"},
+					{"reference": "Plosion"}
+				]
+			}
+		],
+		"image": "images/synthesis/black_powder.png",
+		"original_recipe": {"reference": "Powdering Powder"},
+		"character": "Jess",
+		"idea_trigger": "After making Salt"
+	},
+	{
+		"name": "Polish Powder",
+		"type": "Synthesis Item",
+		"description": "Grainy powder used to polish other objects. It takes some time and skill to make it work.",
+		"items_needed": [
+			{
+				"alternatives": [
+					{"reference": "Legien Steel"},
+					{"reference": "Cyprus Copper"},
+					{"reference": "Preuve Lead"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Canone Rock"},
+					{"reference": "Glacier Stone"},
+					{"reference": "Thunder Stone"},
+					{"reference": "Raw Komet Ore"},
+					{"reference": "Super Komet"},
+					{"reference": "Carbon Boulder"}
+				]
+			}
+		],
+		"image": "images/synthesis/polish_powder.png",
+		"original_recipe": {"reference": "Powdering Powder"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Legien Steel, Cyprus Copper, or Preuve Lead"
+	},
+	{
+		"name": "Shiny Powder",
+		"type": "Synthesis Item",
+		"description": "Sparkly, snowflake powder infused with Mana powers. Used in many complicated synthesis.",
+		"items_needed": [
+			{
+				"alternatives": [
+					{"reference": "Raw Komet Ore"},
+					{"reference": "Super Komet"},
+					{"reference": "Gravity Stone"},
+					{"reference": "Pendelook"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Elemia Silver"},
+					{"reference": "White Steel"},
+					{"reference": "Altena Ingot"},
+					{"reference": "Gold Bullion"}
+				]
+			}
+		],
+		"image": "images/synthesis/shiny_powder.png",
+		"original_recipe": {"reference": "Miraculous Powder"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Magical Clay",
+		"type": "Synthesis Item",
+		"description": "Alchemically enhanced clay that is easily processed and easily sculpted.",
+		"items_needed": [
+			{
+				"alternatives": [
+					{"reference": "Dirt"},
+					{"reference": "Red Dirt"},
+					{"reference": "Black Dirt"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Carrotato"},
+					{"reference": "Belgrade Potato"},
+					{"reference": "Burdock Straight"},
+					{"reference": "Burdock Curve"},
+					{"reference": "Radish"},
+					{"reference": "Medicinal Radish"},
+					{"reference": "Shinke Onion"},
+					{"reference": "Pumpotatokin"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Goat Milk"},
+					{"reference": "Marine Water"},
+					{"reference": "Vanilla Syrup"},
+					{"reference": "Black Liquid"},
+					{"reference": "Preservative"}
+				]
+			}
+		],
+		"image": "images/synthesis/magical_clay.png",
+		"original_recipe": {"reference": "How to Knead Dirt"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Blood Clay",
+		"type": "Synthesis Item",
+		"description": "Red clay infused with the power of life. It continues to pulse, like a heart.",
+		"items_needed": [
+			{"reference": "Dunkelhite"},
+			{
+				"alternatives": [
+					{"reference": "Dirt"},
+					{"reference": "Red Dirt"},
+					{"reference": "Black Dirt"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Carrotato"},
+					{"reference": "Belgrade Potato"},
+					{"reference": "Burdock Straight"},
+					{"reference": "Burdock Curve"},
+					{"reference": "Radish"},
+					{"reference": "Medicinal Radish"},
+					{"reference": "Shinke Onion"},
+					{"reference": "Pumpotatokin"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Goat Milk"},
+					{"reference": "Marine Water"},
+					{"reference": "Vanilla Syrup"},
+					{"reference": "Black Liquid"},
+					{"reference": "Preservative"}
+				]
+			}
+		],
+		"image": "images/synthesis/blood_clay.png",
+		"original_recipe": {"reference": "How to Knead Dirt"},
+		"character": "Roxis",
+		"idea_trigger": "After making Magical Clay"
+	},
+	{
+		"name": "Black Steel",
+		"type": "Synthesis Item",
+		"description": "Steel with a black shine. A basic metal used for various items in alchemy.",
+		"items_needed": [
+			{"reference": "Legien Steel"},
+			{
+				"alternatives": [
+					{"reference": "Beast Fang"},
+					{"reference": "Strom Shell"},
+					{"reference": "Monster Cookie"},
+					{"reference": "Puni Gummi"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Goat Milk"},
+					{"reference": "Marine Water"},
+					{"reference": "Vanilla Syrup"},
+					{"reference": "Black Liquid"},
+					{"reference": "Preservative"}
+				]
+			}
+		],
+		"image": "images/synthesis/black_steel.png",
+		"original_recipe": {"reference": "Alchemic Steel"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Red Steel",
+		"type": "Synthesis Item",
+		"description": "A rew glowing magic steel, infused with power of flames. It emanates warmth to those around it.",
+		"items_needed": [
+			{"reference": "Cyprus Copper"},
+			{
+				"alternatives": [
+					{"reference": "Monster Bone"},
+					{"reference": "King Crab"},
+					{"reference": "Trout"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Goat Milk"},
+					{"reference": "Marine Water"},
+					{"reference": "Vanilla Syrup"},
+					{"reference": "Black Liquid"},
+					{"reference": "Preservative"}
+				]
+			}
+		],
+		"image": "images/synthesis/red_steel.png",
+		"original_recipe": {"reference": "Alchemic Steel"},
+		"character": "Flay",
+		"idea_trigger": "After making Black Steel"
+	},
+	{
+		"name": "Blue Steel",
+		"type": "Synthesis Item",
+		"description": "A dull glowing magic steel, infused with the power of water. It carries a very cold aura.",
+		"items_needed": [
+			{"reference": "Preuve Lead"},
+			{
+				"alternatives": [
+					{"reference": "Dragon Bone"},
+					{"reference": "Chinook"},
+					{"reference": "Scale Chips"},
+					{"reference": "99% Chaos Choco"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Goat Milk"},
+					{"reference": "Marine Water"},
+					{"reference": "Vanilla Syrup"},
+					{"reference": "Black Liquid"},
+					{"reference": "Preservative"}
+				]
+			}
+		],
+		"image": "images/synthesis/blue_steel.png",
+		"original_recipe": {"reference": "Alchemic Steel"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Preuve Lead"
+	},
+	{
+		"name": "White Steel",
+		"type": "Synthesis Item",
+		"description": "A white magic steel, infused with power of wind. It is light like air but strong like steel.",
+		"items_needed": [
+			{"reference": "Elemia Silver"},
+
+			{
+				"alternatives": [
+					{"reference": "Black Steel"},
+					{"reference": "Red Steel"},
+					{"reference": "Blue Steel"}
+				]
+			},
+			{"reference": "Liquid Metal"}
+		],
+		"image": "images/synthesis/white_steel.png",
+		"original_recipe": {"reference": "Alchemic Steel"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Elemia Silver"
+	},
+	{
+		"name": "Altena Ingot",
+		"type": "Synthesis Item",
+		"description": "Silver, blessed with holy powers. Very hard metal that is used for complicated synthesis.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "White Steel"},
+					{"reference": "Gold Bullion"},
+					{"reference": "Blood Clay"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Brilliant Stone"},
+					{"reference": "Pentagle"},
+					{"reference": "Aroma Material"}
+				]
+			},
+			{"reference": "Liquid Metal"}
+		],
+		"image": "images/synthesis/altena_ingot.png",
+		"original_recipe": {"reference": "Holy Metal"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Gold Bullion",
+		"type": "Synthesis Item",
+		"description": "The ultimate goal of alchemy, but it's only one of the graduation goals at Al-Revis Academy.",
+		"items_needed": [
+
+			{"reference": "Altena Ingot"},
+			{"reference": "Jade Tablet"},
+			{"reference": "Blood Clay"},
+			{"reference": "Dragon Tongue"}
+		],
+		"image": "images/synthesis/gold_bullion.png",
+		"original_recipe": {"reference": "Ingot"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Black Liquid",
+		"type": "Synthesis Item",
+		"description": "A liquid that rots and rots until it turns black. It will melt everything except glass.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Masou"},
+					{"reference": "Chinook"},
+					{"reference": "Trout"},
+					{"reference": "Bonita"},
+					{"reference": "Endless Seaweed"},
+					{"reference": "Joker Fish"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Goat Milk"},
+					{"reference": "Marine Water"},
+					{"reference": "Vanilla Syrup"},
+					{"reference": "Preservative"}
+				]
+			},
+			{"reference": "Carbon Boulder"}
+		],
+		"image": "images/synthesis/black_liquid.png",
+		"original_recipe": {"reference": "God's Drink"},
+		"character": "Pamela",
+		"idea_trigger": "After making Nectar"
+	},
+	{
+		"name": "Nicro Cloth",
+		"type": "Synthesis Item",
+		"description": "Common cloth. It is cheap but durable, so it is popular among students. Made for practicality.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Spinacherb"},
+					{"reference": "Purplinacherb"},
+					{"reference": "Gash Twig"},
+					{"reference": "Eicheloa"},
+					{"reference": "Poison Shroom"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Tuft"},
+					{"reference": "Knot"},
+					{"reference": "Shiny Moustache"},
+					{"reference": "Meringue Whip"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Goat Milk"},
+					{"reference": "Marine Water"},
+					{"reference": "Vanilla Syrup"},
+					{"reference": "Black Liquid"},
+					{"reference": "Preservative"}
+				]
+			}
+		],
+		"image": "images/synthesis/nicro_cloth.png",
+		"original_recipe": {"reference": "Generic Cloth"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Pleather Cloth",
+		"type": "Synthesis Item",
+		"description": "Synthesized cloth that feels like leather, but is made of everything but animal leather.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Red Petal"},
+					{"reference": "Blue Petal"},
+					{"reference": "Glowing Petal"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Tuft"},
+					{"reference": "Knot"},
+					{"reference": "Shiny Moustache"},
+					{"reference": "Meringue Whip"},
+					{"reference": "Nicro Cloth"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Masou"},
+					{"reference": "Trout"},
+					{"reference": "Chinook"},
+					{"reference": "Bonita"},
+					{"reference": "Endless Seaweed"},
+					{"reference": "Joker Fish"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Goat Milk"},
+					{"reference": "Marine Water"},
+					{"reference": "Vanilla Syrup"},
+					{"reference": "Black Liquid"},
+					{"reference": "Preservative"}
+				]
+			}
+		],
+		"image": "images/synthesis/pleather_cloth.png",
+		"original_recipe": {"reference": "Funfur Cloth"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Silky Cloth",
+		"type": "Synthesis Item",
+		"description": "A very touchable white cloth. Used for luxury clothing designs.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Red Petal"},
+					{"reference": "Blue Petal"},
+					{"reference": "Glowing Petal"},
+					{"reference": "Shiny Powder"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Knot"},
+					{"reference": "Shiny Moustache"},
+					{"reference": "Meringue Whip"},
+					{"reference": "Silver Thread"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Goat Milk"},
+					{"reference": "Marine Water"},
+					{"reference": "Vanilla Syrup"},
+					{"reference": "Black Liquid"},
+					{"reference": "Preservative"}
+				]
+			}
+		],
+		"image": "images/synthesis/silky_cloth.png",
+		"original_recipe": {"reference": "Noble Fabric"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Formell Fabric",
+		"type": "Synthesis Item",
+		"description": "Cloth woven with unique technology of a faraway land. Very durable and light.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Rainbow Feather"},
+					{"reference": "Crimson Feather"},
+					{"reference": "White Feather"},
+					{"reference": "Black Feather"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Shiny Moustache"},
+					{"reference": "Meringue Whip"},
+					{"reference": "Silver Thread"},
+					{"reference": "Silky Cloth"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Canone Crystal"},
+					{"reference": "Glacier Crystal"},
+					{"reference": "Thunder Crystal"},
+					{"reference": "Gravity Stone"},
+					{"reference": "Pendelook"},
+					{"reference": "Chrome Crystal"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Heal Jar"},
+					{"reference": "X Heal"},
+					{"reference": "Heal All"},
+					{"reference": "Cure Jar"},
+					{"reference": "Shining Grail"}
+				]
+			}
+
+		],
+		"image": "images/synthesis/formell_fabric.png",
+		"original_recipe": {"reference": "Legendary Fabric"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Goat Cheese",
+		"type": "Synthesis Item",
+		"description": "Popular cheese with thick flavor and strong semll. It is best when aged for 3 years.",
+		"items_needed": [
+
+			{"reference": "Goat Milk"},
+			{
+				"alternatives": [
+					{"reference": "Lando"},
+					{"reference": "X-Lando"},
+					{"reference": "Sweet Lando"},
+					{"reference": "Yubana Fruit"},
+					{"reference": "Dried Yubana"},
+					{"reference": "Yubana Flower"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Marine Water"},
+					{"reference": "Vanilla Syrup"},
+					{"reference": "Black Liquid"},
+					{"reference": "Preservative"}
+				]
+			}
+		],
+		"image": "images/synthesis/goat_cheese.png",
+		"original_recipe": {"reference": "Preserved Food"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Bacon",
+		"type": "Synthesis Item",
+		"description": "Animal meat smoked over woodchips. The fat and smoke are key to its taste.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Wild Meat"},
+					{"reference": "Rotten Meat"},
+					{"reference": "Golden Meat"}
+				]
+			},
+			{"reference": "Preservative"},
+			{"reference": "Salt"}
+		],
+		"image": "images/synthesis/bacon.png",
+		"original_recipe": {"reference": "Preserved Food"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Wild Meat, Rotten Meat, or Golden Meat"
+	},
+	{
+		"name": "Smoked Fish",
+		"type": "Synthesis Item",
+		"description": "Smoked fish. The taste depends on the fish you use.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Masou"},
+					{"reference": "Bonita"},
+					{"reference": "Joker Fish"},
+					{"reference": "Chinook"},
+					{"reference": "Trout"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Woodchip"},
+					{"reference": "Giant Woodchip"},
+					{"reference": "Wooden Club"}
+				]
+			},
+			{"reference": "Salt"},
+			{
+				"alternatives": [
+					{"reference": "Flame"},
+					{"reference": "Tera Flame"},
+					{"reference": "Plosion"}
+				]
+			}
+		],
+		"image": "images/synthesis/smoked_fish.png",
+		"original_recipe": {"reference": "Preserved Food"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Masou, Bonita, Joker Fish, Chinook, or Trout"
+	},
+	{
+		"name": "Liquid Metal",
+		"type": "Synthesis Item",
+		"description": "A substance that is metal, but liquid. It had been a great discovery in alchemy history.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Goat Milk"},
+					{"reference": "Marine Water"},
+					{"reference": "Vanilla Syrup"},
+					{"reference": "Black Liquid"},
+					{"reference": "Preservative"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Canone Rock"},
+					{"reference": "Glacier Stone"},
+					{"reference": "Thunder Stone"},
+					{"reference": "Raw Komet Ore"},
+					{"reference": "Super Komet"},
+					{"reference": "Canone Crystal"},
+					{"reference": "Glacier Crystal"},
+					{"reference": "Thunder Crystal"}
+				]
+			},
+			{"reference": "Pendelook"}
+
+		],
+		"image": "images/synthesis/liquid_metal.png",
+		"original_recipe": {"reference": "Liquid Metal"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Preservative",
+		"type": "Synthesis Item",
+		"description": "A preservative that, miraculously, has no effect on health. But people still try to not use it.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Bitter Grape"},
+					{"reference": "Night-In-Grape"},
+					{"reference": "Muscat"},
+					{"reference": "Tangerine"},
+					{"reference": "Sunrise Orange"},
+					{"reference": "Mandarin Orange"},
+					{"reference": "Nectar"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Spinacherb"},
+					{"reference": "Purplinacherb"},
+					{"reference": "Gash Twig"},
+					{"reference": "Eicheloa"},
+					{"reference": "Poison Shroom"},
+					{"reference": "Taun"},
+					{"reference": "Huffin"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Goat Milk"},
+					{"reference": "Marine Water"},
+					{"reference": "Vanilla Syrup"},
+					{"reference": "Black Liquid"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Red Petal"},
+					{"reference": "Blue Petal"},
+					{"reference": "Glowing Petal"}
+				]
+			}
+
+		],
+		"image": "images/synthesis/preservative.png",
+		"original_recipe": {"reference": "Curing Medicine"},
+		"character": "Jess",
+		"idea_trigger": "After making Cure Jar"
+	},
+	{
+		"name": "Dietary Fiber",
+		"type": "Synthesis Item",
+		"description": "A thin fiber that is extracted from vegetables. Very durable and is not easy to cut.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Spinacherb"},
+					{"reference": "Purplinacherb"},
+					{"reference": "Gash Twig"},
+					{"reference": "Huffin"},
+					{"reference": "Belgrade Potato"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Burdock Straight"},
+					{"reference": "Burdock Curve"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Goat Milk"},
+					{"reference": "Marine Water"},
+					{"reference": "Vanilla Syrup"},
+					{"reference": "Black Liquid"},
+					{"reference": "Preservative"}
+				]
+			}
+		],
+		"image": "images/synthesis/dietary_fiber.png",
+		"original_recipe": {"reference": "Strong Fiber"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Silver Thread",
+		"type": "Synthesis Item",
+		"description": "Silver was woven into this thread using alchemy. Its magic makes it very durable.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Glowing Petal"},
+					{"reference": "Shining Grail"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Elemia Silver"},
+					{"reference": "White Steel"},
+					{"reference": "Altena Ingot"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Nicro Cloth"},
+					{"reference": "Pleather Cloth"},
+					{"reference": "Silky Cloth"},
+					{"reference": "Formell Fabric"}
+				]
+			}
+		],
+		"image": "images/synthesis/silver_thread.png",
+		"original_recipe": {"reference": "Strong Fiber"},
+		"character": "Jess",
+		"idea_trigger": "After making Dietary Fiber"
+	},
+	{
+		"name": "Clear Fiber",
+		"type": "Synthesis Item",
+		"description": "A clear, ultra thin thread. If you lost it, you will never be able to find it again.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Chrome Crystal"},
+					{"reference": "Gravity Stone"},
+					{"reference": "Soul of Darkness"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Plosion"},
+					{"reference": "Black Powder"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Nectar"},
+					{"reference": "Super Nectar"},
+					{"reference": "Shining Grail"},
+					{"reference": "Elixir"}
+				]
+			}
+		],
+		"image": "images/synthesis/clear_fiber.png",
+		"original_recipe": {"reference": "Magical String"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Plosion",
+		"type": "Synthesis Item",
+		"description": "Substance that increasese explosive power. The material itself is not flammable.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Canone Rock"},
+					{"reference": "Glacier Stone"},
+					{"reference": "Thunder Stone"},
+					{"reference": "Raw Komet Ore"},
+					{"reference": "Super Komet"},
+					{"reference": "Uni"},
+					{"reference": "Big Uni"}
+				]
+			},
+			{"reference": "Carbon Boulder"},
+			{
+				"alternatives": [
+					{"reference": "Black Liquid"},
+					{"reference": "Black Powder"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Tuft"},
+					{"reference": "Knot"},
+					{"reference": "Shiny Moustache"},
+					{"reference": "Nicro Cloth"},
+					{"reference": "Dietary Fiber"}
+				]
+			}
+		],
+		"image": "images/synthesis/plosion.png",
+		"original_recipe": {"reference": "Explosive Powder"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Le Merou Cog",
+		"type": "Synthesis Item",
+		"description": "Once made, it can never be taken apart because of its complicated nature.",
+		"items_needed": [
+			{"reference": "Gear"},
+			{"reference": "Grand Gear"},
+			{"reference": "Little Gear"},
+			{"reference": "Black Liquid"}
+		],
+		"image": "images/synthesis/le_merou_cog.png",
+		"original_recipe": {"reference": "Mechanical Box"},
+		"character": "Flay",
+		"idea_trigger": "After making Gearbox"
+	},
+	{
+		"name": "Eternal Turnkey",
+		"type": "Synthesis Item",
+		"description": "A spring that will continue to move forever, though, it is rather useless.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Gear"},
+					{"reference": "Grand Gear"},
+					{"reference": "Little Gear"},
+					{"reference": "Le Merou Cog"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Legien Steel"},
+					{"reference": "Black Steel"},
+					{"reference": "Red Steel"},
+					{"reference": "Blue Steel"},
+					{"reference": "White Steel"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Polish Powder"},
+					{"reference": "Shiny Powder"}
+				]
+			}
+		],
+		"image": "images/synthesis/eternal_turnkey.png",
+		"original_recipe": {"reference": "Spring Decor"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Zettel",
+		"type": "Synthesis Item",
+		"description": "A common piece of paper. It can be used for various purposes, and is easy to synthesize.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Spinacherb"},
+					{"reference": "Purplinacherb"},
+					{"reference": "Gash Twig"},
+					{"reference": "Kittynip"},
+					{"reference": "Taun"},
+					{"reference": "Huffin"},
+					{"reference": "Dunkelhite"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Carrotato"},
+					{"reference": "Belgrade Potato"},
+					{"reference": "Burdock Straight"},
+					{"reference": "Burdock Curve"},
+					{"reference": "Radish"},
+					{"reference": "Medicinal Radish"},
+					{"reference": "Shinke Onion"},
+					{"reference": "Pumpotatokin"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Goat Milk"},
+					{"reference": "Marine Water"},
+					{"reference": "Vanilla Syrup"},
+					{"reference": "Black Liquid"},
+					{"reference": "Preservative"}
+				]
+			}
+		],
+		"image": "images/synthesis/zettel.png",
+		"original_recipe": {"reference": "Normal Paper"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Holy Crest Paper",
+		"type": "Synthesis Item",
+		"description": "Magical paper used for important documents. It keeps its quality for over a thousand years.",
+		"items_needed": [
+
+			{"reference": "Zettel"},
+			{
+				"alternatives": [
+					{"reference": "Burdock Straight"},
+					{"reference": "Burdock Curve"},
+					{"reference": "Radish"},
+					{"reference": "Medicinal Radish"},
+					{"reference": "Shinke Onion"},
+					{"reference": "Pumpotatokin"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "X Heal"},
+					{"reference": "Heal All"},
+					{"reference": "Shining Grail"},
+					{"reference": "Elixir"}
+				]
+			}
+		],
+		"image": "images/synthesis/holy_crest_paper.png",
+		"original_recipe": {"reference": "Expensive Paper"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Apollo's Diapason",
+		"type": "Synthesis Item",
+		"description": "A model of the diapason that Sir Apollo rang himself. The vibration works well as a massage.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Black Steel"},
+					{"reference": "Red Steel"},
+					{"reference": "Blue Steel"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Chrome Crystal"},
+					{"reference": "Pendelook"},
+					{"reference": "Soul of Darkness"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Lightning Rod"},
+					{"reference": "Thunder Rod"}
+				]
+			}
+		],
+		"image": "images/synthesis/apollos_diapason.png",
+		"original_recipe": {"reference": "Vibrating Metal"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Fortune Ring",
+		"type": "Synthesis Item",
+		"description": "Three intertwined rings make this charm a traveler's favorite. It is to pray for safety.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "White Steel"},
+					{"reference": "Altena Ingot"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Apollo's Diapason"},
+					{"reference": "Alchemic Cymbal"}
+				]
+			},
+			{"reference": "Gravity Stone"}
+		],
+		"image": "images/synthesis/fortune_ring.png",
+		"original_recipe": {"reference": "Mystery Ring"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Galilean Scope",
+		"type": "Synthesis Item",
+		"description": "A thermometer with spheres that float and change colors. It can measure up to 1/1000th of a degree.",
+		"items_needed": [
+
+			{"reference": "Black Liquid"},
+			{"reference": "Preservative"},
+			{
+				"alternatives": [
+					{"reference": "Heal Jar"},
+					{"reference": "X Heal"},
+					{"reference": "Heal All"},
+					{"reference": "Cure Jar"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Goat Milk"},
+					{"reference": "Marine Water"},
+					{"reference": "Vanilla Syrup"},
+					{"reference": "Black Liquid"}
+				]
+			}
+		],
+		"image": "images/synthesis/galilean_scope.png",
+		"original_recipe": {"reference": "Thermometer"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Pentagle",
+		"type": "Synthesis Item",
+		"description": "A crystallized form of a very pure soul. Used as an energy source for powerful magic.",
+		"items_needed": [
+
+			{"reference": "Pendelook"},
+			{"reference": "Chrome Crystal"},
+			{
+				"alternatives": [
+					{"reference": "Heal All"},
+					{"reference": "Super Nectar"},
+					{"reference": "Shining Grail"},
+					{"reference": "Elixir"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Polish Powder"},
+					{"reference": "Shiny Powder"}
+				]
+			}
+		],
+		"image": "images/synthesis/pentagle.png",
+		"original_recipe": {"reference": "Shiny Stone"},
+		"character": "Roxis",
+		"idea_trigger": "After making Brilliant Stone"
+	},
+	{
+		"name": "Brilliant Stone",
+		"type": "Synthesis Item",
+		"description": "A holy stone blessed by guardian prayers. It has evil warding powers that can be used for a charm.",
+		"items_needed": [
+
+			{"reference": "Canone Crystal"},
+			{"reference": "Chrome Crystal"},
+			{
+				"alternatives": [
+					{"reference": "Heal All"},
+					{"reference": "Super Nectar"},
+					{"reference": "Shining Grail"},
+					{"reference": "Elixir"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Polish Powder"},
+					{"reference": "Shiny Powder"}
+				]
+			}
+		],
+		"image": "images/synthesis/brilliant_stone.png",
+		"original_recipe": {"reference": "Shiny Stone"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Gearbox",
+		"type": "Synthesis Item",
+		"description": "A mechanical box with an infinite number of spinning gears. There isn't much to see inside.",
+		"items_needed": [
+
+			{"reference": "Eternal Turnkey"},
+			{
+				"alternatives": [
+					{"reference": "Black Steel"},
+					{"reference": "Red Steel"},
+					{"reference": "Blue Steel"},
+					{"reference": "White Steel"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Gear"},
+					{"reference": "Grand Gear"},
+					{"reference": "Little Gear"},
+					{"reference": "Le Merou Cog"}
+				]
+			}
+		],
+		"image": "images/synthesis/gearbox.png",
+		"original_recipe": {"reference": "Mechanical Box"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Canone Crystal",
+		"type": "Synthesis Item",
+		"description": "The burning essence of teh Canone rock was extracted to make this crystal. Highly explosive.",
+		"items_needed": [
+
+			{"reference": "Canone Rock"},
+			{
+				"alternatives": [
+					{"reference": "Preservative"},
+					{"reference": "X Heal"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Monster Bone"},
+					{"reference": "Dragon Bone"}
+				]
+			}
+		],
+		"image": "images/synthesis/canone_crystal.png",
+		"original_recipe": {"reference": "Spirit Crystal"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Glacier Crystal",
+		"type": "Synthesis Item",
+		"description": "The freezing essence of the Glacier Stone was extracted to make this crystal. Beware of frostbite.",
+		"items_needed": [
+
+			{"reference": "Glacier Stone"},
+			{
+				"alternatives": [
+					{"reference": "Preservative"},
+					{"reference": "X Heal"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Trout"},
+					{"reference": "Chinook"},
+					{"reference": "Sharkgill"}
+				]
+			}
+		],
+		"image": "images/synthesis/glacier_crystal.png",
+		"original_recipe": {"reference": "Spirit Crystal"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Glacier Stone"
+	},
+	{
+		"name": "Thunder Crystal",
+		"type": "Synthesis Item",
+		"description": "Electricity from a Thunder Stone was extracted into this crystal. Wear rubber gloves when holding.",
+		"items_needed": [
+
+			{"reference": "Thunder Stone"},
+			{
+				"alternatives": [
+					{"reference": "Preservative"},
+					{"reference": "X Heal"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Legien Steel"},
+					{"reference": "Cyprus Copper"},
+					{"reference": "Preuve Lead"},
+					{"reference": "Elemia Silver"}
+				]
+			}
+		],
+		"image": "images/synthesis/thunder_crystal.png",
+		"original_recipe": {"reference": "Spirit Crystal"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Thunder Stone"
+	},
+	{
+		"name": "Auto Igniter",
+		"type": "Synthesis Item",
+		"description": "An all purpose auto igniter with a timer. 10 levels of flame intesity.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Canone Crystal"},
+					{"reference": "Flame Ring"}
+				]
+			},
+			{"reference": "Gearbox"},
+			{"reference": "Plosion"},
+			{
+				"alternatives": [
+					{"reference": "Blue Steel"},
+					{"reference": "White Steel"}
+				]
+			}
+		],
+		"image": "images/synthesis/auto_igniter.png",
+		"original_recipe": {"reference": "Igniter Device"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Coolster",
+		"type": "Synthesis Item",
+		"description": "A device that constantly releases cold air. For refrigeration and air conditioning.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Glacier Crystal"},
+					{"reference": "Ice Ring"}
+				]
+			},
+			{"reference": "Le Merou Cog"},
+			{"reference": "Galilean Scope"},
+			{
+				"alternatives": [
+					{"reference": "Blue Steel"},
+					{"reference": "White Steel"}
+				]
+			}
+		],
+		"image": "images/synthesis/coolster.png",
+		"original_recipe": {"reference": "Cooler"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Voidspark Pipe",
+		"type": "Synthesis Item",
+		"description": "A device that creates lightning inside a pipe. It may be small but it is pretty powerful.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Thunder Crystal"},
+					{"reference": "Thunder Ring"}
+				]
+			},
+			{"reference": "Apollo's Diapason"},
+			{"reference": "Formell Fabric"},
+			{
+				"alternatives": [
+					{"reference": "Blue Steel"},
+					{"reference": "White Steel"}
+				]
+			}
+		],
+		"image": "images/synthesis/voidspark_pipe.png",
+		"original_recipe": {"reference": "Vacuum Pipe"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Metronome",
+		"type": "Synthesis Item",
+		"description": "Use to time tempo. Even if there's an earthquake, it will keep its rhythm.",
+		"items_needed": [
+
+			{"reference": "Eternal Turnkey"},
+			{"reference": "Gearbox"},
+			{"reference": "Apollo's Diapason"},
+			{"reference": "Le Merou Cog"}
+		],
+		"image": "images/synthesis/metronome.png",
+		"original_recipe": {"reference": "Rhythmical Machine"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Carabine Harp",
+		"type": "Synthesis Item",
+		"description": "A dragon decorates the tip of the harp. It takes more than 5 years to learn how to play this.",
+		"items_needed": [
+
+			{"reference": "Dragon Bone"},
+			{"reference": "Dragon Scale"},
+			{
+				"alternatives": [
+					{"reference": "Silver Thread"},
+					{"reference": "Clear Fiber"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Giant Woodchip"},
+					{"reference": "Wood Tympani"},
+					{"reference": "Wooden Club"}
+				]
+			}
+		],
+		"image": "images/synthesis/carabine_harp.png",
+		"original_recipe": {"reference": "Musical Strings"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Wood Tympani",
+		"type": "Synthesis Item",
+		"description": "A wooden tympani that makes various sounds. Just this one instrument can become an orchestra.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Woodchip"},
+					{"reference": "Giant Woodchip"},
+					{"reference": "Wooden Club"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Pleather Cloth"},
+					{"reference": "Silky Cloth"},
+					{"reference": "Formell Fabric"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Legien Steel"},
+					{"reference": "Cyprus Copper"},
+					{"reference": "Preuve Lead"},
+					{"reference": "Elemia Silver"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Worn Weapon"},
+					{"reference": "Worn Armor"}
+				]
+			}
+
+		],
+		"image": "images/synthesis/wood_tympani.png",
+		"original_recipe": {"reference": "Swinging Drum"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Organne la Firste",
+		"type": "Synthesis Item",
+		"description": "The instrument that started a percussion revolution. You need both hands and feet to play it.",
+		"items_needed": [
+
+			{"reference": "Blood Clay"},
+			{"reference": "Wood Tympani"},
+			{"reference": "Velvet Horn"},
+			{"reference": "Metronome"}
+		],
+		"image": "images/synthesis/organne_la_firste.png",
+		"original_recipe": {"reference": "Giant Music Device"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Velvet Horn",
+		"type": "Synthesis Item",
+		"description": "It is popular for its soft velvety sound which is similar to nothing else in this world.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Strom Shell"},
+					{"reference": "Long Ice Cream"},
+					{"reference": "Burdock Curve"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Blue Steel"},
+					{"reference": "White Steel"}
+				]
+			},
+			{"reference": "Monster Bone"},
+			{
+				"alternatives": [
+					{"reference": "Alchemic Cymbal"},
+					{"reference": "Apollo's Diapason"},
+					{"reference": "Fortune Ring"}
+				]
+			}
+		],
+		"image": "images/synthesis/velvet_horn.png",
+		"original_recipe": {"reference": "Vortex Trumpet"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Alchemic Cymbal",
+		"type": "Synthesis Item",
+		"description": "A magic cymbal that resonates in one's heart. Its alchemic nature produces a strange effect.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Black Steel"},
+					{"reference": "Red Steel"},
+					{"reference": "Blue Steel"},
+					{"reference": "White Steel"}
+				]
+			},
+			{"reference": "Apollo's Diapason"},
+			{
+				"alternatives": [
+					{"reference": "Polish Powder"},
+					{"reference": "Shiny Powder"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Crash Hammer"},
+					{"reference": "Sledgehammer"},
+					{"reference": "Vorey Splitter"}
+				]
+			}
+		],
+		"image": "images/synthesis/alchemic_cymbal.png",
+		"original_recipe": {"reference": "Echoing Cymbal"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Loveless Potion",
+		"type": "Synthesis Item",
+		"description": "A dubious anti-love potion that Philo created. You'll need courage to drink it.",
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Puniball"},
+					{"reference": "Puni Gummi"},
+					{"reference": "Soul of Darkness"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Heal Jar"},
+					{"reference": "Cure Jar"},
+					{"reference": "120% Fruit"},
+					{"reference": "Veggielicious"},
+					{"reference": "Veggie Purple"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Tiger Blowfish"},
+					{"reference": "Blowfish-X"},
+					{"reference": "Poison Shroom"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Goat Milk"},
+					{"reference": "Marine Water"},
+					{"reference": "Vanilla Syrup"},
+					{"reference": "Black Liquid"},
+					{"reference": "Preservative"}
+				]
+			}
+		],
+		"image": "images/synthesis/loveless_potion.png",
+		"original_recipe": {"reference": "Mystery Medicine"},
+		"character": "None",
+		"idea_trigger": "None"
+	}
+]

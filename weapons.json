@@ -1,0 +1,2611 @@
+[
+	{
+		"name": "Ragged Collar",
+		"type": "Weapon",
+		"character_weapon": "Vayne",
+		"description": "An old collar that Sulpher had on.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 9,
+			"DEF": 2,
+			"MGK": 2,
+			"RES": 2,
+			"SPD": 2
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Woodchip"},
+					{"reference": "Giant Woodchip"}
+				]
+			},
+			{"reference": "Legien Steel"},
+			{
+				"alternatives": [
+					{"reference": "Dirt"},
+					{"reference": "Red Dirt"},
+					{"reference": "Black Dirt"},
+					{"reference": "Polish Powder"},
+					{"reference": "Flour"}
+				]
+			}
+		],
+		"image": "images/weapons/ragged_collar.png",
+		"original_recipe": {"reference": "Old Collar"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Leather Collar",
+		"type": "Weapon",
+		"character_weapon": "Vayne",
+		"description": "A high quality leather collar.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 17,
+			"DEF": 4,
+			"MGK": 4,
+			"RES": 4,
+			"SPD": 4
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Pleather Cloth"},
+					{"reference": "Brisingamen"}
+				]
+			},
+			{"reference": "Cyprus Copper"},
+			{
+				"alternatives": [
+					{"reference": "Polish Powder"},
+					{"reference": "Flour"}
+				]
+			}
+		],
+		"image": "images/weapons/leather_collar.png",
+		"original_recipe": {"reference": "Old Collar"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Pleather Cloth or Brisingamen"
+	},
+	{
+		"name": "Flea Necklace",
+		"type": "Weapon",
+		"character_weapon": "Vayne",
+		"description": "A medicinal collar that rids fleas.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 22,
+			"DEF": 6,
+			"MGK": 6,
+			"RES": 6,
+			"SPD": 6
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Dietary Fiber"},
+					{"reference": "Spinacherb"},
+					{"reference": "Gash Twig"},
+					{"reference": "Eicheloa"},
+					{"reference": "Poison Shroom"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Carrotato"},
+					{"reference": "Dirt"},
+					{"reference": "Red Dirt"},
+					{"reference": "Black Dirt"}
+				]
+			},
+			{"reference": "Tuft"},
+			{"reference": "Cyprus Copper"}
+		],
+		"image": "images/weapons/flea_necklace.png",
+		"original_recipe": {"reference": "Medicinal Collar"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Pretty Ribbon",
+		"type": "Weapon",
+		"character_weapon": "Vayne",
+		"description": "A cute ribbon. Not Sulpher's favorite.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 32,
+			"DEF": 16,
+			"MGK": 16,
+			"RES": 16,
+			"SPD": 8
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Nicro Cloth"},
+					{"reference": "Pleather Cloth"},
+					{"reference": "Silky Cloth"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Leather Collar"},
+					{"reference": "Ragged Collar"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Bitter Grape"},
+					{"reference": "Night-In-Grape"},
+					{"reference": "Muscat"},
+					{"reference": "Blue Petal"},
+					{"reference": "Red Petal"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Goat Milk"},
+					{"reference": "Marine Water"},
+					{"reference": "Heal Jar"}
+				]
+			}
+		],
+		"image": "images/weapons/pretty_ribbon.png",
+		"original_recipe": {"reference": "Cute Ribbon"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Giant's Ring",
+		"type": "Weapon",
+		"character_weapon": "Vayne",
+		"description": "A giant ring that is perfect as a collar.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 45,
+			"DEF": 23,
+			"MGK": 23,
+			"RES": 23,
+			"SPD": 11
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Iron Plate"},
+					{"reference": "Bronze Plate"},
+					{"reference": "Black Steel"},
+					{"reference": "Red Steel"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Flame Ring"},
+					{"reference": "Ice Ring"},
+					{"reference": "Thunder Ring"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Preuve Lead"},
+					{"reference": "Alchemic Cymbal"}
+				]
+			}
+		],
+		"image": "images/weapons/giants_ring.png",
+		"original_recipe": {"reference": "Huge Ring"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Bone Necklace",
+		"type": "Weapon",
+		"character_weapon": "Vayne",
+		"description": "A simple yet elegant collar made of bone.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 34,
+			"DEF": 17,
+			"MGK": 17,
+			"RES": 17,
+			"SPD": 9
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Beast Fang"},
+					{"reference": "Monster Bone"}
+				]
+			},
+			{"reference": "Leather Collar"},
+			{
+				"alternatives": [
+					{"reference": "Dragon Bone"},
+					{"reference": "Carabine Harp"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Worn Weapon"},
+					{"reference": "Worn Armor"}
+				]
+			}
+		],
+		"image": "images/weapons/bone_necklace.png",
+		"original_recipe": {"reference": "Medicinal Collar"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Beast Fang or Monster Bone"
+	},
+	{
+		"name": "Jumbo Donut",
+		"type": "Weapon",
+		"character_weapon": "Vayne",
+		"description": "An inedible donut. Strange looking.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 68,
+			"DEF": 34,
+			"MGK": 34,
+			"RES": 34,
+			"SPD": 17
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Meringue Whip"},
+					{"reference": "Taiyaki"},
+					{"reference": "Long Ice Cream"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Flour"},
+					{"reference": "Salt"},
+					{"reference": "Shiny Powder"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Vanilla Syrup"},
+					{"reference": "Candy Eye"},
+					{"reference": "Goat Milk"}
+				]
+			}
+		],
+		"image": "images/weapons/jumbo_donut.png",
+		"original_recipe": {"reference": "Huge Donut"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Cait Sith's Collar",
+		"type": "Weapon",
+		"character_weapon": "Vayne",
+		"description": "A luxurious collar with decorations.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 85,
+			"DEF": 43,
+			"MGK": 43,
+			"RES": 43,
+			"SPD": 21
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Pentagle"},
+					{"reference": "Brilliant Stone"},
+					{"reference": "Gravity Stone"}
+				]
+			},
+			{"reference": "Pretty Ribbon"},
+			{"reference": "Shiny Moustache"},
+			{"reference": "Vasilissa's Doll"}
+		],
+		"image": "images/weapons/cait_siths_collar.png",
+		"original_recipe": {"reference": "Cute Ribbon"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Pentagle, Brilliant Stone, or Gravity Stone"
+	},
+	{
+		"name": "Runed Collar",
+		"type": "Weapon",
+		"character_weapon": "Vayne",
+		"description": "An inscribed collar with magical words.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 97,
+			"DEF": 49,
+			"MGK": 49,
+			"RES": 49,
+			"SPD": 24
+		},
+		"items_needed": [
+
+			{"reference": "Bone Necklace"},
+			{
+				"alternatives": [
+					{"reference": "Shield of Ajax"},
+					{"reference": "Mirror of Gargol"},
+					{"reference": "Divine Shield"},
+					{"reference": "Misty Curtain"},
+					{"reference": "Dunkelhite"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Magical Clay"},
+					{"reference": "Blood Clay"},
+					{"reference": "Dirt"},
+					{"reference": "Red Dirt"},
+					{"reference": "Black Dirt"}
+				]
+			}
+		],
+		"image": "images/weapons/runed_collar.png",
+		"original_recipe": {"reference": "Collar of Magic"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Magic Stone Collar",
+		"type": "Weapon",
+		"character_weapon": "Vayne",
+		"description": "A strong collar with magic stones.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 108,
+			"DEF": 54,
+			"MGK": 54,
+			"RES": 54,
+			"SPD": 27
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Cait Sith's Collar"},
+					{"reference": "Runed Collar"}
+				]
+			},
+			{"reference": "Altena Ingot"},
+			{"reference": "Stone of Alectoria"},
+			{"reference": "Fortune Ring"}
+		],
+		"image": "images/weapons/magic_stone_collar.png",
+		"original_recipe": {"reference": "Collar of Magic"},
+		"character": "Roxis",
+		"idea_trigger": "After making Runed Collar"
+	},
+	{
+		"name": "Brisingamen",
+		"type": "Weapon",
+		"character_weapon": "Vayne",
+		"description": "A goddess' necklace used as a collar.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 121,
+			"DEF": 61,
+			"MGK": 61,
+			"RES": 61,
+			"SPD": 30
+		},
+		"items_needed": [
+
+			{"reference": "Magic Stone Collar"},
+			{"reference": "Uni God"},
+			{"reference": "Symbol of Uroborus"}
+		],
+		"image": "images/weapons/brisingamen.png",
+		"original_recipe": {"reference": "God's Necklace"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Mana Torque",
+		"type": "Weapon",
+		"character_weapon": "Vayne",
+		"description": "A collar made from crystallized Mana.",
+		"stats": {
+			"HP": 75,
+			"SP": 75,
+			"ATK": 150,
+			"DEF": 75,
+			"MGK": 150,
+			"RES": 75,
+			"SPD": 32
+		},
+		"image": "images/weapons/mana_torque.png",
+		"gathering spot": "Secret Dungeon (Beat the game first)"
+	},
+	{
+		"name": "Pyre Blade",
+		"type": "Weapon",	
+		"character_weapon": "Flay",
+		"description": "A large blade with various gimmicks.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 39,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Burdock Straight"},
+					{"reference": "Worn Weapon"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Legien Steel"},
+					{"reference": "Cyprus Copper"},
+					{"reference": "Preuve Lead"},
+					{"reference": "Elemia Silver"}
+				]
+			},
+			{"reference": "Polish Powder"},
+			{
+				"alternatives": [
+					{"reference": "Gear"},
+					{"reference": "Grand Gear"},
+					{"reference": "Little Gear"},
+					{"reference": "Le Merou Cog"}
+				]
+			}
+		],
+		"image": "images/weapons/pyre_blade.png",
+		"original_recipe": {"reference": "Standard Mechsword"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Machine Cradle",
+		"type": "Weapon",
+		"character_weapon": "Flay",
+		"description": "A Pyre Blade with more functions.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 49,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Legien Steel"},
+					{"reference": "Cyprus Copper"},
+					{"reference": "Preuve Lead"},
+					{"reference": "Elemia Silver"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Gearbox"},
+					{"reference": "Metronome"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Black Liquid"},
+					{"reference": "Preservative"}
+				]
+			},
+			{"reference": "Polish Powder"}
+		],
+		"image": "images/weapons/machine_cradle.png",
+		"original_recipe": {"reference": "Epigonic Mechsword"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Alvero",
+		"type": "Weapon",
+		"character_weapon": "Flay",
+		"description": "The mechsword of an anonymous warrior.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 63,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Blue Steel"},
+			{
+				"alternatives": [
+					{"reference": "Gearbox"},
+					{"reference": "Metronome"},
+					{"reference": "Voidspark Pipe"},
+					{"reference": "Machine Cradle"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Lightning Rod"},
+					{"reference": "Thunder Rod"},
+					{"reference": "Thunder Crystal"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Gear"},
+					{"reference": "Grand Gear"},
+					{"reference": "Little Gear"},
+					{"reference": "Le Merou Cog"}
+				]
+			}
+		],
+		"image": "images/weapons/alvero.png",
+		"original_recipe": {"reference": "Modified Mechsword"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Sharkgill Sword",
+		"type": "Weapon",
+		"character_weapon": "Flay",
+		"description": "A scary mechsword with spark teeth.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 88,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Sharkgill"},
+			{"reference": "Kaiser: Aqua Hero"},
+			{"reference": "Machine Cradle"}
+		],
+		"image": "images/weapons/sharkgill_sword.png",
+		"original_recipe": {"reference": "Modified Mechsword"},
+		"character": "Flay",
+		"idea_trigger": "After making Alvero"
+	},
+	{
+		"name": "Pyre Blade II",
+		"type": "Weapon",
+		"character_weapon": "Flay",
+		"description": "The Pyre Blade with 50% more coolness.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 117,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Pure Blade"},
+			{
+				"alternatives": [
+					{"reference": "Vorey Splitter"},
+					{"reference": "Sledgehammer"}
+				]
+			},
+			{"reference": "Shiny Powder"},
+			{
+				"alternatives": [
+					{"reference": "Flame"},
+					{"reference": "Tera Flame"},
+					{"reference": "Uni Bomb"},
+					{"reference": "Big Uni Bomb"},
+					{"reference": "Orange Bomb"},
+					{"reference": "Big Orange Bomb"},
+					{"reference": "Lando Bomb"},
+					{"reference": "Big Lando Bomb"}
+				]
+			}
+		],
+		"image": "images/weapons/pyre_blade_ii.png",
+		"original_recipe": {"reference": "Standard Mechsword"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Pyre Blade"
+	},
+	{
+		"name": "Proguis",
+		"type": "Weapon",
+		"character_weapon": "Flay",
+		"description": "A super powerful heavy mechsword.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 134,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Voidspark Pipe"},
+					{"reference": "White Steel"},
+					{"reference": "Altena Ingot"}
+				]
+			},
+			{"reference": "Le Merou Cog"},
+			{
+				"alternatives": [
+					{"reference": "Gear"},
+					{"reference": "Grand Gear"},
+					{"reference": "Little Gear"}
+				]
+			}
+		],
+		"image": "images/weapons/proguis.png",
+		"original_recipe": {"reference": "Enhanced Mechsword"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Quartz Slicer",
+		"type": "Weapon",
+		"character_weapon": "Flay",
+		"description": "Its crystal pulse slices everything.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 147,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Alvero"},
+					{"reference": "Gravity Stone"},
+					{"reference": "Canone Crystal"},
+					{"reference": "Glacier Crystal"},
+					{"reference": "Thunder Crystal"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Voidspark Pipe"},
+					{"reference": "Velvet Horn"}
+				]
+			},
+			{"reference": "Thunder Rod"}
+		],
+		"image": "images/weapons/quartz_slicer.png",
+		"original_recipe": {"reference": "Motorized Mechsword"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Deus Ex Machina",
+		"type": "Weapon",
+		"character_weapon": "Flay",
+		"description": "A legendary sword that works forever.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 166,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Pyre Blade II"},
+			{"reference": "Quartz Slicer"},
+			{"reference": "Progius"}
+		],
+		"image": "images/weapons/deus_ex_machina.png",
+		"original_recipe": {"reference": "Master Mechsword"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Dandy Blade",
+		"type": "Weapon",
+		"character_weapon": "Flay",
+		"description": "A physical form of dark dandyism.",
+		"stats": {
+			"HP": 200,
+			"SP": 0,
+			"ATK": 200,
+			"DEF": 100,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"image": "images/weapons/dandy_blade.png",
+		"gathering spot": "Secret Dungeon (Beat the game first)"
+	},
+	{
+		"name": "Astral Card",
+		"type": "Weapon",
+		"character_weapon": "Roxis",
+		"description": "A common fortune telling card.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 29,
+			"RES": 15,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Zettel"},
+					{"reference": "Holy Crest Paper"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Asclepius"},
+					{"reference": "Symbol of Uroborus"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Radish"},
+					{"reference": "Medicinal Radish"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Clearwater"},
+					{"reference": "Brown Groundwater"},
+					{"reference": "Goat Milk"},
+					{"reference": "Marine Water"},
+					{"reference": "Preservative"}
+				]
+			}
+		],
+		"image": "images/weapons/astral_card.png",
+		"original_recipe": {"reference": "Game Card"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Flonne's Charm",
+		"type": "Weapon",
+		"character_weapon": "Roxis",
+		"description": "A cheap charm with a weak blessing.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 38,
+			"RES": 19,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Holy Crest Paper"},
+					{"reference": "Bonus Card"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Heal Jar"},
+					{"reference": "X Heal"},
+					{"reference": "Heal All"},
+					{"reference": "Cure Jar"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Flame Ring"},
+					{"reference": "Canone Crystal"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Lando Bomb"},
+					{"reference": "X-Lando"},
+					{"reference": "Sweet Lando"}
+				]
+			}
+		],
+		"image": "images/weapons/flonnes_charm.png",
+		"original_recipe": {"reference": "Ritual Charm"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Bonus Card",
+		"type": "Weapon",
+		"character_weapon": "Roxis",
+		"description": "A bonus item in some candy. Very sturdy.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 52,
+			"RES": 26,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Rocks rock!"},
+			{
+				"alternatives": [
+					{"reference": "Astral Card"},
+					{"reference": "Flonne's Charm"},
+					{"reference": "Bonus Card"},
+					{"reference": "Trauer Tarot"},
+					{"reference": "Solingen"},
+					{"reference": "Wild Card"},
+					{"reference": "Itsa Card"},
+					{"reference": "Type Solomon"}
+				]
+			}
+		],
+		"image": "images/weapons/bonus_card.png",
+		"original_recipe": {"reference": "Bonus Card"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Trauer Card",
+		"type": "Weapon",
+		"character_weapon": "Roxis",
+		"description": "An augur's card for serious divination.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 62,
+			"RES": 31,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Astral Card"},
+			{"reference": "Holy Crest Paper"},
+			{
+				"alternatives": [
+					{"reference": "Galilean Scope"},
+					{"reference": "Pentagle"},
+					{"reference": "Brilliant Stone"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Silky Cloth"},
+					{"reference": "Formell Fabric"}
+				]
+			}
+		],
+		"image": "images/weapons/trauer_card.png",
+		"original_recipe": {"reference": "Magic Card"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Solingen",
+		"type": "Weapon",
+		"character_weapon": "Roxis",
+		"description": "A card with sharp razor blades.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 50,
+			"DEF": 0,
+			"MGK": 43,
+			"RES": 22,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Red Steel"},
+					{"reference": "Blue Steel"},
+					{"reference": "White Steel"},
+					{"reference": "Magical Clay"},
+					{"reference": "Blood Clay"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Polish Powder"},
+					{"reference": "Shiny Powder"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Tera Flame"},
+					{"reference": "Big Uni Bomb"},
+					{"reference": "Big Orange Bomb"},
+					{"reference": "Big Lando Bomb"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Crack Hammer"},
+					{"reference": "Wooden Club"},
+					{"reference": "Sledgehammer"}
+				]
+			}
+		],
+		"image": "images/weapons/solingen.png",
+		"original_recipe": {"reference": "Razor Card"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Wild Card",
+		"type": "Weapon",
+		"character_weapon": "Roxis",
+		"description": "A versatile card for various situations.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 84,
+			"RES": 42,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Astral Card"},
+			{"reference": "Gravity Stone"},
+			{
+				"alternatives": [
+					{"reference": "Stone of Alectoria"},
+					{"reference": "Magic Stone Collar"}
+		],
+		"image": "images/weapons/wild_card.png",
+		"original_recipe": {"reference": "Razor Card"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Astral Card"
+	},
+	{
+		"name": "Itsa Card",
+		"type": "Weapon",
+		"character_weapon": "Roxis",
+		"description": "A fake of a popular trading card.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 103,
+			"RES": 52,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "King Style"},
+			{"reference": "Astral Card"},
+			{"reference": "Vasilissa's Doll"},
+			{"reference": "Philosopher's Hand"}
+				]
+			}
+		],
+		"image": "images/weapons/itsa_card.png",
+		"original_recipe": {"reference": "Game Card"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to King Style"
+	},
+	{
+		"name": "Type Solomon",
+		"type": "Weapon",
+		"character_weapon": "Roxis",
+		"description": "A legndary card of a demon's powers.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 118,
+			"RES": 59,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Flonne's Charm"},
+			{
+				"alternatives": [
+					{"reference": "Fires of Hell"},
+					{"reference": "Diamond Dust"},
+					{"reference": "Electric Elect"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Globe"},
+					{"reference": "Stellar Globe"}
+				]
+			},
+			{"reference": "Holy Crest Paper"}
+		],
+		"image": "images/weapons/type_solomon.png",
+		"original_recipe": {"reference": "Magic Act"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Fate Spinner",
+		"type": "Weapon",
+		"character_weapon": "Roxis",
+		"description": "It can change the fate of the user.",
+		"stats": {
+			"HP": 0,
+			"SP": 100,
+			"ATK": 0,
+			"DEF": 50,
+			"MGK": 150,
+			"RES": 150,
+			"SPD": 25
+		},
+		"image": "images/weapons/fate_spinner.png",
+		"gathering spot": "Secret Dungeon (Beat the game first)"
+	},
+	{
+		"name": "Favorite Bag",
+		"type": "Weapon",
+		"character_weapon": "Jess",
+		"description": "Jess' favorite bag to stuff things in.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 13,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Zettel"},
+					{"reference": "Nicro Cloth"}
+				]
+			},
+			{"reference": "Puniball"},
+			{
+				"alternatives": [
+					{"reference": "Blue Petal"},
+					{"reference": "Red Petal"},
+					{"reference": "Glowing Petal"}
+				]
+			}
+		],
+		"image": "images/weapons/favorite_bag.png",
+		"original_recipe": {"reference": "Lovely Bag"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Fake Brand Bag",
+		"type": "Weapon",
+		"character_weapon": "Jess",
+		"description": "A fake of a brand name bag, well made.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 23,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Nicro Cloth"},
+			{
+				"alternatives": [
+					{"reference": "Blue Petal"},
+					{"reference": "Red Petal"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Zettel"},
+					{"reference": "Holy Crest Paper"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Huffin"},
+					{"reference": "Brand Name Bag"}
+				]
+			}
+		],
+		"image": "images/weapons/fake_brand_bag.png",
+		"original_recipe": {"reference": "Luxure Purse"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Brand Name Bag",
+		"type": "Weapon",
+		"character_weapon": "Jess",
+		"description": "A copy of a popular brand name bag.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 34,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Pleather Cloth"},
+			{"reference": "Crimson Feather"},
+			{"reference": "Fake Brand Bag"},
+			{
+				"alternatives": [
+					{"reference": "Heal Jar"},
+					{"reference": "X Heal"},
+					{"reference": "Preservative"}
+				]
+			}
+		],
+		"image": "images/weapons/brand_name_bag.png",
+		"original_recipe": {"reference": "Luxure Purse"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Pleather Cloth"
+	},
+	{
+		"name": "Alchemist's Basket",
+		"type": "Weapon",
+		"character_weapon": "Jess",
+		"description": "Has a lot of storage space for all needs.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 49,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Dietary Fiber"},
+					{"reference": "Burdock Straight"},
+					{"reference": "Uni"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Bitter Grape"},
+					{"reference": "Night-In-Grape"},
+					{"reference": "Muscat"},
+					{"reference": "Tangerine"},
+					{"reference": "Sunrise Orange"},
+					{"reference": "Mandarin Orange"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Straw Doll"},
+					{"reference": "Pretty Ribbon"}
+				]
+			}
+		],
+		"image": "images/weapons/alchemists_basket.png",
+		"original_recipe": {"reference": "Net Basket"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Alchemic Bag",
+		"type": "Weapon",
+		"character_weapon": "Jess",
+		"description": "A bag made with some metals. Very hard.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 20,
+			"MGK": 61,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Silky Cloth"},
+					{"reference": "Formell Fabric"}
+				]
+			},
+			{"reference": "Alchemist's Basket"},
+			{
+				"alternatives": [
+					{"reference": "Apollo's Diapason"},
+					{"reference": "Alchemic Cymbal"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Holy Crest Paper"},
+					{"reference": "Zettel"}
+				]
+			}
+		],
+		"image": "images/weapons/alchemic_bag.png",
+		"original_recipe": {"reference": "Alchemy Pack"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Plate Bag",
+		"type": "Weapon",
+		"character_weapon": "Jess",
+		"description": "Made of steel. Not your everyday bag.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 48,
+			"MGK": 96,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Bronze Plate"},
+					{"reference": "Iron Plate"},
+					{"reference": "Baked Plate"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Shield of Ajax"},
+					{"reference": "Mirror of Gargol"},
+					{"reference": "Divine Shield"},
+					{"reference": "Misty Curtain"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Elemia Silver"},
+					{"reference": "Magical Clay"},
+					{"reference": "Blood Clay"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Polish Powder"},
+					{"reference": "Shiny Powder"}
+				]
+			}
+		],
+		"image": "images/weapons/plate_bag.png",
+		"original_recipe": {"reference": "Metallic Pack"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Eco-bag",
+		"type": "Weapon",
+		"character_weapon": "Jess",
+		"description": "Designed with nature and harmony in mind.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 116,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Kittynip"},
+			{
+				"alternatives": [
+					{"reference": "Yubana Fruit"},
+					{"reference": "Dried Yubana"},
+					{"reference": "Yubana Flower"},
+					{"reference": "Lando"},
+					{"reference": "X-Lando"},
+					{"reference": "Sweet Lando"},
+					{"reference": "ATK Fruit"},
+					{"reference": "MGK Fruit"},
+					{"reference": "DEF Fruit"},
+					{"reference": "RES Fruit"},
+					{"reference": "SPD Fruit"}
+				]
+			},
+			{"reference": "Alchemic Bag"},
+			{"reference": "Jade Tablet"}
+		],
+		"image": "images/weapons/eco_bag.png",
+		"original_recipe": {"reference": "Net Basket"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Kittynip"
+	},
+	{
+		"name": "Angel's Bag",
+		"type": "Weapon",
+		"character_weapon": "Jess",
+		"description": "Very cute with angel wing decorations.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 138,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Archangel Wings"},
+			{
+				"alternatives": [
+					{"reference": "Angel's Slip"},
+					{"reference": "Devil's Panties"}
+				]
+			},
+			{"reference": "Formell Fabric"},
+			{"reference": "Stone of Alectoria"}
+		],
+		"image": "images/weapons/angels_bag.png",
+		"original_recipe": {"reference": "Alchemy Pack"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Archangel Wings"
+	},
+	{
+		"name": "Dimension Bag",
+		"type": "Weapon",
+		"character_weapon": "Jess",
+		"description": "Connects with another dimension.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 151,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Angel's Bag"},
+			{"reference": "Super Komet"},
+			{"reference": "Toad Mouth"},
+			{
+				"alternatives": [
+					{"reference": "Nectar"},
+					{"reference": "Super Nectar"},
+					{"reference": "Shining Grail"}
+				]
+			}
+		],
+		"image": "images/weapons/dimension_bag.png",
+		"original_recipe": {"reference": "High Capacity Pack"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Shopping Basket",
+		"type": "Weapon",
+		"character_weapon": "Jess",
+		"description": "It can solve any problem in shopping.",
+		"stats": {
+			"HP": 0,
+			"SP": 100,
+			"ATK": 0,
+			"DEF": 150,
+			"MGK": 250,
+			"RES": 0,
+			"SPD": 0
+		},
+		"image": "images/weapons/shopping_basket.png",
+		"gathering spot": "Secret Dungeon (Beat the game first)"
+	},
+	{
+		"name": "Crack Hammer",
+		"type": "Weapon",
+		"character_weapon": "Nikki",
+		"description": "A unique hammer of the beastmen.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 10,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Canone Rock"},
+					{"reference": "Glacier Stone"},
+					{"reference": "Thunder Stone"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Legien Steel"},
+					{"reference": "Cyprus Copper"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Belgrade Potato"},
+					{"reference": "Carrotato"},
+					{"reference": "Dirt"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Gear"},
+					{"reference": "Grand Gear"},
+					{"reference": "Little Gear"}
+				]
+			}
+		],
+		"image": "images/weapons/crack_hammer.png",
+		"original_recipe": {"reference": "Hammeryhammer"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Wooden Club",
+		"type": "Weapon",
+		"character_weapon": "Nikki",
+		"description": "Made by shaving a tree trunk.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 16,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Woodchip"},
+					{"reference": "Giant Woodchip"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Spinacherb"},
+					{"reference": "Gash Twig"},
+					{"reference": "Dietary Fiber"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Belgrade Potato"},
+					{"reference": "Carrotato"},
+					{"reference": "Dirt"}
+				]
+			},
+			{"reference": "Nicro Cloth"}
+		],
+		"image": "images/weapons/wooden_club.png",
+		"original_recipe": {"reference": "Wooden Beatstick"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Brownie Hammer",
+		"type": "Weapon",
+		"character_weapon": "Nikki",
+		"description": "A brownie's favorite hammer.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 23,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 12
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Wooden Club"},
+					{"reference": "Wood Tympani"}
+				]
+			},
+			{"reference": "Brownie Mask"},
+			{
+				"alternatives": [
+					{"reference": "Cyprus Copper"},
+					{"reference": "Legien Steel"},
+					{"reference": "Preuve Lead"}
+				]
+			}
+		],
+		"image": "images/weapons/brownie_hammer.png",
+		"original_recipe": {"reference": "Wooden Beatstick"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Wooden Club or Wood Tympani"
+	},
+	{
+		"name": "Crusher Twins",
+		"type": "Weapon",
+		"character_weapon": "Nikki",
+		"description": "A destructive weapon just like its name.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 30,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 15
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Uni"},
+					{"reference": "Big Uni"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Black Steel"},
+					{"reference": "Red Steel"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Canone Rock"},
+					{"reference": "Glacier Stone"},
+					{"reference": "Thunder Stone"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Belgrade Potato"},
+					{"reference": "Carrotato"},
+					{"reference": "Dirt"},
+					{"reference": "Red Dirt"},
+					{"reference": "Black Dirt"},
+					{"reference": "Crack Hammer"}
+				]
+			}
+		],
+		"image": "images/weapons/crusher_twins.png",
+		"original_recipe": {"reference": "Hammeryhammer"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Uni or Big Uni"
+	},
+	{
+		"name": "Sledgehammer",
+		"type": "Weapon",
+		"character_weapon": "Nikki",
+		"description": "A turbo device makes a greater impact.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 39,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 20
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Gearbox"},
+					{"reference": "Eternal Turnkey"},
+					{"reference": "Metronome"}
+				]
+			},
+			{"reference": "Giant Woodchip"},
+			{
+				"alternatives": [
+					{"reference": "Red Steel"},
+					{"reference": "Blue Steel"},
+					{"reference": "White Steel"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Belgrade Potato"},
+					{"reference": "Carrotato"},
+					{"reference": "Dirt"},
+					{"reference": "Red Dirt"},
+					{"reference": "Black Dirt"},
+					{"reference": "Magical Clay"},
+					{"reference": "Blood Clay"}
+				]
+			}
+		],
+		"image": "images/weapons/sledgehammer.png",
+		"original_recipe": {"reference": "Charge Hammer"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Vorey Splitter",
+		"type": "Weapon",
+		"character_weapon": "Nikki",
+		"description": "A professional item with a steel ball.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 56,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 28
+		},
+		"items_needed": [
+
+			{"reference": "Crusher Twins"},
+			{
+				"alternatives": [
+					{"reference": "Canone Crystal"},
+					{"reference": "Glacier Crystal"},
+					{"reference": "Thunder Crystal"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Tera Flame"},
+					{"reference": "Big Uni Bomb"},
+					{"reference": "Big Orange Bomb"},
+					{"reference": "Big Lando Bomb"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Burdock Straight"},
+					{"reference": "Burdock Curve"},
+					{"reference": "Shinke Onion"},
+					{"reference": "Pumpotatokin"}
+				]
+			}
+		],
+		"image": "images/weapons/vorey_splitter.png",
+		"original_recipe": {"reference": "Hammeryhammer Plus"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Yula Hammer",
+		"type": "Weapon",
+		"character_weapon": "Nikki",
+		"description": "A giant hammer with a flat dot.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 88,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 44
+		},
+		"items_needed": [
+
+			{"reference": "Brownie Hammer"},
+			{"reference": "Megingjorz"},
+			{"reference": "Raw Komet Ore"},
+			{"reference": "Crusher Twins"}
+		],
+		"image": "images/weapons/yula_hammer.png",
+		"original_recipe": {"reference": "Wooden Beatstick"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Brownie Hammer"
+	},
+	{
+		"name": "Grand Sledgehammer",
+		"type": "Weapon",
+		"character_weapon": "Nikki",
+		"description": "A big and great sledgehammer.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 111,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 56
+		},
+		"items_needed": [
+
+			{"reference": "Sledgehammer"},
+			{"reference": "Altena Ingot"},
+			{"reference": "Progius"},
+			{"reference": "Brownie Hammer"}
+		],
+		"image": "images/weapons/grand_sledgehammer.png",
+		"original_recipe": {"reference": "Charge Hammer"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Sledgehammer"
+	},
+	{
+		"name": "Thor Hammer",
+		"type": "Weapon",
+		"character_weapon": "Nikki",
+		"description": "A shiny, golden hammer used by god.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 120,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 60
+		},
+		"items_needed": [
+
+			{"reference": "Grand Sledgehammer"},
+			{"reference": "Uni God"},
+			{"reference": "Gold Bullion"},
+			{"reference": "Raw Komet Ore"}
+		],
+		"image": "images/weapons/thor_hammer.png",
+		"original_recipe": {"reference": "God's Hammer"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Ultimate Mace",
+		"type": "Weapon",
+		"character_weapon": "Nikki",
+		"description": "A weapon carved from the strongest metal.",
+		"stats": {
+			"HP": 100,
+			"SP": 0,
+			"ATK": 150,
+			"DEF": 100,
+			"MGK": 50,
+			"RES": 50,
+			"SPD": 0
+		},
+		"image": "images/weapons/ultimate_mace.png",
+		"gathering spot": "Secret Dungeon (Beat the game first)"
+	},
+	{
+		"name": "Doll's Claw",
+		"type": "Weapon",
+		"character_weapon": "Pamela",
+		"description": "Soft claws of a stuffed animal.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 17,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Nicro Cloth"},
+					{"reference": "Pleather Cloth"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Tuft"},
+					{"reference": "Knot"},
+					{"reference": "Shiny Moustache"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Beast Fang"},
+					{"reference": "Super Alloy Claw"}
+				]
+			}
+		],
+		"image": "images/weapons/dolls_claw.png",
+		"original_recipe": {"reference": "Stuffed Animal"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Plastic Claw",
+		"type": "Weapon",
+		"character_weapon": "Pamela",
+		"description": "A plastic claw that looks strong.",
+		"stats": {
+			"HP": 0,
+			"SP": 13,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 26,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Carbon Boulder"},
+					{"reference": "Rocks rock!"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Puniball"},
+					{"reference": "Puni Gummi"}
+				]
+			},
+			{"reference": "Taun"},
+			{
+				"alternatives": [
+					{"reference": "Puppy Paw Gloves"},
+					{"reference": "Punny Paw Flan"},
+					{"reference": "Doll's Claw"}
+				]
+			}
+		],
+		"image": "images/weapons/plastic_claw.png",
+		"original_recipe": {"reference": "Stuffed Animal"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Carbon Boulder or Rocks rock!"
+	},
+	{
+		"name": "Steel Claw",
+		"type": "Weapon",
+		"character_weapon": "Pamela",
+		"description": "Steel nail make this teddy scary.",
+		"stats": {
+			"HP": 0,
+			"SP": 18,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 32,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Legien Steel"},
+					{"reference": "Cyprus Copper"}
+				]
+			},
+			{"reference": "Black Steel"},
+			{
+				"alternatives": [
+					{"reference": "Gloves of Artorius"},
+					{"reference": "Thorn Gauntlet"}
+				]
+			}
+		],
+		"image": "images/weapons/steel_claw.png",
+		"original_recipe": {"reference": "Metallic Claw"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Bear Claw",
+		"type": "Weapon",
+		"character_weapon": "Pamela",
+		"description": "Sharpened claws that can dig deep.",
+		"stats": {
+			"HP": 0,
+			"SP": 21,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 39,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Steel Claw"},
+			{
+				"alternatives": [
+					{"reference": "Le Merou Cog"},
+					{"reference": "Gear"},
+					{"reference": "Grand Gear"},
+					{"reference": "Little Gear"},
+					{"reference": "Eternal Turnkey"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Gearbox"},
+					{"reference": "Metronome"}
+				]
+			}
+		],
+		"image": "images/weapons/bear_claw.png",
+		"original_recipe": {"reference": "Beast's Claw"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Alloy Claw",
+		"type": "Weapon",
+		"character_weapon": "Pamela",
+		"description": "Pierces through like sharp needles.",
+		"stats": {
+			"HP": 0,
+			"SP": 53,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 89,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Preuve Lead"},
+			{"reference": "Red Steel"},
+			{"reference": "Steel Claw"},
+			{
+				"alternatives": [
+					{"reference": "Scale Gauntlet"},
+					{"reference": "Philosopher's Hand"}
+				]
+			}
+		],
+		"image": "images/weapons/alloy_claw.png",
+		"original_recipe": {"reference": "Metallic Claw"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Preuve Lead"
+	},
+	{
+		"name": "Super Alloy Claw",
+		"type": "Weapon",
+		"character_weapon": "Pamela",
+		"description": "Enhanced claws using super alloy.",
+		"stats": {
+			"HP": 0,
+			"SP": 61,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 101,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "White Steel"},
+			{"reference": "Blue Steel"},
+			{"reference": "Alloy Claw"},
+			{"reference": "Megingjorz"}
+		],
+		"image": "images/weapons/super_alloy_claw.png",
+		"original_recipe": {"reference": "Metallic Claw"},
+		"character": "Flay",
+		"idea_trigger": "After making Steel Claw"
+	},
+	{
+		"name": "Electric Claw",
+		"type": "Weapon",
+		"character_weapon": "Pamela",
+		"description": "It spins for greater destructive power.",
+		"stats": {
+			"HP": 0,
+			"SP": 76,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 117,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Super Alloy Claw"},
+			{"reference": "Altena Ingot"},
+			{
+				"alternatives": [
+					{"reference": "Thunder Rod"},
+					{"reference": "Voidspark Pipe"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Gearbox"},
+					{"reference": "Metronome"},
+					{"reference": "Organne La Firste"}
+				]
+			}
+		],
+		"image": "images/weapons/electric_claw.png",
+		"original_recipe": {"reference": "Beast's Claw"},
+		"character": "Muppy",
+		"idea_trigger": "After making Bear Claw"
+	},
+	{
+		"name": "Hellclaw",
+		"type": "Weapon",
+		"character_weapon": "Pamela",
+		"description": "A hand modeled after a devil in hell.",
+		"stats": {
+			"HP": 0,
+			"SP": 97,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 139,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Plastic Claw"},
+			{"reference": "Archangel Wings"},
+			{"reference": "Gold Bullion"},
+			{"reference": "Armored Crab"}
+		],
+		"image": "images/weapons/hellclaw.png",
+		"original_recipe": {"reference": "Claw Super Weapon"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Platinum Claw",
+		"type": "Weapon",
+		"character_weapon": "Pamela",
+		"description": "Very expensive claws made from platinum.",
+		"stats": {
+			"HP": 0,
+			"SP": 300,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 150,
+			"RES": 50,
+			"SPD": 0
+		},
+		"image": "images/weapons/platinum_claw.png",
+		"gathering spot": "Secret Dungeon (Beat the game first)"
+	},
+	{
+		"name": "Dimentia Blade",
+		"type": "Weapon",
+		"character_weapon": "Anna",
+		"description": "Anna's favorite sword. Easy to use.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 25,
+			"DEF": 0,
+			"MGK": 19,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Legien Steel"},
+					{"reference": "Cyprus Copper"},
+					{"reference": "Preuve Lead"},
+					{"reference": "Elemia Silver"},
+					{"reference": "Azoth Z"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Black Steel"},
+					{"reference": "Red Steel"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Orange Bomb"},
+					{"reference": "Lando Bomb"},
+					{"reference": "Plosion"},
+					{"reference": "Flame"},
+					{"reference": "Tera Flame"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Black Powder"},
+					{"reference": "Polish Powder"},
+					{"reference": "Shiny Powder"}
+				]
+			}
+		],
+		"image": "images/weapons/dimentia_blade.png",
+		"original_recipe": {"reference": "Favorite Sword"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Muramasa",
+		"type": "Weapon",
+		"character_weapon": "Anna",
+		"description": "An enhanced sword with a strange aura.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 38,
+			"DEF": 0,
+			"MGK": 30,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Dimentia Blade"},
+			{
+				"alternatives": [
+					{"reference": "Elemia Silver"},
+					{"reference": "Pendelook"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Plosion"},
+					{"reference": "Flame"},
+					{"reference": "Tera Flame"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Pumpotatokin"},
+					{"reference": "Medicinal Radish"},
+					{"reference": "Shinke Onion"}
+				]
+			}
+		],
+		"image": "images/weapons/muramasa.png",
+		"original_recipe": {"reference": "Favorite Sword"},
+		"character": "Anna",
+		"idea_trigger": "After making Dimentia Blade"
+	},
+	{
+		"name": "Blue Dragon",
+		"type": "Weapon",
+		"character_weapon": "Anna",
+		"description": "Double edged sword with a huge blade.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 62,
+			"DEF": 0,
+			"MGK": 53,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Dragon Bone"},
+					{"reference": "Dragon Scale"},
+					{"reference": "Dragon Tongue"},
+					{"reference": "Carabine Harp"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Carbon Boulder"},
+					{"reference": "Raw Komet Ore"},
+					{"reference": "Super Komet"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Plosion"},
+					{"reference": "Black Powder"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Thorn Gauntlet"},
+					{"reference": "Scale Gauntlet"}
+				]
+			}
+		],
+		"image": "images/weapons/blue_dragon.png",
+		"original_recipe": {"reference": "Foreign Blade"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Ben Breaker",
+		"type": "Weapon",
+		"character_weapon": "Anna",
+		"description": "A god's sword said to cut a mountain.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 76,
+			"DEF": 0,
+			"MGK": 68,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Blue Dragon"},
+			{"reference": "Pentagle"},
+			{
+				"alternatives": [
+					{"reference": "Plosion"},
+					{"reference": "Black Powder"}
+				]
+			},
+			{"reference": "Glasses of Death"}
+		],
+		"image": "images/weapons/ben_breaker.png",
+		"original_recipe": {"reference": "Foreign Blade"},
+		"character": "Anna",
+		"idea_trigger": "After making Blue Dragon"
+	},
+	{
+		"name": "Azoth Z",
+		"type": "Weapon",
+		"character_weapon": "Anna",
+		"description": "A replica of a sword from another world.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 87,
+			"DEF": 0,
+			"MGK": 83,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Jade Tablet"},
+			{"reference": "Aroma Material"},
+			{"reference": "Dragon Tongue"},
+			{"reference": "Dunkelhite"}
+		],
+		"image": "images/weapons/azoth_z.png",
+		"original_recipe": {"reference": "Alchemic Sword"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Pellucian",
+		"type": "Weapon",
+		"character_weapon": "Anna",
+		"description": "A supreme sword of the blades master.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 97,
+			"DEF": 0,
+			"MGK": 97,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Muramasa"},
+			{"reference": "Altena Ingot"},
+			{
+				"alternatives": [
+					{"reference": "Liquid Metal"},
+					{"reference": "Blood Clay"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Bobomb Ice"},
+					{"reference": "Coolster"},
+					{"reference": "Grape Sherbet"},
+					{"reference": "Muscat Sorbet"}
+				]
+			}
+		],
+		"image": "images/weapons/pellucian.png",
+		"original_recipe": {"reference": "A Master's Swing"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Stargazer",
+		"type": "Weapon",
+		"character_weapon": "Anna",
+		"description": "A blade that can slice a star.",
+		"stats": {
+			"HP": 0,
+			"SP": 100,
+			"ATK": 200,
+			"DEF": 100,
+			"MGK": 50,
+			"RES": 0,
+			"SPD": 50
+		},
+		"image": "images/weapons/stargazer.png",
+		"gathering spot": "Secret Dungeon (Beat the game first)"
+	},
+	{
+		"name": "Commercial Pot",
+		"type": "Weapon",
+		"character_weapon": "Muppy",
+		"description": "Made with emphasis on cost-performance.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 34,
+			"MGK": 34,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Carbon Boulder"},
+					{"reference": "Magical Clay"},
+					{"reference": "Blood Clay"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Liquid Metal"},
+					{"reference": "Preservative"},
+					{"reference": "Nectar"},
+					{"reference": "Super Nectar"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Nicro Cloth"},
+					{"reference": "Pleather Cloth"},
+					{"reference": "Silky Cloth"},
+					{"reference": "Formell Fabric"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Gear"},
+					{"reference": "Grand Gear"},
+					{"reference": "Little Gear"},
+					{"reference": "Gearbox"},
+					{"reference": "Metronome"},
+					{"reference": "Pot Station"}
+				]
+			}
+		],
+		"image": "images/weapons/commercial_pot.png",
+		"original_recipe": {"reference": "Sphere Spaceship"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Proto Pot",
+		"type": "Weapon",
+		"character_weapon": "Muppy",
+		"description": "An old, but usable pot for testing.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 52,
+			"MGK": 52,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Red Steel"},
+					{"reference": "Magical Clay"},
+					{"reference": "Blood Clay"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Liquid Metal"},
+					{"reference": "Preservative"},
+					{"reference": "Nectar"},
+					{"reference": "Super Nectar"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Canone Crystal"},
+					{"reference": "Glacier Crystal"},
+					{"reference": "Thunder Crystal"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Gear"},
+					{"reference": "Grand Gear"},
+					{"reference": "Little Gear"},
+					{"reference": "Gearbox"},
+					{"reference": "Metronome"},
+					{"reference": "Pot Station"}
+				]
+			}
+		],
+		"image": "images/weapons/proto_pot.png",
+		"original_recipe": {"reference": "Sphere Spaceship"},
+		"character": "Muppy",
+		"idea_trigger": "After making Commercial Pot"
+	},
+	{
+		"name": "Mark II",
+		"type": "Weapon",
+		"character_weapon": "Muppy",
+		"description": "Developed in secret and mass produced.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 81,
+			"MGK": 81,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Liquid Metal"},
+			{"reference": "Pendelook"},
+			{
+				"alternatives": [
+					{"reference": "Lightning Rod"},
+					{"reference": "Thunder Rod"},
+					{"reference": "Voidspark Pipe"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Magical Clay"},
+					{"reference": "Blood Clay"},
+					{"reference": "Commercial Pot"},
+					{"reference": "Proto Pot"}
+				]
+			}
+		],
+		"image": "images/weapons/mark_ii.png",
+		"original_recipe": {"reference": "Neo Spaceship"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Pot Station",
+		"type": "Weapon",
+		"character_weapon": "Muppy",
+		"description": "A collection of all technologies in one.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 101,
+			"MGK": 101,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Commercial Pot"},
+			{"reference": "Proto Pot"},
+			{
+				"alternatives": [
+					{"reference": "White Steel"},
+					{"reference": "Altena Ingot"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Gearbox"},
+					{"reference": "Metronome"},
+					{"reference": "Organne La Firste"}
+				]
+			}
+		],
+		"image": "images/weapons/pot_station.png",
+		"original_recipe": {"reference": "Object from Space"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Crown Pot",
+		"type": "Weapon",
+		"character_weapon": "Muppy",
+		"description": "A personal pot used only by royalty.",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 111,
+			"DEF": 0,
+			"MGK": 111,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Mark II"},
+			{"reference": "Gold Bullion"},
+			{"reference": "Holy Crest Paper"},
+			{
+				"alternatives": [
+					{"reference": "King Style"},
+					{"reference": "Star Queen"},
+					{"reference": "Crown Breastplate"},
+					{"reference": "King Tuna"},
+					{"reference": "Queen Tuna"}
+				]
+			}
+		],
+		"image": "images/weapons/crown_pot.png",
+		"original_recipe": {"reference": "Royal Spaceship"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Pleasant Pot",
+		"type": "Weapon",
+		"character_weapon": "Muppy",
+		"description": "The perfect balance of simple elegance.",
+		"stats": {
+			"HP": 300,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 200,
+			"MGK": 200,
+			"RES": 0,
+			"SPD": 0
+		},
+		"image": "images/weapons/pleasant_pot.png",
+		"gathering spot": "Secret Dungeon (Beat the game first)"
+	}
+]

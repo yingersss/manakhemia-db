@@ -1,0 +1,2043 @@
+[
+	{
+		"name": "Flame Ring",
+		"type": "Accessory",
+		"description": "A firestone ring with a burning aura.",
+		"effect": "Fire Resist",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Canone Rock"},
+					{"reference": "Canone Crystal"},
+					{"reference": "Auto Igniter"},
+					{"reference": "Plosion"},
+					{"reference": "Flame Ring"},
+					{"reference": "Fires of Hell"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Chrome Crystal"},
+					{"reference": "Soul of Darkness"},
+					{"reference": "Gravity Stone"},
+					{"reference": "Pendelook"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Polish Powder"},
+					{"reference": "Flour"},
+					{"reference": "Salt"},
+					{"reference": "Black Powder"},
+					{"reference": "Shiny Powder"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Black Steel"},
+					{"reference": "Red Steel"},
+					{"reference": "Blue Steel"},
+					{"reference": "White Steel"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/flame_ring.png",
+		"original_recipe": {"reference": "Magic Ring"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Ice Ring",
+		"type": "Accessory",
+		"description": "An icestone ring with a frosty aura.",
+		"effect": "Ice Resist",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Glacier Stone"},
+					{"reference": "Glacier Crystal"},
+					{"reference": "Coolster"},
+					{"reference": "Long Ice Cream"},
+					{"reference": "Ice Ring"},
+					{"reference": "Diamond Dust"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Chrome Crystal"},
+					{"reference": "Soul of Darkness"},
+					{"reference": "Gravity Stone"},
+					{"reference": "Pendelook"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Polish Powder"},
+					{"reference": "Flour"},
+					{"reference": "Salt"},
+					{"reference": "Black Powder"},
+					{"reference": "Shiny Powder"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Black Steel"},
+					{"reference": "Red Steel"},
+					{"reference": "Blue Steel"},
+					{"reference": "White Steel"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/ice_ring.png",
+		"original_recipe": {"reference": "Magic Ring"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Glacier Stone, Glacier Crystal, Coolster, Long Ice Cream, Ice Ring, or Diamond Dust"
+	},
+	{
+		"name": "Thunder Ring",
+		"type": "Accessory",
+		"description": "A thunderstone ring with many sparks.",
+		"effect": "Thunder Resist",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Thunder Stone"},
+					{"reference": "Thunder Crystal"},
+					{"reference": "Voidspark Pipe"},
+					{"reference": "Lightning Rod"},
+					{"reference": "Thunder Rod"},
+					{"reference": "Electric Elect"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Chrome Crystal"},
+					{"reference": "Soul of Darkness"},
+					{"reference": "Gravity Stone"},
+					{"reference": "Pendelook"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Polish Powder"},
+					{"reference": "Flour"},
+					{"reference": "Salt"},
+					{"reference": "Black Powder"},
+					{"reference": "Shiny Powder"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Black Steel"},
+					{"reference": "Red Steel"},
+					{"reference": "Blue Steel"},
+					{"reference": "White Steel"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/thunder_ring.png",
+		"original_recipe": {"reference": "Magic Ring"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Thunder Stone, Thunder Crystal, Voidspark Pipe, Lightning Rod, Thunder Rod, or Electric Elect"
+	},
+	{
+		"name": "Fires of Hell",
+		"type": "Accessory",
+		"description": "A pot stored flames from hell.",
+		"effect": "Fire Resist+",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Auto Igniter"},
+					{"reference": "Aroma Material"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Fortune Ring"},
+					{"reference": "Flame Ring"},
+					{"reference": "Tera Flame"},
+					{"reference": "Stone of Alectoria"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Altena Ingot"},
+					{"reference": "Blood Clay"},
+					{"reference": "White Steel"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/fires_of_hell.png",
+		"original_recipe": {"reference": "Pot of Flames"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Diamond Dust",
+		"type": "Accessory",
+		"description": "A glacier that can never melt away.",
+		"effect": "Ice Resist+",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Coolster"},
+					{"reference": "Aroma Material"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Brilliant Stone"},
+					{"reference": "Ice Ring"},
+					{"reference": "Bobomb Ice"},
+					{"reference": "Stone of Alectoria"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Altena Ingot"},
+					{"reference": "Blood Clay"},
+					{"reference": "White Steel"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+
+				]
+			}
+		],
+		"image": "images/accessory/diamond_dust.png",
+		"original_recipe": {"reference": "Freezing Device"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Electric Elect",
+		"type": "Accessory",
+		"description": "A legendary device created long ago.",
+		"effect": "Thunder Resist+",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Voidspark Pipe"},
+					{"reference": "Aroma Material"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Gearbox"},
+					{"reference": "Thunder Ring"},
+					{"reference": "Thunder Rod"},
+					{"reference": "Stone of Alectoria"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Altena Ingot"},
+					{"reference": "Blood Clay"},
+					{"reference": "White Steel"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/electric_elect.png",
+		"original_recipe": {"reference": "Electric Machine"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Puppy Paw Gloves",
+		"type": "Accessory",
+		"description": "Very soft gloves. It feels sooooo good.",
+		"effect": "HP Up",
+		"stats": {
+			"HP": 30,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Tuft"},
+					{"reference": "Knot"},
+					{"reference": "Shiny Moustache"},
+					{"reference": "Puppy Paw Gloves"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Nicro Cloth"},
+					{"reference": "Pleather Cloth"},
+					{"reference": "Silky Cloth"},
+					{"reference": "Formell Fabric"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Wild Meat"},
+					{"reference": "Rotten Meat"},
+					{"reference": "Golden Meat"},
+					{"reference": "Bacon"},
+					{"reference": "Smoked Fish"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/puppy_paw_gloves.png",
+		"original_recipe": {"reference": "Gloves"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Asclepius",
+		"type": "Accessory",
+		"description": "This charm increases the holder's spirit.",
+		"effect": "SP Up",
+		"stats": {
+			"HP": 0,
+			"SP": 20,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Woodchip"},
+					{"reference": "Giant Woodchip"},
+					{"reference": "Wooden Club"}
+				]
+			},
+			{"reference": "Beast Fang"},
+			{
+				"alternatives": [
+					{"reference": "Gash Twig"},
+					{"reference": "Taun"},
+					{"reference": "Dunkelhite"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/asclepius.png",
+		"original_recipe": {"reference": "A Small Wand"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Stone of Alectoria",
+		"type": "Accessory",
+		"description": "Life enrgy enchants this ancient stone.",
+		"effect": "HP Up",
+		"stats": {
+			"HP": 60,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Canone Crystal"},
+					{"reference": "Glacier Crystal"},
+					{"reference": "Thunder Crystal"},
+					{"reference": "Aroma Material"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Blue Steel"},
+					{"reference": "White Steel"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Polish Powder"},
+					{"reference": "Black Powder"},
+					{"reference": "Shiny Powder"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Nectar"},
+					{"reference": "Super Nectar"},
+					{"reference": "Youthful Apple"},
+					{"reference": "Eternal Peach"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/stone_of_alectoria.png",
+		"original_recipe": {"reference": "Stone of Sealing"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Symbol of Uroborus",
+		"type": "Accessory",
+		"description": "A snake ring charm. Represents eternity.",
+		"effect": "SP Up",
+		"stats": {
+			"HP": 0,
+			"SP": 40,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Dragon Bone"},
+					{"reference": "Dragon Scale"},
+					{"reference": "Dragon Tongue"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Asclepius"},
+					{"reference": "Stone of Alectoria"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Flame Ring"},
+					{"reference": "Ice Ring"},
+					{"reference": "Thunder Ring"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Giant's Ring"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/symbol_of_uroborus.png",
+		"original_recipe": {"reference": "Alchemy Symbol"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Thorn Gauntlet",
+		"type": "Accessory",
+		"description": "Gauntlets with some spikey decoration.",
+		"effect": "ATK Up",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 20,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Cyprus Copper"},
+			{
+				"alternatives": [
+					{"reference": "Pleather Cloth"},
+					{"reference": "Nicro Cloth"},
+					{"reference": "Puppy Paw Gloves"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Poison Shroom"},
+					{"reference": "Rotten Meat"},
+					{"reference": "Blowfish-X"},
+					{"reference": "Tiger Blowfish"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/thorn_gauntlet.png",
+		"original_recipe": {"reference": "Gloves"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Cyprus Copper"
+	},
+	{
+		"name": "Straw Doll",
+		"type": "Accessory",
+		"description": "A doll with a bow-tie charmpoint.",
+		"effect": "MGK Up",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 20,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Nicro Cloth"},
+					{"reference": "Dietary Fiber"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Burdock Straight"},
+					{"reference": "Burdock Curve"},
+					{"reference": "Worn Weapon"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Tuft"},
+					{"reference": "Knot"},
+					{"reference": "Puni Gummi"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Ragged Collar"},
+					{"reference": "Leather Collar"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/straw_doll.png",
+		"original_recipe": {"reference": "Doll"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Gloves of Artorius",
+		"type": "Accessory",
+		"description": "Gauntlets to protect delicate hands.",
+		"effect": "DEF Up",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 20,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Legien Steel"},
+			{
+				"alternatives": [
+					{"reference": "Pleather Cloth"},
+					{"reference": "Nicro Cloth"},
+					{"reference": "Puppy Paw Gloves"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Worn Weapon"},
+					{"reference": "Worn Armor"},
+					{"reference": "Thorn Gauntlet"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/gloves_of_artorius.png",
+		"original_recipe": {"reference": "Gloves"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Legien Steel"
+	},
+	{
+		"name": "Vasilissa's Doll",
+		"type": "Accessory",
+		"description": "The girls seem to like voodoo dolls.",
+		"effect": "RES Up",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 20,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Brownie Mask"},
+			{"reference": "Straw Doll"},
+			{
+				"alternatives": [
+					{"reference": "Nicro Cloth"},
+					{"reference": "Pleather Cloth"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Monster Cookie"},
+					{"reference": "Puni Gummi"},
+					{"reference": "Puppy Paw Gloves"},
+					{"reference": "Soul of Darkness"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/vasilissas_doll.png",
+		"original_recipe": {"reference": "Doll"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Brownie Mask"
+	},
+	{
+		"name": "Angel Wing",
+		"type": "Accessory",
+		"description": "An accessory shaped like an angel wing.",
+		"effect": "SPD Up",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 10
+		},
+		"items_needed": [
+
+			{"reference": "Angel's Slip"},
+			{
+				"alternatives": [
+					{"reference": "Crimson Feather"},
+					{"reference": "White Feather"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Tuft"},
+					{"reference": "Knot"},
+					{"reference": "Shiny Moustache"},
+					{"reference": "Huffin"},
+					{"reference": "Meringue Whip"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Raven Robe"},
+					{"reference": "Arabesque Robe"},
+					{"reference": "La Matador"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/angel_wing.png",
+		"original_recipe": {"reference": "Wing of an Angel"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Megingjorz",
+		"type": "Accessory",
+		"description": "A belt that brings out super strength.",
+		"effect": "ATK Up",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 80,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Formell Fabric"},
+			{
+				"alternatives": [
+					{"reference": "Cait Sith's Collar"},
+					{"reference": "Pretty Ribbon"},
+					{"reference": "Brisingamen"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Fortune Ring"},
+					{"reference": "Velvet Horn"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Silver Thread"},
+					{"reference": "Clear Fiber"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/megingjorz.png",
+		"original_recipe": {"reference": "Power Girdle"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Jade Tablet",
+		"type": "Accessory",
+		"description": "A stone slab with alchemy secrets.",
+		"effect": "MGK Up",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 80,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "White Steel"},
+					{"reference": "Altena Ingot"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Flame Ring"},
+					{"reference": "Ice Ring"},
+					{"reference": "Thunder Ring"},
+					{"reference": "Fires of Hell"},
+					{"reference": "Diamond Dust"},
+					{"reference": "Electric Elect"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Trauer Tarot"},
+					{"reference": "Flonne's Charm"},
+					{"reference": "Type Solomon"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Brilliant Stone"},
+					{"reference": "Pentagle"},
+					{"reference": "Aroma Material"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/jade_tablet.png",
+		"original_recipe": {"reference": "Green Tablet"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Shield of Ajax",
+		"type": "Accessory",
+		"description": "An enchanted shield of ultimate defense.",
+		"effect": "DEF Up",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 80,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Divine Shield"},
+			{
+				"alternatives": [
+					{"reference": "Blue Steel"},
+					{"reference": "White Steel"},
+					{"reference": "Altena Ingot"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Estevan Guard"},
+					{"reference": "Bone Breastplate"},
+					{"reference": "Crown Breastplate"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Polish Powder"},
+					{"reference": "Shiny Powder"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/shield_of_ajax.png",
+		"original_recipe": {"reference": "Hard Shield"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Mirror of Gargol",
+		"type": "Accessory",
+		"description": "A strange mirror that absorbs magic.",
+		"effect": "RES Up",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 80,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Misty Curtain"},
+			{
+				"alternatives": [
+					{"reference": "Blue Steel"},
+					{"reference": "White Steel"},
+					{"reference": "Altena Ingot"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Dragonscale Garb"},
+					{"reference": "Aurora Curtain"},
+					{"reference": "Fishscale Garb"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Polish Powder"},
+					{"reference": "Shiny Powder"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/mirror_of_gargol.png",
+		"original_recipe": {"reference": "Hard Shield"},
+		"character": "Roxis",
+		"idea_trigger": "After making Shield of Ajax"
+	},
+	{
+		"name": "Archangel Wings",
+		"type": "Accessory",
+		"description": "A blessed set of an archangel's wings.",
+		"effect": "All Stats Up",
+		"stats": {
+			"HP": 40,
+			"SP": 20,
+			"ATK": 20,
+			"DEF": 20,
+			"MGK": 20,
+			"RES": 20,
+			"SPD": 10
+		},
+		"items_needed": [
+
+			{"reference": "Angel Wing"},
+			{"reference": "Rainbow Feather"},
+			{"reference": "Winged Boots"},
+			{
+				"alternatives": [
+					{"reference": "Altena Ingot"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/archangel_wings.png",
+		"original_recipe": {"reference": "Wing of an Angel"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Angel Wing"
+	},
+	{
+		"name": "Fallen Wing",
+		"type": "Accessory",
+		"description": "Dark wigns of a devil. Can't fly.",
+		"effect": "SPD Up",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 20
+		},
+		"items_needed": [
+
+			{"reference": "Devil's Panties"},
+			{"reference": "Black Feather"},
+			{
+				"alternatives": [
+					{"reference": "Angel Wing"},
+					{"reference": "Crimson Feather"},
+					{"reference": "White Feather"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Soul of Darkness"},
+					{"reference": "Black Liquid"},
+					{"reference": "99% Chaos Choco"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/fallen_wing.png",
+		"original_recipe": {"reference": "Wing of an Angel"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Devil's Panties"
+	},
+	{
+		"name": "Scale Gauntlet",
+		"type": "Accessory",
+		"description": "Scales were used to better the design.",
+		"effect": "ATK Up, MGK Up",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 25,
+			"DEF": 0,
+			"MGK": 25,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Dragon Scale"},
+					{"reference": "Scale Chips"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Gloves of Artorius"},
+					{"reference": "Thorn Gauntlet"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Masou"},
+					{"reference": "Trout"},
+					{"reference": "Chinook"},
+					{"reference": "Joker Fish"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Blue Steel"},
+					{"reference": "Black Steel"},
+					{"reference": "Red Steel"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/scale_gauntlet.png",
+		"original_recipe": {"reference": "Gloves"},
+		"character": "Anna",
+		"idea_trigger": "After making Fishscale Garbe, make any accessory that are gauntlets"
+	},
+	{
+		"name": "Kaiser: Aqua Hero",
+		"type": "Accessory",
+		"description": "Now you can be the Aqua Hero too!",
+		"effect": "Stat Change",
+		"stats": {
+			"HP": 50,
+			"SP": 50,
+			"ATK": 50,
+			"DEF": -25,
+			"MGK": 50,
+			"RES": -25,
+			"SPD": -25
+		},
+		"items_needed": [
+
+			{"reference": "Sharkgill"},
+			{
+				"alternatives": [
+					{"reference": "Masou"},
+					{"reference": "Trout"},
+					{"reference": "Chinook"},
+					{"reference": "King Tuna"},
+					{"reference": "Queen Tuna"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Alloy Claw"},
+					{"reference": "Super Alloy Claw"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Straw Doll"},
+					{"reference": "Vasilissa's Doll"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/kaiser_aqua_hero.png",
+		"original_recipe": {"reference": "Fishbot"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Aroma Material",
+		"type": "Accessory",
+		"description": "Legacy of alchemy with holy powers.",
+		"effect": "Anomaly Immune",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Brilliant Stone"},
+			{"reference": "Pentagle"},
+			{
+				"alternatives": [
+					{"reference": "Fires of Hell"},
+					{"reference": "Diamond Dust"},
+					{"reference": "Electric Elect"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Tercia Pollen"},
+					{"reference": "Dunkelhite"},
+					{"reference": "Glowing Petal"},
+					{"reference": "Shiny Powder"},
+					{"reference": "Youthful Apple"},
+					{"reference": "Eternal Peach"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/aroma_material.png",
+		"original_recipe": {"reference": "The Gem of Alchemy"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Toad Mouth",
+		"type": "Accessory",
+		"description": "A coin purse charm, designer unknown.",
+		"effect": "Cole Up",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Silky Cloth"},
+					{"reference": "Formell Fabric"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Legien Steel"},
+					{"reference": "Cyprus Copper"},
+					{"reference": "Preuve Lead"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Soul of Darkness"},
+					{"reference": "Pendelook"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Puniball"},
+					{"reference": "Puni Gummi"},
+					{"reference": "Puppy Paw Flan"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/toad_mouth.png",
+		"original_recipe": {"reference": "Wallet"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Philosopher's Hand",
+		"type": "Accessory",
+		"description": "Think quicker by holding this hand.",
+		"effect": "AP Gain Up",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Puppy Paw Gloves"},
+					{"reference": "Thorn Gauntlet"},
+					{"reference": "Gloves of Artorius"},
+					{"reference": "Scale Gauntlet"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Liquid Metal"},
+					{"reference": "Magical Clay"},
+					{"reference": "Blood Clay"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/philosophers_hand.png",
+		"original_recipe": {"reference": "Handprint"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Glasses of Death",
+		"type": "Accessory",
+		"description": "The enemy's weakness become visible.",
+		"effect": "Critical Up",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Chrome Crystal"},
+					{"reference": "Gravity Stone"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Black Liquid"},
+					{"reference": "Black Powder"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Carbon Boulder"},
+					{"reference": "Black Steel"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Blowfish-X"},
+					{"reference": "Poison Shroom"},
+					{"reference": "Tiger Blowfish"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/glasses_of_death.png",
+		"original_recipe": {"reference": "Glasses"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Feather Charm",
+		"type": "Accessory",
+		"description": "An earring made of bird feathers.",
+		"effect": "DEF Up, RES Up",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 10,
+			"MGK": 0,
+			"RES": 10,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Angel Wing"},
+					{"reference": "Rainbow Feather"},
+					{"reference": "Crimson Feather"},
+					{"reference": "White Feather"},
+					{"reference": "Black Feather"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Dietary Fiber"},
+					{"reference": "Silver Thread"},
+					{"reference": "Clear Fiber"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Black Steel"},
+					{"reference": "Red Steel"},
+					{"reference": "Blue Steel"},
+					{"reference": "White Steel"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/feather_charm.png",
+		"original_recipe": {"reference": "Head Gear"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Kitty Ears",
+		"type": "Accessory",
+		"description": "Some people go crazy over this accessory.",
+		"effect": "HP Up, SP Up",
+		"stats": {
+			"HP": 30,
+			"SP": 15,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Beast Fang"},
+					{"reference": "Tuft"},
+					{"reference": "Knot"},
+					{"reference": "Shiny Moustache"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Silky Cloth"},
+					{"reference": "Formell Fabric"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Apollo's Diapason"},
+					{"reference": "Galilean Scope"},
+					{"reference": "Alchemic Cymbal"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/kitty_ears.png",
+		"original_recipe": {"reference": "Head Gear"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Beast Fang, Tuft, Knot, or Shiny Moustache"
+	},
+	{
+		"name": "Bunny Ears",
+		"type": "Accessory",
+		"description": "The young hardcore love this accessory.",
+		"effect": "Stun Immune",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{"reference": "Kitty Ears"},
+			{"reference": "Carrotato"},
+			{
+				"alternatives": [
+					{"reference": "Shiny Powder"},
+					{"reference": "Super Nectar"},
+					{"reference": "Shining Grail"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/bunny_ears.png",
+		"original_recipe": {"reference": "Head Gear"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Kitty Ears"
+	},
+	{
+		"name": "Tangerine Hat",
+		"type": "Accessory",
+		"description": "The citrus aroma relaxes and calms.",
+		"effect": "Poison Immune",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Tangerine"},
+					{"reference": "Sunrise Orange"},
+					{"reference": "Mandarin Orange"},
+					{"reference": "Orange Bomb"},
+					{"reference": "Big Orange Bomb"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Nicro Cloth"},
+					{"reference": "Pleather Cloth"},
+					{"reference": "Silky Cloth"},
+					{"reference": "Formell Fabric"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Dietary Fiber"},
+					{"reference": "Silver Thread"},
+					{"reference": "Clear Fiber"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/tangerine_hat.png",
+		"original_recipe": {"reference": "Fancy Hat"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Lando Cap",
+		"type": "Accessory",
+		"description": "A potent Lando hat. Looks nice.",
+		"effect": "Seal Immune",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Lando"},
+					{"reference": "X-Lando"},
+					{"reference": "Sweet Lando"},
+					{"reference": "Lando Bomb"},
+					{"reference": "Big Lando Bomb"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Silky Cloth"},
+					{"reference": "Formell Fabric"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Dietary Fiber"},
+					{"reference": "Silver Thread"},
+					{"reference": "Clear Fiber"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/lando_cap.png",
+		"original_recipe": {"reference": "Fancy Hat"},
+		"character": "Pamela",
+		"idea_trigger": "After making Tangerine Hat"
+	},
+	{
+		"name": "Yubana Cover",
+		"type": "Accessory",
+		"description": "You may just lose something when worn.",
+		"effect": "Sleep Immune, Curse Immune",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Yubana Fruit"},
+					{"reference": "Dried Yubana"},
+					{"reference": "Yubana Flower"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Brownie Mask"},
+					{"reference": "Vasilissa's Doll"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Silver Thread"},
+					{"reference": "Clear Fiber"},
+					{"reference": "Shinke Onion"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/yubana_cover.png",
+		"original_recipe": {"reference": "Fancy Hat"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Yubana Fruit, Dried Yubana, or Yubana Flower"
+	},
+	{
+		"name": "Afrotic Wig",
+		"type": "Accessory",
+		"description": "A cursed wig that gives headaches.",
+		"effect": "RES on MGK DMG",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Flame"},
+					{"reference": "Tera Flame"}
+				]
+			},
+			{"reference": "Knot"},
+			{"reference": "Shiny Moustache"},
+			{
+				"alternatives": [
+					{"reference": "Nicro Cloth"},
+					{"reference": "Pleather Cloth"},
+					{"reference": "Silky Cloth"},
+					{"reference": "Formell Fabric"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/afrotic_wig.png",
+		"original_recipe": {"reference": "Fancy Hat"},
+		"character": "Vayne",
+		"idea_trigger": "Change first material to Flame or Tera Flame"
+	},
+	{
+		"name": "Flying Fish Boots",
+		"type": "Accessory",
+		"description": "Shoes with fish instead of feathers.",
+		"effect": "DEF on PHYS DMG",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Chinook"},
+					{"reference": "King Tuna"},
+					{"reference": "Queen Tuna"},
+					{"reference": "Sharkgill"},
+					{"reference": "Sharkgill Sword"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Pleather Cloth"},
+					{"reference": "Silky Cloth"},
+					{"reference": "Formell Fabric"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Silver Thread"},
+					{"reference": "Clear Fiber"},
+					{"reference": "Shinke Onion"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Scale Gauntlet"},
+					{"reference": "Dragonscale Garb"},
+					{"reference": "Fishscale Garb"},
+					{"reference": "Scale Chips"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/flying_fish_boots.png",
+		"original_recipe": {"reference": "Boots"},
+		"character": "Muppy",
+		"idea_trigger": "After making Winged Boots"
+	},
+	{
+		"name": "Winged Boots",
+		"type": "Accessory",
+		"description": "Feathery shoes. Lighter than air.",
+		"effect": "SP Up, SPD Up",
+		"stats": {
+			"HP": 0,
+			"SP": 20,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 10
+		},
+		"items_needed": [
+
+			{
+				"alternatives": [
+					{"reference": "Angel Wing"},
+					{"reference": "Archangel Wings"},
+					{"reference": "Fallen Wing"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Pleather Cloth"},
+					{"reference": "Silky Cloth"},
+					{"reference": "Formell Fabric"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Dietary Fiber"},
+					{"reference": "Silver Thread"},
+					{"reference": "Clear Fiber"},
+					{"reference": "Shinke Onion"}
+				]
+			},
+			{
+				"alternatives": [
+					{"reference": "Alchemic Bag"},
+					{"reference": "Angel's Bag"},
+					{"reference": "Earth Core"},
+					{"reference": "Wind Core"},
+					{"reference": "Aqua Core"},
+					{"reference": "Flame Core"},
+					{"reference": "Metal Core"},
+					{"reference": "Nature Core"},
+					{"reference": "Mist Core"},
+					{"reference": "Soul Core"},
+					{"reference": "Force Core"},
+					{"reference": "Eternal Core"}
+				]
+			}
+		],
+		"image": "images/accessory/winged_boots.png",
+		"original_recipe": {"reference": "Boots"},
+		"character": "None",
+		"idea_trigger": "None"
+	},
+	{
+		"name": "Mana-eurism Ring",
+		"type": "Accessory",
+		"description": "The ultimate ring of a Mana gem.",
+		"effect": "Auto HP Heal",
+		"stats": {
+			"HP": 50,
+			"SP": 50,
+			"ATK": 50,
+			"DEF": 50,
+			"MGK": 50,
+			"RES": 50,
+			"SPD": 25
+		},
+		"image": "images/accessory/mana-eurism_ring.png",
+		"gathering spot":"Secret Dungeon (Beat the game first)"
+	},
+	{
+		"name": "Willpower Headband",
+		"type": "Accessory",
+		"description": "A band of blood sweat and guts.",
+		"effect": "Guts, Stun Resist",
+		"stats": {
+			"HP": 200,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 100,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 0
+		},
+		"image": "images/accessory/willpower_headband.png",
+		"gathering spot":"Secret Dungeon (Beat the game first)"
+	},
+	{
+		"name": "Quick Shifter",
+		"type": "Accessory",
+		"description": "Holy wings that move faster than light.",
+		"effect": "Shorter Wait Time",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 0,
+			"SPD": 50
+		},
+		"image": "images/accessory/quick_shifter.png",
+		"gathering spot":"Secret Dungeon (Beat the game first)"
+	},
+	{
+		"name": "Scapegoat Doll",
+		"type": "Accessory",
+		"description": "A traditional doll of evil warding.",
+		"effect": "Anomaly Immune",
+		"stats": {
+			"HP": 0,
+			"SP": 0,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 0,
+			"RES": 200,
+			"SPD": 0
+		},
+		"image": "images/accessory/scapegoat_doll.png",
+		"gathering spot":"Secret Dungeon (Beat the game first)"
+	},
+	{
+		"name": "Twilight Morion",
+		"type": "Accessory",
+		"description": "A black crystal born from the dark abyss.",
+		"effect": "Critical Up",
+		"stats": {
+			"HP": 0,
+			"SP": 150,
+			"ATK": 0,
+			"DEF": 0,
+			"MGK": 150,
+			"RES": 0,
+			"SPD": 0
+		},
+		"image": "images/accessory/twilight_morion.png",
+		"gathering spot":"Secret Dungeon (Beat the game first)"
+	}
+]
