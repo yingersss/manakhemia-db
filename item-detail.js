@@ -1,4 +1,5 @@
-/* JavaScript: item-detail.js */
+/* JavaScript: item-detail.js 
+test */
 const itemDetail = document.getElementById('item-detail');
 const params = new URLSearchParams(window.location.search);
 const itemName = params.get('name');
@@ -141,12 +142,12 @@ function displayItemDetails(item) {
             </div>
         </div>
         <div class="item-detail-content">
-			${item.description ? `<div class = "category-info"><p>Description: ${item.description}</p></div>` : ''}
+			${item.description ? `<div class = "category-info"><p>${item.description}</p></div>` : ''}
 			${item.original_recipe ? `<div class="category-info"><p>Original Recipe: ${item.original_recipe.reference}</p></div>` : ''}
             ${item.quality !== undefined ? `<div class="category-info"><p>Quality: ${item.quality}</p></div>` : ''}
 			${item.effect ? `<div class="category-info"><p>Effect: ${item.effect}</p></div>` : ''}
 			${item.target ? `<div class="category-info"><p>Target: ${item.target}</p></div>` : ''}
-            ${item['gathering spot'] ? `<div class="category-info"><p>Gathering Spot: ${item['gathering spot']}</p></div>` : ''}
+            ${item['gathering spot'] ? `<div class="category-info"><p>${item['gathering spot']}</p></div>` : ''}
             ${item.tools ? `<div class="category-info"><p>Tools: ${item.tools}</p></div>` : ''}
             ${item['e-effect'] ? `<div class="category-info"><p>Effect: ${item['e-effect']}</p></div>` : ''}
             ${item.items_needed ? displayItemsNeeded(item.items_needed) : ''}
