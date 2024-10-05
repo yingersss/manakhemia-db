@@ -2,7 +2,7 @@
 	{
 		"name": "Clearwater",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/clearwater.png",
+		"image": "/manakhemia-db/imagess/material/clearwater.png",
 		"quality": 55,
 		"description": "Mineral drinking water from the clearest river. It can be found in many places though",
 		"gathering spot": "Workshop, Living Forest, etc.",
@@ -12,7 +12,7 @@
 	{
 		"name": "Brown Ground Water",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/brown_groundwater.png",
+		"image": "/manakhemia-db/imagess/material/brown_groundwater.png",
 		"quality": 60,
 		"description": "Impure spring water from underground. Not drinkable, but very important for alchemy.",
 		"gathering spot": "Available for 50 Cole from Cafeteria on Chapter 5",
@@ -22,7 +22,7 @@
 	{
 		"name": "Goat Milk",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/goat_milk.png",
+		"image": "/manakhemia-db/imagess/material/goat_milk.png",
 		"quality": 35,
 		"description": "Milk from a goat, thick and nutritious. Used for many dairy products.", 
 		"gathering spot": "Available for 20 Cole from Cafeteria.",
@@ -32,7 +32,7 @@
 	{
 		"name": "Marine Water",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/marine_water.png",
+		"image": "/manakhemia-db/imagess/material/marine_water.png",
 		"quality": 75,
 		"description": "Pure water that can be extractedf in rare spots of the deep sea. Has all the vitamins needed.", 
 		"gathering spot": "Available for 70 Cole from Student Store or found at God's Scar.",
@@ -42,7 +42,7 @@
 	{
 		"name": "Dunkelhite",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/dunkelhite.png",
+		"image": "/manakhemia-db/imagess/material/dunkelhite.png",
 		"quality": 10,
 		"description": "A rare flower thta blooms once in a few years, but a bunch were discovered in the Dragon's Grave.",
 		"gathering spot": "Dragon's Grave - Cave of Origins",
@@ -52,7 +52,7 @@
 	{
 		"name": "Spinacherb",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/spinacherb.png",
+		"image": "/manakhemia-db/imagess/material/spinacherb.png",
 		"quality": 55,
 		"description": "A plant with many healthy nutrients. It is bitter, but is edible when cooked.", 
 		"gathering spot": "Living Forest, and can be farmed",
@@ -62,7 +62,7 @@
 	{
 		"name": "Purplinacherb",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/purplinacherb.png",
+		"image": "/manakhemia-db/imagess/material/purplinacherb.png",
 		"quality": 75,
 		"description": "Mutated Spinacherb where the purplina pigment went crazy. Deathly bitter but 10x the nutrients.", 
 		"gathering spot": "Wind's Corridor - Abyss",
@@ -72,7 +72,7 @@
 	{
 		"name": "Gash Twig",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/gash_twig.png",
+		"image": "/manakhemia-db/imagess/material/gash_twig.png",
 		"quality": 60,
 		"description": "A pungent smelling twig. It was used to wake people up, but no one uses it anymore these days.", 
 		"gathering spot": "Available for 10 Cole from Vendor Street, Living Forest, Wind's Corridor - Mist, Mana Ruins Outskirts, Millennium Tree, Dragon Grave - Bone Grove",
@@ -82,7 +82,7 @@
 	{
 		"name": "Kittynip",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/kittynip.png",
+		"image": "/manakhemia-db/imagess/material/kittynip.png",
 		"quality": 70,
 		"description": "A weed that cats have fun playing with. Good quality ones can be sold for high prices.", 
 		"gathering spot": "God's Scar",
@@ -92,7 +92,7 @@
 	{
 		"name": "Eicheloa",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/eicheloa.png",
+		"image": "/manakhemia-db/imagess/material/eicheloa.png",
 		"quality": 60,
 		"description": "A typical mushroom that grows on trees. It can be used as medicine and food, especially roasted.", 
 		"gathering spot": "Available for 10 Cole from Student Store, Living Forest, Wind's Corridor - Mist, The Heights",
@@ -102,7 +102,7 @@
 	{
 		"name": "Poison Mushroom",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/poison_mushroom.png",
+		"image": "/manakhemia-db/imagess/material/poison_mushroom.png",
 		"quality": 20,
 		"description": "Poisonous mushroom with purple spots. It extracts poisons from the darkness of the night.",
 		"gathering spot": "The Heights, Dragon's Grave - Cave of Origins",
@@ -112,7 +112,7 @@
 	{
 		"name": "Tercia Pollen",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/tercia_pollen.png",
+		"image": "/manakhemia-db/imagess/material/tercia_pollen.png",
 		"quality": 80,
 		"description": "Pollen that has healing powers, but some people can have allergive reactiosn to it.", 
 		"gathering spot": "Wind's Corridor - Abyss, God's Scar",
@@ -122,7 +122,7 @@
 	{
 		"name": "Taun",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/taun.png",
+		"image": "/manakhemia-db/imagess/material/taun.png",
 		"quality": 65,
 		"description": "Weeds containing ltitle magic, used in many sysntheses. Almost as common as the Spinacherb.", 
 		"gathering spot": "Available for 180 Cole from Vendor Street, Wind's Corridor - Abyss, Millennium Tree, God's Scar",
@@ -132,7 +132,7 @@
 	{
 		"name": "Huffin",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/huffin.png",
+		"image": "/manakhemia-db/imagess/material/huffin.png",
 		"quality": 70,
 		"description": "A tree with a pretty white flower. It is rare in this region and there's only the one in The Heights.", 
 		"gathering spot": "The Heights",
@@ -142,7 +142,7 @@
 	{
 		"name": "Carrotato",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/carrotato.png",
+		"image": "/manakhemia-db/imagess/material/carrotato.png",
 		"quality": 30,
 		"description": "A red, thin, potato. Only one can be harvested per plant. It is strong in taste unless cooked.", 
 		"gathering spot": "Available for 10 Cole from Vendor Street, Living Forest, Old Schoolhouse, Old Schoolhouse - Closed Area, Mana Ruins - Outskirts, God's Scar",
@@ -152,7 +152,7 @@
 	{
 		"name": "Dirt",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/dirt.png",
+		"image": "/manakhemia-db/imagess/material/dirt.png",
 		"quality": 55,
 		"description": "Super normal dirt. Usually mixed with water for alchemy. Available on campus.", 
 		"gathering spot": "Available for 10 Cole from Student Store, or Farmed at Living Forest, Old Schoolhouse, The Heights, Mana Ruins - Outskirts, God's Scar",
@@ -162,7 +162,7 @@
 	{
 		"name": "Red Dirt",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/red_dirt.png",
+		"image": "/manakhemia-db/imagess/material/red_dirt.png",
 		"quality": 65,
 		"description": "Red colored dirt. It has a lot of iron in it. It can only be found in the deep layers of earth.", 
 		"gathering spot": "The Heights, Mana Ruins - Outskirts, God's Scar",
@@ -172,7 +172,7 @@
 	{
 		"name": "Black Dirt",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/black_dirt.png",
+		"image": "/manakhemia-db/imagess/material/black_dirt.png",
 		"quality": 75,
 		"description": "Very black dirt that contains a lot of nutrients. It tastes sweet. Plants grow faster in this soil.", 
 		"gathering spot": "Mana Ruins - Outskirts, Dragon's Grave - Bone Grove, Heaven's Road",
@@ -182,7 +182,7 @@
 	{
 		"name": "Belgrade Potato",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/belgrade_potato.png",
+		"image": "/manakhemia-db/imagess/material/belgrade_potato.png",
 		"quality": 65,
 		"description": "Potato produced by Master Belgrade. It is hard like rock when raw, but soft when cooked.", 
 		"gathering spot": "Living Forest, Old Schoolhouse",
@@ -192,7 +192,7 @@
 	{
 		"name": "Burdock Straight",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/burdock_straight.png",
+		"image": "/manakhemia-db/imagess/material/burdock_straight.png",
 		"quality": 60,
 		"description": "A vegetable that is a straight root. Not recommended for weak jaws or teeth.", 
 		"gathering spot": "The Heights",
@@ -202,7 +202,7 @@
 	{
 		"name": "Burdock Curve",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/burdock_curve.png",
+		"image": "/manakhemia-db/imagess/material/burdock_curve.png",
 		"quality": 80,
 		"description": "A mutant Burdock Straight. It is harder to harvest, but awards the work with great taste.", 
 		"gathering spot": "Mana Ruins - Interior Heights",
@@ -212,7 +212,7 @@
 	{
 		"name": "Radish",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/radish.png",
+		"image": "/manakhemia-db/imagess/material/radish.png",
 		"quality": 65,
 		"description": "A spicy vegetable. It is best to eat a day after it's been grated. It is super spicy when fresh.", 
 		"gathering spot": "Mana Ruins - Outskirts, Interior Heights, Dragon's Grave - Bone Grove",
@@ -222,7 +222,7 @@
 	{
 		"name": "Medicinal Radish",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/medicinal_radish.png",
+		"image": "/manakhemia-db/imagess/material/medicinal_radish.png",
 		"quality": 85,
 		"description": "A radish that soaked up all the nutrients in the earth and is now medicinal. It is spicy and bitter.", 
 		"gathering spot": "Mana Ruins - Interior Heights, Dragon's Grave - Bone Grove, God's Scar",
@@ -232,7 +232,7 @@
 	{
 		"name": "Shinke Onion",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/shinke_onion.png",
+		"image": "/manakhemia-db/imagess/material/shinke_onion.png",
 		"quality": 10,
 		"description": "A vegetable with a sharp, needle tip. It is dangerous, but kids use it as a toy for the thrill.", 
 		"gathering spot": "God's Scar",
@@ -242,7 +242,7 @@
 	{
 		"name": "Pumpotatokin",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/pumpotatokin.png",
+		"image": "/manakhemia-db/imagess/material/pumpotatokin.png",
 		"quality": 75,
 		"description": "A potato with a hard green skin. The soft inside is edible, but it is hard to get to it.", 
 		"gathering spot": "Mana Ruins - Outskirts",
@@ -252,7 +252,7 @@
 	{
 		"name": "Bitter Grape",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/bitter_grape.png",
+		"image": "/manakhemia-db/imagess/material/bitter_grape.png",
 		"quality": 35,
 		"description": "A very bitter grape. It must be processed before eating, but some find a strange liking to it fresh.", 
 		"gathering spot": "Available for 220 Cole from Cafeteria on Chapter 5, Millennium Tree",
@@ -262,7 +262,7 @@
 	{
 		"name": "Night-In-Grape",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/night_in_grape.png",
+		"image": "/manakhemia-db/imagess/material/night_in_grape.png",
 		"quality": 60,
 		"description": "Bitter Grape that is harvested at night. It is unbelievably fruity and not bitter at all.", 
 		"gathering spot": "Millennium Tree at Night",
@@ -272,7 +272,7 @@
 	{
 		"name": "Muscat",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/muscat.png",
+		"image": "/manakhemia-db/imagess/material/muscat.png",
 		"quality": 80,
 		"description": "The king of grapes. Each fruit is worth a gem. Organic ones are very expensive.", 
 		"gathering spot": "Available for 330 Cole from Resource Center, or collecting at Wind's's Corridor - Abyss, God's Scar",
@@ -282,7 +282,7 @@
 	{
 		"name": "Tangerine",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/tangerine.png",
+		"image": "/manakhemia-db/imagess/material/tangerine.png",
 		"quality": 55,
 		"description": "A sweet and tangy fruit. Very useful from skin to seed. Bad ones tend to be very sour.", 
 		"gathering spot": "Available for 60 Cole from Cafeteria or collecting at Millennium Tree",
@@ -292,7 +292,7 @@
 	{
 		"name": "Sunrise Orange",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/sunrise_orange.png",
+		"image": "/manakhemia-db/imagess/material/sunrise_orange.png",
 		"quality": 70,
 		"description": "Only available in the morning. If picked in the afternoon, it will no longer be sweet.",
 		"gathering spot": "Millennium Tree in Evening/Morning",
@@ -302,7 +302,7 @@
 	{
 		"name": "Mandarin Orange",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/mandarin_orange.png",
+		"image": "/manakhemia-db/imagess/material/mandarin_orange.png",
 		"quality": 80,
 		"description": "An aromatic fruit, similar to the Tangerine. It is rather large in size and is hard to eat.", 
 		"gathering spot": "Available for 370 Cole from Resource Center or collecting at Wind's Corridor - Abyss, God's Scar",
@@ -312,7 +312,7 @@
 	{
 		"name": "Yubana Fruit",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/yubana_fruit.png",
+		"image": "/manakhemia-db/imagess/material/yubana_fruit.png",
 		"quality": 60,
 		"description": "A strangely shaped fruit. Sounds will delay inside it, but no one knows why. Full of mysteries.", 
 		"gathering spot": "Wind's Corridor - Abyss in Evening or God's Scar",
@@ -322,7 +322,7 @@
 	{
 		"name": "Dried Yubana",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/dried_yubana.png",
+		"image": "/manakhemia-db/imagess/material/dried_yubana.png",
 		"quality": 75,
 		"description": "A dried, hollow Yubana Fruit. Used often as a bowl, but stinks if it is not dried properly.", 
 		"gathering spot": "Wind's Corridor - Abyss at Night",
@@ -332,7 +332,7 @@
 	{
 		"name": "Yubana Flower",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/yubana_flower.png",
+		"image": "/manakhemia-db/imagess/material/yubana_flower.png",
 		"quality": 90,
 		"description": "A flower that wilts fast because of the fruit, but it will revive the next day.", 
 		"gathering spot": "Wind's Corridor - Abyss",
@@ -342,7 +342,7 @@
 	{
 		"name": "Lando",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/lando.png",
+		"image": "/manakhemia-db/imagess/material/lando.png",
 		"quality": 60,
 		"description": "A slight sweet and tangy, popular red fruit. It will ripen very fast.", 
 		"gathering spot": "Millennium Tree, The Heights",
@@ -352,7 +352,7 @@
 	{
 		"name": "X-Lando",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/x-lando.png",
+		"image": "/manakhemia-db/imagess/material/x-lando.png",
 		"quality": 20,
 		"description": "A Lando that has been ripened for a long time. The taste is very extreme.", 
 		"gathering spot": "Millennium Tree at Night",
@@ -362,7 +362,7 @@
 	{
 		"name": "Sweet Lando",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/sweet_lando.png",
+		"image": "/manakhemia-db/imagess/material/sweet_lando.png",
 		"quality": 90, 
 		"description": "A ripe, sweetened Lando. A little heavy, and can cause cabities if eaten too often.",
 		"gathering spot": "Millennium Tree in Evening/Morning",
@@ -372,7 +372,7 @@
 	{
 		"name": "Canone Rock",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/canone_rock.png",
+		"image": "/manakhemia-db/imagess/material/canone_rock.png",
 		"quality": 60,
 		"description": "A rock with igniting elements. It can be lit on fire, and act as a match.", 
 		"gathering spot": "Available for 120 Cole from Student Store or mining at Mana Ruins - Outskirts, Dragon's Grave - Bone Grove, Dragon's Grove - Heaven's Road, or collected at Old Schoolhouse, Resource Center, Mana Ruins - Outskirts, Mana Ruins - Bottom Center",
@@ -382,7 +382,7 @@
 	{
 		"name": "Glacier Stone",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/glacier_stone.png",
+		"image": "/manakhemia-db/imagess/material/glacier_stone.png",
 		"quality": 65,
 		"description": "A rock that is constantly cold. You won't need AC in the summer as long as you have this.", 
 		"gathering spot": "Available for 220 Cole from Student Store or mining at Mana Ruins - Outskirts, Mana Ruins - Bottom Center, Dragon's Grave - Bone Grove, Dragon's Grave - Cave of Origins or collecting at Living Forest",
@@ -392,7 +392,7 @@
 	{
 		"name": "Thunder Stone",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/thunder_stone.png",
+		"image": "/manakhemia-db/imagess/material/thunder_stone.png",
 		"quality": 65,
 		"description": "An electric stone. Caution when handling near water, though it is too weak to kill anyone.", 
 		"gathering spot": "Available for 240 Cole from Student Store or mining at Mana Ruins - Outskirts, Dragon's Grave - Bone Grove or collecting at Wind's Corridor - Abyss and Mana Ruins - Bottom Center",
@@ -402,7 +402,7 @@
 	{
 		"name": "Raw Komet Ore",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/raw_komet_ore.png",
+		"image": "/manakhemia-db/imagess/material/raw_komet_ore.png",
 		"quality": 75,
 		"description": "A rock that becomes a high quality gem by polishing it. But it is worth more as a bumpy ore.", 
 		"gathering spot": "Wind's Corridor - Abyss, Old Schoolhouse - Closed Area",
@@ -412,7 +412,7 @@
 	{
 		"name": "Super Komet",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/super_komet.png",
+		"image": "/manakhemia-db/imagess/material/super_komet.png",
 		"quality": 100,
 		"description": "A large Komet that has been polished by nature. Worth a lot more than normal.",
 		"gathering spot": "Old Schoolhouse - Closed Area",
@@ -422,7 +422,7 @@
 	{
 		"name": "Gravity Stone",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/gravity_stone.png",
+		"image": "/manakhemia-db/imagess/material/gravity_stone.png",
 		"quality": 90,
 		"description": "Another world's ore that generates anti-gravity. It has caused a revolution in Alchemy history.", 
 		"gathering spot": "Mana Ruins - Bottom Center, Dragon's Grave - Cave of Origins",
@@ -432,7 +432,7 @@
 	{
 		"name": "Legien Steel",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/legien_steel.png",
+		"image": "/manakhemia-db/imagess/material/legien_steel.png",
 		"quality": 55,
 		"description": "An ore that is used as material for genetic metals. It is easily processed by alchemy.", 
 		"gathering spot": "Available for 100 Cole from Street Vendor or mining at Mana Ruins - Outskirts or collecting at Old Schoolhouse, Mana Ruins - Bottom Center, Dragon's Grave - Heaven's Road",
@@ -442,7 +442,7 @@
 	{
 		"name": "Cyprus Copper",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/cyprus_copper.png",
+		"image": "/manakhemia-db/imagess/material/cyprus_copper.png",
 		"quality": 60,
 		"description": "An orange colored ore that is easy to process. It is used as equipment and synthesis materials.", 
 		"gathering spot": "Available for 140 Cole from Resource Center or collecting at Wind's Corridor - Mist, Wind's Corridor - Abyss, Mana Ruins - Outskirts, Mana Ruins - Bottom Center, Dragon's Grave - Heaven's Road",
@@ -452,7 +452,7 @@
 	{
 		"name": "Preuve Lead",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/preuve_lead.png",
+		"image": "/manakhemia-db/imagess/material/preuve_lead.png",
 		"quality": 70,
 		"description": "A very heavy ore, found deep inside the earth. It is hard to dig out, and is not very useful.", 
 		"gathering spot": "Available for 420 Cole from Street Vendor or mining at Dragon's Grave - Bone Grove",
@@ -462,7 +462,7 @@
 	{
 		"name": "Elemia Silver",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/elemia_silver.png",
+		"image": "/manakhemia-db/imagess/material/elemia_silver.png",
 		"quality": 75,
 		"description": "A white, growing ore with poers of Mana. It can be used as a medium for magic, as well as for armor.", 
 		"gathering spot": "Wind's Corridor - Abyss or mining at Wind's Corridor - Abyss, Old Schoolhouse - Closed Area",
@@ -472,7 +472,7 @@
 	{
 		"name": "Pendelook",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/pendelook.png",
+		"image": "/manakhemia-db/imagess/material/pendelook.png",
 		"quality": 80,
 		"description": "A bluish white jewel that is said to be crystallized soul. A larger jewel has more powers.", 
 		"gathering spot": "Mana Ruins - Bottom Center, or mining at Mana Ruins - Bottom Center, Dragon's Grave - Cave of Origins",
@@ -482,7 +482,7 @@
 	{
 		"name": "Carbon Boulder",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/carbon_boulder.png",
+		"image": "/manakhemia-db/imagess/material/carbon_boulder.png",
 		"quality": 55,
 		"description": "A black, shiny rock. Its powder can be used as gunpowder, but you should be very careful.", 
 		"gathering spot": "Available for 170 Cole from Street Vendor or mining at Old Schoolhouse - Closed Area, Dragon's Grave - Bone Grove, Dragon's Grave - Heaven's Road, or collecting at Dragon's Grave - Heaven's Road",
@@ -492,7 +492,7 @@
 	{
 		"name": "Chrome Crystal",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/chrome_crystal.png",
+		"image": "/manakhemia-db/imagess/material/chrome_crystal.png",
 		"quality": 75,
 		"description": "A transulcent, hexagonal crystal. It is popular among the girls as an accessory.", 
 		"gathering spot": "Available for 420 Cole from Student Store or mining at Dragon's Grave - Bone Grove, Dragon's Grave - Heaven's Road, or collecting at Mana Ruins - Clock Tower",
@@ -502,7 +502,7 @@
 	{
 		"name": "King Tuna",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/king_tuna.png",
+		"image": "/manakhemia-db/imagess/material/king_tuna.png",
 		"quality": 55,
 		"description": "The King of fish. Its sharp flavor is popular as sashimi, but it can be used for equipment.", 
 		"gathering spot": "Dragon's Grave - Cave of Origins",
@@ -512,7 +512,7 @@
 	{
 		"name": "Queen Tuna",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/queen_tuna.png",
+		"image": "/manakhemia-db/imagess/material/queen_tuna.png",
 		"quality": 100,
 		"description": "The Queen of fish. More fatty than the King Tuna, but requires more skill to fish up.",
 		"gathering spot": "Mana Ruins - Bottom Center, Dragon's Grave - Cave of Origins",
@@ -522,7 +522,7 @@
 	{
 		"name": "Bonita",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/bonita.png",
+		"image": "/manakhemia-db/imagess/material/bonita.png",
 		"quality": 65,
 		"description": "A giant fish that is supposed to be good luck. It has a poison that gets a cat drunk.", 
 		"gathering spot": "Available for 180 Cole from Resource Center or fishing at Dragon's Grave - Bone Grove",
@@ -532,7 +532,7 @@
 	{
 		"name": "Endless Seaweed",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/endless_seaweed.png",
+		"image": "/manakhemia-db/imagess/material/endless_seaweed.png",
 		"quality": 60,
 		"description": "A slightly annoying seaweed that will grow endlessly. It's too big to eat.", 
 		"gathering spot": "Available for 50 Cole from Resource Center or fishing at The Heights",
@@ -542,7 +542,7 @@
 	{
 		"name": "Sharkgill",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/sharkgill.png",
+		"image": "/manakhemia-db/imagess/material/sharkgill.png",
 		"quality": 70,
 		"description": "A shark with sharp fangs. It will bite at anything, so it's easy to fish up, but it can bite you too.", 
 		"gathering spot": "Available for 410 Cole from Resource Center or fishing at Dragon's Grave - Bone Grove and Mana Ruins - Bottom Center",
@@ -552,7 +552,7 @@
 	{
 		"name": "Strom Shell",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/strom_shell.png",
+		"image": "/manakhemia-db/imagess/material/strom_shell.png",
 		"quality": 60,
 		"description": "A spiral shellfish with a twirling shell. It will hypnotize you if you stare at it.", 
 		"gathering spot": "Dragon's Grave - Bone Grove",
@@ -562,7 +562,7 @@
 	{
 		"name": "Joker Fish",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/joker_fish.png",
+		"image": "/manakhemia-db/imagess/material/joker_fish.png",
 		"quality": 55,
 		"description": "A fish with very fat lips. If you don't look at the lips, its eyes are very cute.", 
 		"gathering spot": "Available for 50 Cole from Resource Center or fishing at The Heights",
@@ -572,7 +572,7 @@
 	{
 		"name": "King Crab",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/king_crab.png",
+		"image": "/manakhemia-db/imagess/material/king_crab.png",
 		"quality": 60,
 		"description": "A long legged crab. Easy to peel when boiled. It exists only to be eaten.", 
 		"gathering spot": "Mana Ruins - Bottom Center and Dragon's Grave - Bone Grove",
@@ -582,7 +582,7 @@
 	{
 		"name": "Blowfish-X",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/blowfish-x.png",
+		"image": "/manakhemia-db/imagess/material/blowfish-x.png",
 		"quality": 15,
 		"description": "A Tiger Blowfish that has lived more than a few years. Has a dangerous amount of poison.", 
 		"gathering spot": "Mana Ruins - Bottom Center and Dragon's Grave - Bone Grove",
@@ -592,7 +592,7 @@
 	{
 		"name": "Tiger Blowfish",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/tiger_blowfish.png",
+		"image": "/manakhemia-db/imagess/material/tiger_blowfish.png",
 		"quality": 70,
 		"description": "A tiger striped fish with fatal poison. It doesn't work on cats, and are their favorite.",
 		"gathering spot": "Available for 50 Cole from REsource Center or fishing at The Heights",
@@ -602,7 +602,7 @@
 	{
 		"name": "Chinook",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/chinook.png",
+		"image": "/manakhemia-db/imagess/material/chinook.png",
 		"quality": 75,
 		"description": "A grown up Trout. From now on, it is on its own. Only the weight can tell how old it really is.", 
 		"gathering spot": "Mana Ruins - Bottom Center, Dragon's Grave - Bone Grove",
@@ -612,7 +612,7 @@
 	{
 		"name": "Trout",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/trout.png",
+		"image": "/manakhemia-db/imagess/material/trout.png",
 		"quality": 65,
 		"description": "A grown up Masou. It looks the same, but its weight is heavier. Still fresh as always.", 
 		"gathering spot": "Mana Ruins - Bottom Center, Dragon's Grave - Bone Grove",
@@ -622,7 +622,7 @@
 	{
 		"name": "Masou",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/masou.png",
+		"image": "/manakhemia-db/imagess/material/masou.png",
 		"quality": 55,
 		"description": "A newborn Chinook. Its weight will increase with age, but its size will not change. A mystery.", 
 		"gathering spot": "Available for 60 Cole from Resource Center or fishing at Dragon's Grave - Bone Grove",
@@ -632,7 +632,7 @@
 	{
 		"name": "Puniball",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/puniball.png",
+		"image": "/manakhemia-db/imagess/material/puniball.png",
 		"quality": 55,
 		"description": "A Puni part that jiggles when touched. A healing item, but it's still a Puni part.", 
 		"gathering spot": "Available for 60 Cole from Street Vendor or collecting at Living Forest, Wind Corridor, Resource Center and slaying all types of Puni Enemy",
@@ -642,7 +642,7 @@
 	{
 		"name": "Brownie Mask",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/brownie_mask.png",
+		"image": "/manakhemia-db/imagess/material/brownie_mask.png",
 		"quality": 65,
 		"description": "A Brownie will never take off its mask, until they die. None have ever seen their true face.", 
 		"gathering spot": "Resource Center, God's Scar",
@@ -652,7 +652,7 @@
 	{
 		"name": "Tuft",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/tuft.png",
+		"image": "/manakhemia-db/imagess/material/tuft.png",
 		"quality": 55,
 		"description": "A hairball of a shedding, young Kobold. It is soft, and smells like the sun.", 
 		"gathering spot": "The Heights, Resource Center, Millennium Tree",
@@ -662,7 +662,7 @@
 	{
 		"name": "Knot",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/knot.png",
+		"image": "/manakhemia-db/imagess/material/knot.png",
 		"quality": 80,
 		"description": "A hairball of an old Kobold. It is rough and knotty, but it is proof of an adult Kobold.", 
 		"gathering spot": "Millennium Tree, God's Scar",
@@ -672,7 +672,7 @@
 	{
 		"name": "Shiny Moustache",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/shiny_moustache.png",
+		"image": "/manakhemia-db/imagess/material/shiny_moustache.png",
 		"quality": 90,
 		"description": "A bright moustache, said to appear on Kobolds beyond their limit. These Kobolds become chieftains.", 
 		"gathering spot": "God's Scar",
@@ -682,7 +682,7 @@
 	{
 		"name": "Beast Fang",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/beast_fang.png",
+		"image": "/manakhemia-db/imagess/material/beast_fang.png",
 		"quality": 55,
 		"description": "A common fang of a carnivorous beast. Sizes may vary, but they are all sharp at the tip.", 
 		"gathering spot": "Available for 80 Cole from Resource Center or collecting at Living Forest, Wind's Corridor - Mist, The Heights, Resource Center, Dragon's Grave - Bone Grove, Dragon's Grave - Cave of Origins, or fished at The Heights",
@@ -692,7 +692,7 @@
 	{
 		"name": "Monster Bone",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/monster_bone.png",
+		"image": "/manakhemia-db/imagess/material/monster_bone.png",
 		"quality": 70,
 		"description": "A strange shaped bone of a monster. It emanates an evil aura that attracts other evil.", 
 		"gathering spot": "Wind's Corridor - Abyss, Millennium Tree, Dragon's Grave - Bone Grove",
@@ -702,7 +702,7 @@
 	{
 		"name": "Dragon Bone",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/dragon_bone.png",
+		"image": "/manakhemia-db/imagess/material/dragon_bone.png",
 		"quality": 75,
 		"description": "The bone of a grand dragon. It can be used for medicine and accesories to make strong items.", 
 		"gathering spot": "Dragon's Grave - Bone Grove, Dragon's Grave - Heaven's Road, Dragon's Grave - Cave of Origins",
@@ -712,7 +712,7 @@
 	{
 		"name": "Dragon Scale",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/dragon_scale.png",
+		"image": "/manakhemia-db/imagess/material/dragon_scale.png",
 		"quality": 100,
 		"description": "A Scale that has strong resistance to various attacks. One is enough to make a piece of equipment.",
 		"gathering spot": "Dragon's Grave - Cave of Origins",
@@ -722,7 +722,7 @@
 	{
 		"name": "Dragon Tongue",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/dragon_tongue.png",
+		"image": "/manakhemia-db/imagess/material/dragon_tongue.png",
 		"quality": 100,
 		"description": "Used as nutritional fortification and for longevity. It tastes very gamey.",
 		"gathering spot": "Dragon's Grave - Cave of Origins",
@@ -732,7 +732,7 @@
 	{
 		"name": "Angel's Slip",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/angels_slip.png",
+		"image": "/manakhemia-db/imagess/material/angels_slip.png",
 		"quality": 70,
 		"description": "Its soft touch will remind you of an angel's wings. It is however, quite revealing.", 
 		"gathering spot": "'Power' monster located in Resource Center, or collecting at Wind's Corridor - Abyss",
@@ -742,7 +742,7 @@
 	{
 		"name": "Devil's Panties",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/devils_panties.png",
+		"image": "/manakhemia-db/imagess/material/devils_panties.png",
 		"quality": 70,
 		"description": "It is revealing, yet cute. Perfect for its name. But not recommended for use during winter.",
 		"gathering spot": "Devil monster located in Resource Center, or collecting at Wind's Corridor - Abyss",
@@ -752,7 +752,7 @@
 	{
 		"name": "Rainbow Feather",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/rainbow_feather.png",
+		"image": "/manakhemia-db/imagess/material/rainbow_feather.png",
 		"quality": 85,
 		"description": "A prismatic feather that changes colors. It is said to bring good luck.", 
 		"gathering spot": "Dominion",
@@ -762,7 +762,7 @@
 	{
 		"name": "Crimson Feather",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/crimson_feather.png",
+		"image": "/manakhemia-db/imagess/material/crimson_feather.png",
 		"quality": 55,
 		"description": "A Harpy's wing, died crimson red. If you find one, a Harpy nest is close by.",
 		"gathering spot": "God's Scar or dropped from Harpy, Birdhouse Rider",
@@ -772,7 +772,7 @@
 	{
 		"name": "White Feather",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/white_feather.png",
+		"image": "/manakhemia-db/imagess/material/white_feather.png",
 		"quality": 65,
 		"description": "A pure, snow-white feather that is soft and light as down, off of an uncommon white bird.", 
 		"gathering spot": "Available for 240 Cole from Resource Center",
@@ -782,7 +782,7 @@
 	{
 		"name": "Black Feather",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/black_feather.png",
+		"image": "/manakhemia-db/imagess/material/black_feather.png",
 		"quality": 100,
 		"description": "A pitch black feather that will make you feel depressed when you look at it.",
 		"gathering spot": "Dragon's Grave - Heaven's Road",
@@ -792,7 +792,7 @@
 	{
 		"name": "Glowing Petal",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/glowing_petal.png",
+		"image": "/manakhemia-db/imagess/material/glowing_petal.png",
 		"quality": 80,
 		"description": "A bright flower petal that glows in the dark. IT can be used as path markers at night.", 
 		"gathering spot": "Millennium Tree",
@@ -802,7 +802,7 @@
 	{
 		"name": "Blue Petal",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/blue_petal.png",
+		"image": "/manakhemia-db/imagess/material/blue_petal.png",
 		"quality": 60,
 		"description": "A blue flower petal that is most likely from a very huge plant. Can be found often on the bushes.", 
 		"gathering spot": "Living Forest, Wind's Corridor - Abyss, Old Schoolhouse, The Heights",
@@ -812,7 +812,7 @@
 	{
 		"name": "Red Petal",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/red_petal.png",
+		"image": "/manakhemia-db/imagess/material/red_petal.png",
 		"quality": 65,
 		"description": "A blood-red flower petal of a man-eating plant. You don't want to know why it's so red.", 
 		"gathering spot": "The Heights, Resource Center, Millennium Tree",
@@ -822,7 +822,7 @@
 	{
 		"name": "Wild Meat",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/wild_meat.png",
+		"image": "/manakhemia-db/imagess/material/wild_meat.png",
 		"quality": 55,
 		"description": "Perfectly aged meat of a wild animal. It is best when grilled over open flame.", 
 		"gathering spot": "Available for 20 Cole from Resource Center or collecting at Living Forest, Wind's Corridor - Abyss, The Heights",
@@ -832,7 +832,7 @@
 	{
 		"name": "Rotten Meat",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/rotten_meat.png",
+		"image": "/manakhemia-db/imagess/material/rotten_meat.png",
 		"quality": 10,
 		"description": "Wild animal meat that has changed colors for being out too long. Try it, only if you dare.", 
 		"gathering spot": "Available for 10 Cole from Resource Center",
@@ -842,7 +842,7 @@
 	{
 		"name": "Golden Meat",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/golden_meat.png",
+		"image": "/manakhemia-db/imagess/material/golden_meat.png",
 		"quality": 75,
 		"description": "A shiny piece of meat from a golden pig. Supreme pork, both in nutrition and taste.", 
 		"gathering spot": "Obtained from Golden Pig in God's Scar",
@@ -852,7 +852,7 @@
 	{
 		"name": "Worn Weapon",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/worn_weapon.png",
+		"image": "/manakhemia-db/imagess/material/worn_weapon.png",
 		"quality": 60,
 		"description": "A memento of a sad nameless adventurer. It's usable after a little fixiing up.", 
 		"gathering spot": "Wind's Corridor - Abyss, Old Schoolhouse, Resource Center, Mana Ruins - Bottom Center, Mana Ruins - Clock Tower",
@@ -862,7 +862,7 @@
 	{
 		"name": "Worn Armor",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/worn_armor.png",
+		"image": "/manakhemia-db/imagess/material/worn_armor.png",
 		"quality": 60,
 		"description": "Useless beaten up armor that was used by an adventurer. It has eroded so badly you can't even tell.", 
 		"gathering spot": "Wind's Corridor - Abyss, Old Schoolhouse, Resource Center, Mana Ruins - Bottom Center, Mana Ruins - Clock Tower",
@@ -872,7 +872,7 @@
 	{
 		"name": "Woodchip",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/woodchip.png",
+		"image": "/manakhemia-db/imagess/material/woodchip.png",
 		"quality": 55,
 		"description": "Pieces of a tree taht fell against the wind. Not pillar worthy, but it might come in use.", 
 		"gathering spot": "Living Forest, The Heights, Resource Center, Mana Ruins - Outskirts, Dragon's Grave - Bone Grove",
@@ -882,7 +882,7 @@
 	{
 		"name": "Giant Woodchip",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/giant_woodchip.png",
+		"image": "/manakhemia-db/imagess/material/giant_woodchip.png",
 		"quality": 65,
 		"description": "An unusually big piece of wood. It is in good condition, and is worthy of complicated use.", 
 		"gathering spot": "Millennium Tree, Dragon's Grave - Heaven's Road",
@@ -892,7 +892,7 @@
 	{
 		"name": "Soul of Darkness",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/soul_of_darkness.png",
+		"image": "/manakhemia-db/imagess/material/soul_of_darkness.png",
 		"quality": 15,
 		"description": "A chaotic collective of demonic souls. Just holding it might attract other evil spirits.", 
 		"gathering spot": "Mana Ruins - Outskirts, Dragon's Grave - Heaven's Road",
@@ -902,7 +902,7 @@
 	{
 		"name": "Gear",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/gear.png",
+		"image": "/manakhemia-db/imagess/material/gear.png",
 		"quality": 60,
 		"description": "A typical cog used for various devices. Combine them to perform any precise movements.", 
 		"gathering spot": "Available for 30 Cole from Resource Center, or collecting at Old Schoolhouse, Mana Ruins - Outskirts, Mana Ruins - Clock Tower",
@@ -912,7 +912,7 @@
 	{
 		"name": "Grand Gear",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/grand_gear.png",
+		"image": "/manakhemia-db/imagess/material/grand_gear.png",
 		"quality": 70,
 		"description": "A rather large cog. It has the same number of gears but is more precise.", 
 		"gathering spot": "Mana Ruins - Outskirts, Mana Ruins - Bottom Center, Mana Ruins - Clock Tower",
@@ -922,7 +922,7 @@
 	{
 		"name": "Little Gear",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/little_gear.png",
+		"image": "/manakhemia-db/imagess/material/little_gear.png",
 		"quality": 80,
 		"description": "A tiny, but functioning cog. It is more precise, but is harder to handle.", 
 		"gathering spot": "Mana Ruins - Outskirts, Mana Ruins - Clock Tower",
@@ -932,7 +932,7 @@
 	{
 		"name": "Monster Cookie",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/monster_cookie.png",
+		"image": "/manakhemia-db/imagess/material/monster_cookie.png",
 		"quality": 55,
 		"description": "A cookie with mysterious ingredients that bakes in the shape of a monster. Cinnamon flavored.", 
 		"gathering spot": "Available for 200 Cole from Resource Center or using Jess' Funny Pouch skill",
@@ -942,7 +942,7 @@
 	{
 		"name": "Puni Gummi",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/puni_gummi.png",
+		"image": "/manakhemia-db/imagess/material/puni_gummi.png",
 		"quality": 60,
 		"description": "A puni shaped gummi. The special formula reproduce the exact Puni texture.", 
 		"gathering spot": "Use Jess' Funny Pouch skill to land killing blow on Puni type monsters",
@@ -952,7 +952,7 @@
 	{
 		"name": "Puppy Paw Flan",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/puppy_paw_flan.png",
+		"image": "/manakhemia-db/imagess/material/puppy_paw_flan.png",
 		"quality": 65,
 		"description": "Chocolate flavored flan in the shape of a punny paw. A wonderful little treat.", 
 		"gathering spot": "Available for 250 Cole from Resource Center or using Jess' Funny Pouch skill",
@@ -962,7 +962,7 @@
 	{
 		"name": "Taiyaki",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/taiyaki.png",
+		"image": "/manakhemia-db/imagess/material/taiyaki.png",
 		"quality": 60,
 		"description": "A beautifully made sweet treat, filled with red bean paste to the tip of the tail.", 
 		"gathering spot": "Available for 500 Cole from Resource Center or using Jess' Funny Pouch skill",
@@ -972,7 +972,7 @@
 	{
 		"name": "Candy Eye",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/candy_eye.png",
+		"image": "/manakhemia-db/imagess/material/candy_eye.png",
 		"quality": 55,
 		"description": "Candy that looks exactly like an eye of a demon. But it is strawberry flavored, yum.", 
 		"gathering spot": "Use Jess' Funny Pouch skill to land killing blow on flying monster types except for birds",
@@ -982,7 +982,7 @@
 	{
 		"name": "Scale Chips",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/scale_chips.png",
+		"image": "/manakhemia-db/imagess/material/scale_chips.png",
 		"quality": 75,
 		"description": "Fried scales. A very interesting texture, but the ingredients are... unknown.", 
 		"gathering spot": "Use Jess' Funny Pouch skill to land killing blow on dragon type monsters",
@@ -992,7 +992,7 @@
 	{
 		"name": "99% Chaos Choco",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/99_chaos_choco.png",
+		"image": "/manakhemia-db/imagess/material/99_chaos_choco.png",
 		"quality": 80,
 		"description": "The best selling chocolate in Hell, laced with chaos. Has a very strong chaos taste.", 
 		"gathering spot": "Use Jess' Funny Pouch skill to land killing blow on rare monsters like Dark Puni",
@@ -1002,7 +1002,7 @@
 	{
 		"name": "Vanilla Syrup",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/vanilla_syrup.png",
+		"image": "/manakhemia-db/imagess/material/vanilla_syrup.png",
 		"quality": 55,
 		"description": "The best syrup with a lasting sweetness. This syrup will make any snack better.", 
 		"gathering spot": "Use Jess' Funny Pouch skill to land killing blow on bird or angel type monsters",
@@ -1012,7 +1012,7 @@
 	{
 		"name": "Rocks rock!",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/rocks_rock!.png",
+		"image": "/manakhemia-db/imagess/material/rocks_rock!.png",
 		"quality": 65,
 		"description": "A rock-like sugar candy. Be careful not to mix with normal rocks.", 
 		"gathering spot": "Use Jess' Funny Pouch skill to land killing blow on stone type monsters",
@@ -1022,7 +1022,7 @@
 	{
 		"name": "Long Ice Cream",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/long_ice_cream.png",
+		"image": "/manakhemia-db/imagess/material/long_ice_cream.png",
 		"quality": 70,
 		"description": "A long and tall soft serve ice cream. Much skill is needed why trying to eat it.", 
 		"gathering spot": "Available for 510 Cole from Resource Center",
@@ -1032,7 +1032,7 @@
 	{
 		"name": "Meringue Whip",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/meringue_whip.png",
+		"image": "/manakhemia-db/imagess/material/meringue_whip.png",
 		"quality": 100,
 		"description": "A light, smooth whip of pure white, semi-sweet cream. For that extra touch in your everyday meal.",
 		"gathering spot": "Use Jess' Funny Pouch skill to land killing blow on spirit type monsters",
@@ -1042,7 +1042,7 @@
 	{
 		"name": "Earth Core",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/earth_core.png",
+		"image": "/manakhemia-db/imagess/material/earth_core.png",
 		"quality": 50,
 		"description": "A crystallized soul of Diemia, the Mana of Earth. Has strong potential Ether Effect.", 
 		"gathering spot": "Secret Dungeon (Beat the game first)",
@@ -1052,7 +1052,7 @@
 	{
 		"name": "Wind Core",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/wind_core.png",
+		"image": "/manakhemia-db/imagess/material/wind_core.png",
 		"quality": 50,
 		"description": "A crystallized soul of Silwest, The Mana of Wind. Has strong potential Ether Effect.", 
 		"gathering spot": "Secret Dungeon (Beat the game first)",
@@ -1062,7 +1062,7 @@
 	{
 		"name": "Aqua Core",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/aqua_core.png",
+		"image": "/manakhemia-db/imagess/material/aqua_core.png",
 		"quality": 50,
 		"description": "A crystallized soul of Nymph, the Mana of Water. Has strong potential Ether Effect.", 
 		"gathering spot": "Secret Dungeon (Beat the game first)",
@@ -1072,7 +1072,7 @@
 	{
 		"name": "Flame Core",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/flame_core.png",
+		"image": "/manakhemia-db/imagess/material/flame_core.png",
 		"quality": 50,
 		"description": "A crystallized soul of Uru, the Mana of Fire. Has strong potential Ether Effect.", 
 		"gathering spot": "Secret Dungeon (Beat the game first)",
@@ -1082,7 +1082,7 @@
 	{
 		"name": "Metal Core",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/metal_core.png",
+		"image": "/manakhemia-db/imagess/material/metal_core.png",
 		"quality": 50,
 		"description": "A crystallized soul of Zwerg, the Mana of Metal. Has strong potential Ether Effect.", 
 		"gathering spot": "Secret Dungeon (Beat the game first)",
@@ -1092,7 +1092,7 @@
 	{
 		"name": "Nature Core",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/nature_core.png",
+		"image": "/manakhemia-db/imagess/material/nature_core.png",
 		"quality": 50,
 		"description": "A crystallized soul of Dour, the Mana of Wood. Has strong potential Ether Effect.",
 		"gathering spot": "Secret Dungeon (Beat the game first)",
@@ -1102,7 +1102,7 @@
 	{
 		"name": "Mist Core",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/mist_core.png",
+		"image": "/manakhemia-db/imagess/material/mist_core.png",
 		"quality": 50,
 		"description": "A crystallized soul of Faustus, the Mana of Illusion. Has strong potential Ether Effect.", 
 		"gathering spot": "Secret Dungeon (Beat the game first)",
@@ -1112,7 +1112,7 @@
 	{
 		"name": "Soul Core",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/soul_core.png",
+		"image": "/manakhemia-db/imagess/material/soul_core.png",
 		"quality": 50,	
 		"description": "A crystallized soul of Aion, the Mana of Life. Has strong potential Ether Effect.",
 		"gathering spot": "Secret Dungeon (Beat the game first)",
@@ -1122,7 +1122,7 @@
 	{
 		"name": "Force Core",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/force_core.png",
+		"image": "/manakhemia-db/imagess/material/force_core.png",
 		"quality": 50,
 		"description": "A crystallized soul of Eital, the Mana of Light. Has strong potential Ether Effect.", 
 		"gathering spot": "Secret Dungeon (Beat the game first)",
@@ -1132,7 +1132,7 @@
 	{
 		"name": "Eternal Core",
 		"type": "Synthesis Material", 
-		"image": "manakhemia-db/imagess/material/eternal_core.png",
+		"image": "/manakhemia-db/imagess/material/eternal_core.png",
 		"quality": 50,
 		"description": "A crystallized soul of Luplus, the Mana of Time. Has strong potential Ether Effect.", 
 		"gathering spot": "Secret Dungeon (Beat the game first)",
