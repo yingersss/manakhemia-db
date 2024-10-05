@@ -24,7 +24,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/flour.png",
+		"image": "images/synthesis/flour.png",
 		"original_recipe": {"reference": "Powdering Powder"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -50,7 +50,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/salt.png",
+		"image": "images/synthesis/salt.png",
 		"original_recipe": {"reference": "Powdering Powder"},
 		"character": "Nikki",
 		"idea_trigger": "After making Flour"
@@ -90,7 +90,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/black_powder.png",
+		"image": "images/synthesis/black_powder.png",
 		"original_recipe": {"reference": "Powdering Powder"},
 		"character": "Jess",
 		"idea_trigger": "After making Salt"
@@ -118,7 +118,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/polish_powder.png",
+		"image": "images/synthesis/polish_powder.png",
 		"original_recipe": {"reference": "Powdering Powder"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Legien Steel, Cyprus Copper, or Preuve Lead"
@@ -145,7 +145,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/shiny_powder.png",
+		"image": "images/synthesis/shiny_powder.png",
 		"original_recipe": {"reference": "Miraculous Powder"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -186,7 +186,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/magical_clay.png",
+		"image": "images/synthesis/magical_clay.png",
 		"original_recipe": {"reference": "How to Knead Dirt"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -228,7 +228,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/blood_clay.png",
+		"image": "images/synthesis/blood_clay.png",
 		"original_recipe": {"reference": "How to Knead Dirt"},
 		"character": "Roxis",
 		"idea_trigger": "After making Magical Clay"
@@ -259,7 +259,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/black_steel.png",
+		"image": "images/synthesis/black_steel.png",
 		"original_recipe": {"reference": "Alchemic Steel"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -289,7 +289,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/red_steel.png",
+		"image": "images/synthesis/red_steel.png",
 		"original_recipe": {"reference": "Alchemic Steel"},
 		"character": "Flay",
 		"idea_trigger": "After making Black Steel"
@@ -320,7 +320,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/blue_steel.png",
+		"image": "images/synthesis/blue_steel.png",
 		"original_recipe": {"reference": "Alchemic Steel"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Preuve Lead"
@@ -341,7 +341,7 @@
 			},
 			{"reference": "Liquid Metal"}
 		],
-		"image": "/images/synthesis/white_steel.png",
+		"image": "images/synthesis/white_steel.png",
 		"original_recipe": {"reference": "Alchemic Steel"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Elemia Silver"
@@ -368,7 +368,7 @@
 			},
 			{"reference": "Liquid Metal"}
 		],
-		"image": "/images/synthesis/altena_ingot.png",
+		"image": "images/synthesis/altena_ingot.png",
 		"original_recipe": {"reference": "Holy Metal"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -384,7 +384,7 @@
 			{"reference": "Blood Clay"},
 			{"reference": "Dragon Tongue"}
 		],
-		"image": "/images/synthesis/gold_bullion.png",
+		"image": "images/synthesis/gold_bullion.png",
 		"original_recipe": {"reference": "Ingot"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -417,7 +417,7 @@
 			},
 			{"reference": "Carbon Boulder"}
 		],
-		"image": "/images/synthesis/black_liquid.png",
+		"image": "images/synthesis/black_liquid.png",
 		"original_recipe": {"reference": "God's Drink"},
 		"character": "Pamela",
 		"idea_trigger": "After making Nectar"
@@ -457,7 +457,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/nicro_cloth.png",
+		"image": "images/synthesis/nicro_cloth.png",
 		"original_recipe": {"reference": "Generic Cloth"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -506,7 +506,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/pleather_cloth.png",
+		"image": "images/synthesis/pleather_cloth.png",
 		"original_recipe": {"reference": "Funfur Cloth"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -545,7 +545,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/silky_cloth.png",
+		"image": "images/synthesis/silky_cloth.png",
 		"original_recipe": {"reference": "Noble Fabric"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -593,7 +593,7 @@
 			}
 
 		],
-		"image": "/images/synthesis/formell_fabric.png",
+		"image": "images/synthesis/formell_fabric.png",
 		"original_recipe": {"reference": "Legendary Fabric"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -626,7 +626,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/goat_cheese.png",
+		"image": "images/synthesis/goat_cheese.png",
 		"original_recipe": {"reference": "Preserved Food"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -647,7 +647,7 @@
 			{"reference": "Preservative"},
 			{"reference": "Salt"}
 		],
-		"image": "/images/synthesis/bacon.png",
+		"image": "images/synthesis/bacon.png",
 		"original_recipe": {"reference": "Preserved Food"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Wild Meat, Rotten Meat, or Golden Meat"
@@ -683,7 +683,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/smoked_fish.png",
+		"image": "images/synthesis/smoked_fish.png",
 		"original_recipe": {"reference": "Preserved Food"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Masou, Bonita, Joker Fish, Chinook, or Trout"
@@ -720,7 +720,7 @@
 			{"reference": "Pendelook"}
 
 		],
-		"image": "/images/synthesis/liquid_metal.png",
+		"image": "images/synthesis/liquid_metal.png",
 		"original_recipe": {"reference": "Liquid Metal"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -772,7 +772,7 @@
 			}
 
 		],
-		"image": "/images/synthesis/preservative.png",
+		"image": "images/synthesis/preservative.png",
 		"original_recipe": {"reference": "Curing Medicine"},
 		"character": "Jess",
 		"idea_trigger": "After making Cure Jar"
@@ -810,7 +810,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/dietary_fiber.png",
+		"image": "images/synthesis/dietary_fiber.png",
 		"original_recipe": {"reference": "Strong Fiber"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -843,7 +843,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/silver_thread.png",
+		"image": "images/synthesis/silver_thread.png",
 		"original_recipe": {"reference": "Strong Fiber"},
 		"character": "Jess",
 		"idea_trigger": "After making Dietary Fiber"
@@ -876,7 +876,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/clear_fiber.png",
+		"image": "images/synthesis/clear_fiber.png",
 		"original_recipe": {"reference": "Magical String"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -915,7 +915,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/plosion.png",
+		"image": "images/synthesis/plosion.png",
 		"original_recipe": {"reference": "Explosive Powder"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -930,7 +930,7 @@
 			{"reference": "Little Gear"},
 			{"reference": "Black Liquid"}
 		],
-		"image": "/images/synthesis/le_merou_cog.png",
+		"image": "images/synthesis/le_merou_cog.png",
 		"original_recipe": {"reference": "Mechanical Box"},
 		"character": "Flay",
 		"idea_trigger": "After making Gearbox"
@@ -965,7 +965,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/eternal_turnkey.png",
+		"image": "images/synthesis/eternal_turnkey.png",
 		"original_recipe": {"reference": "Spring Decor"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1011,7 +1011,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/zettel.png",
+		"image": "images/synthesis/zettel.png",
 		"original_recipe": {"reference": "Normal Paper"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1042,7 +1042,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/holy_crest_paper.png",
+		"image": "images/synthesis/holy_crest_paper.png",
 		"original_recipe": {"reference": "Expensive Paper"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1074,7 +1074,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/apollos_diapason.png",
+		"image": "images/synthesis/apollos_diapason.png",
 		"original_recipe": {"reference": "Vibrating Metal"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1099,7 +1099,7 @@
 			},
 			{"reference": "Gravity Stone"}
 		],
-		"image": "/images/synthesis/fortune_ring.png",
+		"image": "images/synthesis/fortune_ring.png",
 		"original_recipe": {"reference": "Mystery Ring"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1131,7 +1131,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/galilean_scope.png",
+		"image": "images/synthesis/galilean_scope.png",
 		"original_recipe": {"reference": "Thermometer"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1159,7 +1159,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/pentagle.png",
+		"image": "images/synthesis/pentagle.png",
 		"original_recipe": {"reference": "Shiny Stone"},
 		"character": "Roxis",
 		"idea_trigger": "After making Brilliant Stone"
@@ -1187,7 +1187,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/brilliant_stone.png",
+		"image": "images/synthesis/brilliant_stone.png",
 		"original_recipe": {"reference": "Shiny Stone"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1216,7 +1216,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/gearbox.png",
+		"image": "images/synthesis/gearbox.png",
 		"original_recipe": {"reference": "Mechanical Box"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1241,7 +1241,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/canone_crystal.png",
+		"image": "images/synthesis/canone_crystal.png",
 		"original_recipe": {"reference": "Spirit Crystal"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1267,7 +1267,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/glacier_crystal.png",
+		"image": "images/synthesis/glacier_crystal.png",
 		"original_recipe": {"reference": "Spirit Crystal"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Glacier Stone"
@@ -1294,7 +1294,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/thunder_crystal.png",
+		"image": "images/synthesis/thunder_crystal.png",
 		"original_recipe": {"reference": "Spirit Crystal"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Thunder Stone"
@@ -1320,7 +1320,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/auto_igniter.png",
+		"image": "images/synthesis/auto_igniter.png",
 		"original_recipe": {"reference": "Igniter Device"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1346,7 +1346,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/coolster.png",
+		"image": "images/synthesis/coolster.png",
 		"original_recipe": {"reference": "Cooler"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1372,7 +1372,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/voidspark_pipe.png",
+		"image": "images/synthesis/voidspark_pipe.png",
 		"original_recipe": {"reference": "Vacuum Pipe"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1388,7 +1388,7 @@
 			{"reference": "Apollo's Diapason"},
 			{"reference": "Le Merou Cog"}
 		],
-		"image": "/images/synthesis/metronome.png",
+		"image": "images/synthesis/metronome.png",
 		"original_recipe": {"reference": "Rhythmical Machine"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1415,7 +1415,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/carabine_harp.png",
+		"image": "images/synthesis/carabine_harp.png",
 		"original_recipe": {"reference": "Musical Strings"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1456,7 +1456,7 @@
 			}
 
 		],
-		"image": "/images/synthesis/wood_tympani.png",
+		"image": "images/synthesis/wood_tympani.png",
 		"original_recipe": {"reference": "Swinging Drum"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1472,7 +1472,7 @@
 			{"reference": "Velvet Horn"},
 			{"reference": "Metronome"}
 		],
-		"image": "/images/synthesis/organne_la_firste.png",
+		"image": "images/synthesis/organne_la_firste.png",
 		"original_recipe": {"reference": "Giant Music Device"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1505,7 +1505,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/velvet_horn.png",
+		"image": "images/synthesis/velvet_horn.png",
 		"original_recipe": {"reference": "Vortex Trumpet"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1539,7 +1539,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/alchemic_cymbal.png",
+		"image": "images/synthesis/alchemic_cymbal.png",
 		"original_recipe": {"reference": "Echoing Cymbal"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1585,7 +1585,7 @@
 				]
 			}
 		],
-		"image": "/images/synthesis/loveless_potion.png",
+		"image": "images/synthesis/loveless_potion.png",
 		"original_recipe": {"reference": "Mystery Medicine"},
 		"character": "None",
 		"idea_trigger": "None"

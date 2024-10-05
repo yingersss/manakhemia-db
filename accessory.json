@@ -61,7 +61,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/flame_ring.png",
+		"image": "images/accessory/flame_ring.png",
 		"original_recipe": {"reference": "Magic Ring"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -128,7 +128,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/ice_ring.png",
+		"image": "images/accessory/ice_ring.png",
 		"original_recipe": {"reference": "Magic Ring"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Glacier Stone, Glacier Crystal, Coolster, Long Ice Cream, Ice Ring, or Diamond Dust"
@@ -195,7 +195,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/thunder_ring.png",
+		"image": "images/accessory/thunder_ring.png",
 		"original_recipe": {"reference": "Magic Ring"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Thunder Stone, Thunder Crystal, Voidspark Pipe, Lightning Rod, Thunder Rod, or Electric Elect"
@@ -248,7 +248,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/fires_of_hell.png",
+		"image": "images/accessory/fires_of_hell.png",
 		"original_recipe": {"reference": "Pot of Flames"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -302,7 +302,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/diamond_dust.png",
+		"image": "images/accessory/diamond_dust.png",
 		"original_recipe": {"reference": "Freezing Device"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -355,7 +355,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/electric_elect.png",
+		"image": "images/accessory/electric_elect.png",
 		"original_recipe": {"reference": "Electric Machine"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -412,7 +412,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/puppy_paw_gloves.png",
+		"image": "images/accessory/puppy_paw_gloves.png",
 		"original_recipe": {"reference": "Gloves"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -459,7 +459,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/asclepius.png",
+		"image": "images/accessory/asclepius.png",
 		"original_recipe": {"reference": "A Small Wand"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -520,7 +520,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/stone_of_alectoria.png",
+		"image": "images/accessory/stone_of_alectoria.png",
 		"original_recipe": {"reference": "Stone of Sealing"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -577,7 +577,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/symbol_of_uroborus.png",
+		"image": "images/accessory/symbol_of_uroborus.png",
 		"original_recipe": {"reference": "Alchemy Symbol"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -625,7 +625,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/thorn_gauntlet.png",
+		"image": "images/accessory/thorn_gauntlet.png",
 		"original_recipe": {"reference": "Gloves"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Cyprus Copper"
@@ -683,7 +683,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/straw_doll.png",
+		"image": "images/accessory/straw_doll.png",
 		"original_recipe": {"reference": "Doll"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -730,7 +730,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/gloves_of_artorius.png",
+		"image": "images/accessory/gloves_of_artorius.png",
 		"original_recipe": {"reference": "Gloves"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Legien Steel"
@@ -778,7 +778,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/vasilissas_doll.png",
+		"image": "images/accessory/vasilissas_doll.png",
 		"original_recipe": {"reference": "Doll"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Brownie Mask"
@@ -833,7 +833,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/angel_wing.png",
+		"image": "images/accessory/angel_wing.png",
 		"original_recipe": {"reference": "Wing of an Angel"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -885,7 +885,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/megingjorz.png",
+		"image": "images/accessory/megingjorz.png",
 		"original_recipe": {"reference": "Power Girdle"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -947,7 +947,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/jade_tablet.png",
+		"image": "images/accessory/jade_tablet.png",
 		"original_recipe": {"reference": "Green Tablet"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1000,7 +1000,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/shield_of_ajax.png",
+		"image": "images/accessory/shield_of_ajax.png",
 		"original_recipe": {"reference": "Hard Shield"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1053,7 +1053,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/mirror_of_gargol.png",
+		"image": "images/accessory/mirror_of_gargol.png",
 		"original_recipe": {"reference": "Hard Shield"},
 		"character": "Roxis",
 		"idea_trigger": "After making Shield of Ajax"
@@ -1093,7 +1093,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/archangel_wings.png",
+		"image": "images/accessory/archangel_wings.png",
 		"original_recipe": {"reference": "Wing of an Angel"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Angel Wing"
@@ -1141,7 +1141,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/fallen_wing.png",
+		"image": "images/accessory/fallen_wing.png",
 		"original_recipe": {"reference": "Wing of an Angel"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Devil's Panties"
@@ -1200,7 +1200,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/scale_gauntlet.png",
+		"image": "images/accessory/scale_gauntlet.png",
 		"original_recipe": {"reference": "Gloves"},
 		"character": "Anna",
 		"idea_trigger": "After making Fishscale Garbe, make any accessory that are gauntlets"
@@ -1254,7 +1254,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/kaiser_aqua_hero.png",
+		"image": "images/accessory/kaiser_aqua_hero.png",
 		"original_recipe": {"reference": "Fishbot"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1305,7 +1305,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/aroma_material.png",
+		"image": "images/accessory/aroma_material.png",
 		"original_recipe": {"reference": "The Gem of Alchemy"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1363,7 +1363,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/toad_mouth.png",
+		"image": "images/accessory/toad_mouth.png",
 		"original_recipe": {"reference": "Wallet"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1410,7 +1410,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/philosophers_hand.png",
+		"image": "images/accessory/philosophers_hand.png",
 		"original_recipe": {"reference": "Handprint"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1467,7 +1467,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/glasses_of_death.png",
+		"image": "images/accessory/glasses_of_death.png",
 		"original_recipe": {"reference": "Glasses"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1523,7 +1523,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/feather_charm.png",
+		"image": "images/accessory/feather_charm.png",
 		"original_recipe": {"reference": "Head Gear"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1576,7 +1576,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/kitty_ears.png",
+		"image": "images/accessory/kitty_ears.png",
 		"original_recipe": {"reference": "Head Gear"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Beast Fang, Tuft, Knot, or Shiny Moustache"
@@ -1617,7 +1617,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/bunny_ears.png",
+		"image": "images/accessory/bunny_ears.png",
 		"original_recipe": {"reference": "Head Gear"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Kitty Ears"
@@ -1673,7 +1673,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/tangerine_hat.png",
+		"image": "images/accessory/tangerine_hat.png",
 		"original_recipe": {"reference": "Fancy Hat"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1727,7 +1727,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/lando_cap.png",
+		"image": "images/accessory/lando_cap.png",
 		"original_recipe": {"reference": "Fancy Hat"},
 		"character": "Pamela",
 		"idea_trigger": "After making Tangerine Hat"
@@ -1779,7 +1779,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/yubana_cover.png",
+		"image": "images/accessory/yubana_cover.png",
 		"original_recipe": {"reference": "Fancy Hat"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Yubana Fruit, Dried Yubana, or Yubana Flower"
@@ -1827,7 +1827,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/afrotic_wig.png",
+		"image": "images/accessory/afrotic_wig.png",
 		"original_recipe": {"reference": "Fancy Hat"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Flame or Tera Flame"
@@ -1890,7 +1890,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/flying_fish_boots.png",
+		"image": "images/accessory/flying_fish_boots.png",
 		"original_recipe": {"reference": "Boots"},
 		"character": "Muppy",
 		"idea_trigger": "After making Winged Boots"
@@ -1950,7 +1950,7 @@
 				]
 			}
 		],
-		"image": "/images/accessory/winged_boots.png",
+		"image": "images/accessory/winged_boots.png",
 		"original_recipe": {"reference": "Boots"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1969,7 +1969,7 @@
 			"RES": 50,
 			"SPD": 25
 		},
-		"image": "/images/accessory/mana-eurism_ring.png",
+		"image": "images/accessory/mana-eurism_ring.png",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -1986,7 +1986,7 @@
 			"RES": 0,
 			"SPD": 0
 		},
-		"image": "/images/accessory/willpower_headband.png",
+		"image": "images/accessory/willpower_headband.png",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -2003,7 +2003,7 @@
 			"RES": 0,
 			"SPD": 50
 		},
-		"image": "/images/accessory/quick_shifter.png",
+		"image": "images/accessory/quick_shifter.png",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -2020,7 +2020,7 @@
 			"RES": 200,
 			"SPD": 0
 		},
-		"image": "/images/accessory/scapegoat_doll.png",
+		"image": "images/accessory/scapegoat_doll.png",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -2037,7 +2037,7 @@
 			"RES": 0,
 			"SPD": 0
 		},
-		"image": "/images/accessory/twilight_morion.png",
+		"image": "images/accessory/twilight_morion.png",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	}
 ]
