@@ -1,6 +1,13 @@
 /* JavaScript: script.js */
 const itemList = document.getElementById('item-list');
 const searchBar = document.getElementById('searchBar');
+let itemData = [];
+let synthesisData = [];
+let weaponsData = [];
+let armorData = [];
+let accessoryData = [];
+let useableData = [];
+let recipeData = [];
 
 // Load material JSON file
 fetch('material.json')
@@ -11,20 +18,72 @@ fetch('material.json')
         return response.json();
     })
     .then(data => {
+        itemData = data;
+        return fetch('synthesis.json');
+    })
+    .then(response => {
+        if (!response.ok) {
+            throw new Error('Failed to load synthesis.json');
+        }
+        return response.json();
+    })
+    .then(data => {
+        synthesisData = data;
+        itemData = itemData.concat(synthesisData);
+		return fetch('weapons.json');
+	})
+	.then(response => {
+		if (!response.ok) {
+			throw new Error('Failed to load weapons.json');
+		}
+		return response.json();
+	})
+	.then(data => {
+		weaponsData = data;
+		itemData = itemData.concat(weaponsData);
+		return fetch('armor.json');
+	})
+	.then(response => {
+		if (!response.ok) {
+			throw new Error('Failed to load armor.json');
+		}
+		return response.json();
+	})
+	.then(data => {
+		armorData = data;
+		itemData = itemData.concat(armorData);
+		return fetch('accessory.json');
+	})
+	.then(response => {
+		if (!response.ok) {
+			throw new Error('Failed to load accessory.json');
+		}
+		return response.json();
+	})
+	.then(data => {
+		accessoryData = data;
+		itemData = itemData.concat(accessoryData);
+		return fetch('useable.json');
+	})
+	.then(response => {
+		if (!response.ok) {
+			throw new Error('Failed to load useable.json');
+		}
+		return response.json();
+	})
+	.then(data => {
+		useableData = data;
+		itemData = itemData.concat(useableData);
+		displayItems(itemData);
         // Search Functionality
         searchBar.addEventListener('input', () => {
             const query = searchBar.value.toLowerCase();
-            const filteredItems = data.filter(item => item.name.toLowerCase().includes(query));
-            if (query.length > 0 && filteredItems.length > 0) {
-                itemList.classList.remove('hidden');
-            } else {
-                itemList.classList.add('hidden');
-            }
+            const filteredItems = itemData.filter(item => item.name.toLowerCase().includes(query));
             displayItems(filteredItems);
         });
     })
     .catch(error => {
-        console.error('Error loading material.json:', error);
+        console.error('Error loading item data:', error);
     });
 
 // Display Items Function
@@ -40,7 +99,6 @@ function displayItems(items) {
         `;
         itemElement.addEventListener('click', () => {
             window.location.href = `item-detail.html?name=${encodeURIComponent(item.name)}`;
-            localStorage.setItem('itemDetail', JSON.stringify(item));
         });
         itemList.appendChild(itemElement);
     });
