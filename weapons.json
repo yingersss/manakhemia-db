@@ -641,7 +641,7 @@
 		"idea_trigger": "Change first material to Pyre Blade"
 	},
 	{
-		"name": "Proguis",
+		"name": "Progius",
 		"type": "Weapon",
 		"character_weapon": "Flay",
 		"description": "A super powerful heavy mechsword.",
@@ -672,7 +672,7 @@
 				]
 			}
 		],
-		"image": "newimages/weapons/proguis.PNG",
+		"image": "newimages/weapons/progius.PNG",
 		"original_recipe": {"reference": "Enhanced Mechsword"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1199,7 +1199,7 @@
 		"idea_trigger": "Change first material to Pleather Cloth"
 	},
 	{
-		"name": "Alchemist's Basket",
+		"name": "Alchemist's Bag",
 		"type": "Weapon",
 		"character_weapon": "Jess",
 		"description": "Has a lot of storage space for all needs.",
@@ -1238,7 +1238,7 @@
 				]
 			}
 		],
-		"image": "newimages/weapons/alchemists_basket.PNG",
+		"image": "newimages/weapons/alchemists_bag.PNG",
 		"original_recipe": {"reference": "Net Basket"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1265,7 +1265,7 @@
 					{"reference": "Formell Fabric"}
 				]
 			},
-			{"reference": "Alchemist's Basket"},
+			{"reference": "Alchemist's Bag"},
 			{
 				"alternatives": [
 					{"reference": "Apollo's Diapason"},
@@ -1369,7 +1369,7 @@
 			{"reference": "Alchemic Bag"},
 			{"reference": "Jade Tablet"}
 		],
-		"image": "newimages/weapons/eco_bag.PNG",
+		"image": "newimages/weapons/eco-bag.PNG",
 		"original_recipe": {"reference": "Net Basket"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Kittynip"

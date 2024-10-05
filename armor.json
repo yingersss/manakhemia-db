@@ -438,7 +438,7 @@
 		"idea_trigger": "None"
 	},
 	{
-		"name": "White Japanesque Uniform",
+		"name": "White Japanesque",
 		"type": "Armor",
 		"equippable": "Vayne, Flay, Roxis",
 		"description": "A pure white uniform with a classy feel.",
@@ -469,7 +469,7 @@
 				]
 			}
 		],
-		"image": "newimages/armor/white_japanesque_uniform.PNG",
+		"image": "newimages/armor/white_japanesque.PNG",
 		"original_recipe": {"reference": "Oldschool Uniform"},
 		"character": "Vayne",
 		"idea_trigger": "Change the first material to Japanesque Uniform"
@@ -1597,7 +1597,7 @@
 		"idea_trigger": "None"
 	},
 	{
-		"name": "Black Veil",
+		"name": "Bleak Veil",
 		"type": "Armor",
 		"equippable": "Vayne",
 		"description": "Woven with cloth darker than black.",
@@ -1617,7 +1617,7 @@
 			{"reference": "Stellar Globe"},
 			{"reference": "Symbol of Uroborus"}
 		],
-		"image": "newimages/armor/black_veil.PNG",
+		"image": "newimages/armor/bleak_veil.PNG",
 		"original_recipe": {"reference": "Dark Battlespirit"},
 		"character": "None",
 		"idea_trigger": "None"
