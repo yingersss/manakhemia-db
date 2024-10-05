@@ -24,7 +24,7 @@
 				]
 			}
 		],
-		"image": "images/synthesis/flour.png",
+		"image": "newimages/synthesis/flour.png",
 		"original_recipe": {"reference": "Powdering Powder"},
 		"character": "None",
 		"idea_trigger": "None"
