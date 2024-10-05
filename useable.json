@@ -35,7 +35,7 @@
 				]
 			}
 		],
-		"image": "images/usable/heal_jar.png",
+		"image": "manakhemia-db/imagess/usable/heal_jar.png",
 		"original_recipe": {"reference": "Healing Medicine"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -80,7 +80,7 @@
 				]
 			}
 		],
-		"image": "images/usable/x_heal.png",
+		"image": "manakhemia-db/imagess/usable/x_heal.png",
 		"original_recipe": {"reference": "Healing Medicine"},
 		"character": "Roxis",
 		"idea_trigger": "After making Heal Jar"
@@ -122,7 +122,7 @@
 			}
 
 		],
-		"image": "images/usable/heal_all.png",
+		"image": "manakhemia-db/imagess/usable/heal_all.png",
 		"original_recipe": {"reference": "Spreading Medicine"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -168,7 +168,7 @@
 				]
 			}
 		],
-		"image": "images/usable/cure_jar.png",
+		"image": "manakhemia-db/imagess/usable/cure_jar.png",
 		"original_recipe": {"reference": "Curing Medicine"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -206,7 +206,7 @@
 			},
 			{"reference": "Salt"}
 		],
-		"image": "images/usable/nectar.png",
+		"image": "manakhemia-db/imagess/usable/nectar.png",
 		"original_recipe": {"reference": "God's Drink"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -249,7 +249,7 @@
 			}
 
 		],
-		"image": "images/usable/super_nectar.png",
+		"image": "manakhemia-db/imagess/usable/super_nectar.png",
 		"original_recipe": {"reference": "Super Juice"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -272,7 +272,7 @@
 				]
 			}
 		],
-		"image": "images/usable/shining_grail.png",
+		"image": "manakhemia-db/imagess/usable/shining_grail.png",
 		"original_recipe": {"reference": "A Holy Cup"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -315,7 +315,7 @@
 				]
 			}
 		],
-		"image": "images/usable/amber_soup.png",
+		"image": "manakhemia-db/imagess/usable/amber_soup.png",
 		"original_recipe": {"reference": "Mental Stabilizer"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -349,7 +349,7 @@
 			},
 					{"reference": "Fortune Ring"}
 		],
-		"image": "images/usable/tranquilizer.png",
+		"image": "manakhemia-db/imagess/usable/tranquilizer.png",
 		"original_recipe": {"reference": "Mental Stabilizer"},
 		"character": "Jess",
 		"idea_trigger": "After making Amber Soup"
@@ -368,7 +368,7 @@
 			{"reference": "Dunkelhite"},
 			{"reference": "Shinke Onion"}
 		],
-		"image": "images/usable/elixir.png",
+		"image": "manakhemia-db/imagess/usable/elixir.png",
 		"original_recipe": {"reference": "Ultimate Remedy"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -398,7 +398,7 @@
 			},
 			{"reference": "Salt"}
 		],
-		"image": "images/usable/steak.png",
+		"image": "manakhemia-db/imagess/usable/steak.png",
 		"original_recipe": {"reference": "Flaming BBQ"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -427,7 +427,7 @@
 			},
 			{"reference": "Salt"}
 		],
-		"image": "images/usable/broiled_fish.png",
+		"image": "manakhemia-db/imagess/usable/broiled_fish.png",
 		"original_recipe": {"reference": "Flaming BBQ"},
 		"character": "Nikki",
 		"idea_trigger": "After making Steak"
@@ -460,7 +460,7 @@
 				]
 			}
 		],
-		"image": "images/usable/ceramic_plate.png",
+		"image": "manakhemia-db/imagess/usable/ceramic_plate.png",
 		"original_recipe": {"reference": "Flaming BBQ"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Magical Clay or Blood Clay"
@@ -499,7 +499,7 @@
 			},
 			{"reference": "Bobomb Ice"}
 		],
-		"image": "images/usable/fish_boat_marlow.png",
+		"image": "manakhemia-db/imagess/usable/fish_boat_marlow.png",
 		"original_recipe": {"reference": "Gorgeous Boat"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -537,7 +537,7 @@
 				]
 			}
 		],
-		"image": "images/usable/green_soup.png",
+		"image": "manakhemia-db/imagess/usable/green_soup.png",
 		"original_recipe": {"reference": "Deliciousoup"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -575,7 +575,7 @@
 				]
 			}
 		],
-		"image": "images/usable/red_soup.png",
+		"image": "manakhemia-db/imagess/usable/red_soup.png",
 		"original_recipe": {"reference": "Deliciousoup"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Lando, X-Lando, Sweet Lando, or Night-In-Grape"
@@ -594,7 +594,7 @@
 			{"reference": "Liquid Metal"},
 			{"reference": "Ceramic Plate"}
 		],
-		"image": "images/usable/golden_soup.png",
+		"image": "manakhemia-db/imagess/usable/golden_soup.png",
 		"original_recipe": {"reference": "Deliciousoup"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Golden Bullion"
@@ -626,7 +626,7 @@
 				]
 			}
 		],
-		"image": "images/usable/flame.png",
+		"image": "manakhemia-db/imagess/usable/flame.png",
 		"original_recipe": {"reference": "Bomb"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -644,7 +644,7 @@
 			{"reference": "Plosion"},
 			{"reference": "Flame Ring"}
 		],
-		"image": "images/usable/tera_flame.png",
+		"image": "manakhemia-db/imagess/usable/tera_flame.png",
 		"original_recipe": {"reference": "Super Bomb"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -674,7 +674,7 @@
 				]
 			}
 		],
-		"image": "images/usable/bomb_ice.png",
+		"image": "manakhemia-db/imagess/usable/bomb_ice.png",
 		"original_recipe": {"reference": "Bomb"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Glacier Stone"
@@ -692,7 +692,7 @@
 			{"reference": "Plosion"},
 			{"reference": "Ice Ring"}
 			],
-		"image": "images/usable/bobomb_ice.png",
+		"image": "manakhemia-db/imagess/usable/bobomb_ice.png",
 		"original_recipe": {"reference": "Super Bomb"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Glacier Crystal"
@@ -723,7 +723,7 @@
 				]
 			}
 		],
-		"image": "images/usable/lightning_rod.png",
+		"image": "manakhemia-db/imagess/usable/lightning_rod.png",
 		"original_recipe": {"reference": "Bomb"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Thunder Stone"
@@ -741,7 +741,7 @@
 			{"reference": "Plosion"},
 			{"reference": "Thunder Ring"}
 		],
-		"image": "images/usable/thunder_rod.png",
+		"image": "manakhemia-db/imagess/usable/thunder_rod.png",
 		"original_recipe": {"reference": "Super Bomb"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Thunder Crystal"
@@ -771,7 +771,7 @@
 				]
 			}
 		],
-		"image": "images/usable/uni_bomb.png",
+		"image": "manakhemia-db/imagess/usable/uni_bomb.png",
 		"original_recipe": {"reference": "Exploding Uni"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -795,7 +795,7 @@
 				]
 			}
 		],
-		"image": "images/usable/big_uni_bomb.png",
+		"image": "manakhemia-db/imagess/usable/big_uni_bomb.png",
 		"original_recipe": {"reference": "Uni the Great"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -819,7 +819,7 @@
 			{"reference": "Dragon Tongue"},
 			{"reference": "Pentagle"}
 		],
-		"image": "images/usable/uni_god.png",
+		"image": "manakhemia-db/imagess/usable/uni_god.png",
 		"original_recipe": {"reference": "The Mystic Uni"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -850,7 +850,7 @@
 			},
 			{"reference": "Pleather Cloth"}
 		],
-		"image": "images/usable/orange_bomb.png",
+		"image": "manakhemia-db/imagess/usable/orange_bomb.png",
 		"original_recipe": {"reference": "Fruit Bomb"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -874,7 +874,7 @@
 			{"reference": "Plosion"},
 			{"reference": "Pleather Cloth"}
 		],
-		"image": "images/usable/big_orange_bomb.png",
+		"image": "manakhemia-db/imagess/usable/big_orange_bomb.png",
 		"original_recipe": {"reference": "Uni the Great"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Tangerine, Sunrise Orange, or Mandarin Orange"
@@ -905,7 +905,7 @@
 			},
 			{"reference": "Black Steel"}
 		],
-		"image": "images/usable/lando_bomb.png",
+		"image": "manakhemia-db/imagess/usable/lando_bomb.png",
 		"original_recipe": {"reference": "Sweet Fruit Bomb"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -934,7 +934,7 @@
 				]
 			}
 		],
-		"image": "images/usable/big_lando_bomb.png",
+		"image": "manakhemia-db/imagess/usable/big_lando_bomb.png",
 		"original_recipe": {"reference": "Uni the Great"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to X-Lando or Sweet Lando"
@@ -968,7 +968,7 @@
 			},
 			{"reference": "Black Steel"}
 		],
-		"image": "images/usable/globe.png",
+		"image": "manakhemia-db/imagess/usable/globe.png",
 		"original_recipe": {"reference": "Twirly Thing"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1000,7 +1000,7 @@
 			},
 			{"reference": "Pot Station"}
 		],
-		"image": "images/usable/stellar_globe.png",
+		"image": "manakhemia-db/imagess/usable/stellar_globe.png",
 		"original_recipe": {"reference": "A Small Universe"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1024,7 +1024,7 @@
 			{"reference": "Puni Gummi"},
 			{"reference": "Ceramic Plate"}
 		],
-		"image": "images/usable/unipuni_pudding.png",
+		"image": "manakhemia-db/imagess/usable/unipuni_pudding.png",
 		"original_recipe": {"reference": "Pudding"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1046,7 +1046,7 @@
 				]
 			}
 		],
-		"image": "images/usable/cheesecake.png",
+		"image": "manakhemia-db/imagess/usable/cheesecake.png",
 		"original_recipe": {"reference": "Traditional Cake"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1074,7 +1074,7 @@
 				]
 			}
 		],
-		"image": "images/usable/pumpotatokin_pie.png",
+		"image": "manakhemia-db/imagess/usable/pumpotatokin_pie.png",
 		"original_recipe": {"reference": "Traditional Cake"},
 		"character": "Nikki",
 		"idea_trigger": "After making Cheesecake"
@@ -1102,7 +1102,7 @@
 				]
 			}
 		],
-		"image": "images/usable/grape_sherbet.png",
+		"image": "manakhemia-db/imagess/usable/grape_sherbet.png",
 		"original_recipe": {"reference": "Bite-Sized Sorbet"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1125,7 +1125,7 @@
 				]
 			}
 		],
-		"image": "images/usable/muscat_sorbet.png",
+		"image": "manakhemia-db/imagess/usable/muscat_sorbet.png",
 		"original_recipe": {"reference": "Bite-Sized Sorbet"},
 		"character": "Nikki",
 		"idea_trigger": "After making Grape Sherbet"
@@ -1154,7 +1154,7 @@
 				]
 			}
 		],
-		"image": "images/usable/sweetsland.png",
+		"image": "manakhemia-db/imagess/usable/sweetsland.png",
 		"original_recipe": {"reference": "Sweets Paradise"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1187,7 +1187,7 @@
 			},
 			{"reference": "Goat Milk"}
 		],
-		"image": "images/usable/120_fruit.png",
+		"image": "manakhemia-db/imagess/usable/120_fruit.png",
 		"original_recipe": {"reference": "Fruit Juice"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1217,7 +1217,7 @@
 				]
 			}
 		],
-		"image": "images/usable/veggielicious.png",
+		"image": "manakhemia-db/imagess/usable/veggielicious.png",
 		"original_recipe": {"reference": "Fruit Juice"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Spinacherb"
@@ -1247,7 +1247,7 @@
 				]
 			}
 		],
-		"image": "images/usable/veggie_purple.png",
+		"image": "manakhemia-db/imagess/usable/veggie_purple.png",
 		"original_recipe": {"reference": "Fruit Juice"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1281,7 +1281,7 @@
 				]
 			}
 		],
-		"image": "images/usable/divine_shield.png",
+		"image": "manakhemia-db/imagess/usable/divine_shield.png",
 		"original_recipe": {"reference": "Radiating Disc"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1318,7 +1318,7 @@
 				]
 			}
 		],
-		"image": "images/usable/misty_curtain.png",
+		"image": "manakhemia-db/imagess/usable/misty_curtain.png",
 		"original_recipe": {"reference": "Magic Stake Cloth"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1352,7 +1352,7 @@
 				]
 			}
 		],
-		"image": "images/usable/treasure_cape.png",
+		"image": "manakhemia-db/imagess/usable/treasure_cape.png",
 		"original_recipe": {"reference": "Invisible Mantle"},
 		"character": "None",
 		"idea_trigger": "None"
