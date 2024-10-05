@@ -35,7 +35,7 @@
 				]
 			}
 		],
-		"image": "images/usable/heal_jar.PNG",
+		"image": "newimages/usable/heal_jar.PNG",
 		"original_recipe": {"reference": "Healing Medicine"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -80,7 +80,7 @@
 				]
 			}
 		],
-		"image": "images/usable/x_heal.PNG",
+		"image": "newimages/usable/x_heal.PNG",
 		"original_recipe": {"reference": "Healing Medicine"},
 		"character": "Roxis",
 		"idea_trigger": "After making Heal Jar"
@@ -122,7 +122,7 @@
 			}
 
 		],
-		"image": "images/usable/heal_all.PNG",
+		"image": "newimages/usable/heal_all.PNG",
 		"original_recipe": {"reference": "Spreading Medicine"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -168,7 +168,7 @@
 				]
 			}
 		],
-		"image": "images/usable/cure_jar.PNG",
+		"image": "newimages/usable/cure_jar.PNG",
 		"original_recipe": {"reference": "Curing Medicine"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -206,7 +206,7 @@
 			},
 			{"reference": "Salt"}
 		],
-		"image": "images/usable/nectar.PNG",
+		"image": "newimages/usable/nectar.PNG",
 		"original_recipe": {"reference": "God's Drink"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -249,7 +249,7 @@
 			}
 
 		],
-		"image": "images/usable/super_nectar.PNG",
+		"image": "newimages/usable/super_nectar.PNG",
 		"original_recipe": {"reference": "Super Juice"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -272,7 +272,7 @@
 				]
 			}
 		],
-		"image": "images/usable/shining_grail.PNG",
+		"image": "newimages/usable/shining_grail.PNG",
 		"original_recipe": {"reference": "A Holy Cup"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -315,7 +315,7 @@
 				]
 			}
 		],
-		"image": "images/usable/amber_soup.PNG",
+		"image": "newimages/usable/amber_soup.PNG",
 		"original_recipe": {"reference": "Mental Stabilizer"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -349,7 +349,7 @@
 			},
 					{"reference": "Fortune Ring"}
 		],
-		"image": "images/usable/tranquilizer.PNG",
+		"image": "newimages/usable/tranquilizer.PNG",
 		"original_recipe": {"reference": "Mental Stabilizer"},
 		"character": "Jess",
 		"idea_trigger": "After making Amber Soup"
@@ -368,7 +368,7 @@
 			{"reference": "Dunkelhite"},
 			{"reference": "Shinke Onion"}
 		],
-		"image": "images/usable/elixir.PNG",
+		"image": "newimages/usable/elixir.PNG",
 		"original_recipe": {"reference": "Ultimate Remedy"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -398,7 +398,7 @@
 			},
 			{"reference": "Salt"}
 		],
-		"image": "images/usable/steak.PNG",
+		"image": "newimages/usable/steak.PNG",
 		"original_recipe": {"reference": "Flaming BBQ"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -427,7 +427,7 @@
 			},
 			{"reference": "Salt"}
 		],
-		"image": "images/usable/broiled_fish.PNG",
+		"image": "newimages/usable/broiled_fish.PNG",
 		"original_recipe": {"reference": "Flaming BBQ"},
 		"character": "Nikki",
 		"idea_trigger": "After making Steak"
@@ -460,7 +460,7 @@
 				]
 			}
 		],
-		"image": "images/usable/ceramic_plate.PNG",
+		"image": "newimages/usable/ceramic_plate.PNG",
 		"original_recipe": {"reference": "Flaming BBQ"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Magical Clay or Blood Clay"
@@ -499,7 +499,7 @@
 			},
 			{"reference": "Bobomb Ice"}
 		],
-		"image": "images/usable/fish_boat_marlow.PNG",
+		"image": "newimages/usable/fish_boat_marlow.PNG",
 		"original_recipe": {"reference": "Gorgeous Boat"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -537,7 +537,7 @@
 				]
 			}
 		],
-		"image": "images/usable/green_soup.PNG",
+		"image": "newimages/usable/green_soup.PNG",
 		"original_recipe": {"reference": "Deliciousoup"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -575,7 +575,7 @@
 				]
 			}
 		],
-		"image": "images/usable/red_soup.PNG",
+		"image": "newimages/usable/red_soup.PNG",
 		"original_recipe": {"reference": "Deliciousoup"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Lando, X-Lando, Sweet Lando, or Night-In-Grape"
@@ -594,7 +594,7 @@
 			{"reference": "Liquid Metal"},
 			{"reference": "Ceramic Plate"}
 		],
-		"image": "images/usable/golden_soup.PNG",
+		"image": "newimages/usable/golden_soup.PNG",
 		"original_recipe": {"reference": "Deliciousoup"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Golden Bullion"
@@ -626,7 +626,7 @@
 				]
 			}
 		],
-		"image": "images/usable/flame.PNG",
+		"image": "newimages/usable/flame.PNG",
 		"original_recipe": {"reference": "Bomb"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -644,7 +644,7 @@
 			{"reference": "Plosion"},
 			{"reference": "Flame Ring"}
 		],
-		"image": "images/usable/tera_flame.PNG",
+		"image": "newimages/usable/tera_flame.PNG",
 		"original_recipe": {"reference": "Super Bomb"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -674,7 +674,7 @@
 				]
 			}
 		],
-		"image": "images/usable/bomb_ice.PNG",
+		"image": "newimages/usable/bomb_ice.PNG",
 		"original_recipe": {"reference": "Bomb"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Glacier Stone"
@@ -692,7 +692,7 @@
 			{"reference": "Plosion"},
 			{"reference": "Ice Ring"}
 			],
-		"image": "images/usable/bobomb_ice.PNG",
+		"image": "newimages/usable/bobomb_ice.PNG",
 		"original_recipe": {"reference": "Super Bomb"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Glacier Crystal"
@@ -723,7 +723,7 @@
 				]
 			}
 		],
-		"image": "images/usable/lightning_rod.PNG",
+		"image": "newimages/usable/lightning_rod.PNG",
 		"original_recipe": {"reference": "Bomb"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Thunder Stone"
@@ -741,7 +741,7 @@
 			{"reference": "Plosion"},
 			{"reference": "Thunder Ring"}
 		],
-		"image": "images/usable/thunder_rod.PNG",
+		"image": "newimages/usable/thunder_rod.PNG",
 		"original_recipe": {"reference": "Super Bomb"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Thunder Crystal"
@@ -771,7 +771,7 @@
 				]
 			}
 		],
-		"image": "images/usable/uni_bomb.PNG",
+		"image": "newimages/usable/uni_bomb.PNG",
 		"original_recipe": {"reference": "Exploding Uni"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -795,7 +795,7 @@
 				]
 			}
 		],
-		"image": "images/usable/big_uni_bomb.PNG",
+		"image": "newimages/usable/big_uni_bomb.PNG",
 		"original_recipe": {"reference": "Uni the Great"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -819,7 +819,7 @@
 			{"reference": "Dragon Tongue"},
 			{"reference": "Pentagle"}
 		],
-		"image": "images/usable/uni_god.PNG",
+		"image": "newimages/usable/uni_god.PNG",
 		"original_recipe": {"reference": "The Mystic Uni"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -850,7 +850,7 @@
 			},
 			{"reference": "Pleather Cloth"}
 		],
-		"image": "images/usable/orange_bomb.PNG",
+		"image": "newimages/usable/orange_bomb.PNG",
 		"original_recipe": {"reference": "Fruit Bomb"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -874,7 +874,7 @@
 			{"reference": "Plosion"},
 			{"reference": "Pleather Cloth"}
 		],
-		"image": "images/usable/big_orange_bomb.PNG",
+		"image": "newimages/usable/big_orange_bomb.PNG",
 		"original_recipe": {"reference": "Uni the Great"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Tangerine, Sunrise Orange, or Mandarin Orange"
@@ -905,7 +905,7 @@
 			},
 			{"reference": "Black Steel"}
 		],
-		"image": "images/usable/lando_bomb.PNG",
+		"image": "newimages/usable/lando_bomb.PNG",
 		"original_recipe": {"reference": "Sweet Fruit Bomb"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -934,7 +934,7 @@
 				]
 			}
 		],
-		"image": "images/usable/big_lando_bomb.PNG",
+		"image": "newimages/usable/big_lando_bomb.PNG",
 		"original_recipe": {"reference": "Uni the Great"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to X-Lando or Sweet Lando"
@@ -968,7 +968,7 @@
 			},
 			{"reference": "Black Steel"}
 		],
-		"image": "images/usable/globe.PNG",
+		"image": "newimages/usable/globe.PNG",
 		"original_recipe": {"reference": "Twirly Thing"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1000,7 +1000,7 @@
 			},
 			{"reference": "Pot Station"}
 		],
-		"image": "images/usable/stellar_globe.PNG",
+		"image": "newimages/usable/stellar_globe.PNG",
 		"original_recipe": {"reference": "A Small Universe"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1024,7 +1024,7 @@
 			{"reference": "Puni Gummi"},
 			{"reference": "Ceramic Plate"}
 		],
-		"image": "images/usable/unipuni_pudding.PNG",
+		"image": "newimages/usable/unipuni_pudding.PNG",
 		"original_recipe": {"reference": "Pudding"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1046,7 +1046,7 @@
 				]
 			}
 		],
-		"image": "images/usable/cheesecake.PNG",
+		"image": "newimages/usable/cheesecake.PNG",
 		"original_recipe": {"reference": "Traditional Cake"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1074,7 +1074,7 @@
 				]
 			}
 		],
-		"image": "images/usable/pumpotatokin_pie.PNG",
+		"image": "newimages/usable/pumpotatokin_pie.PNG",
 		"original_recipe": {"reference": "Traditional Cake"},
 		"character": "Nikki",
 		"idea_trigger": "After making Cheesecake"
@@ -1102,7 +1102,7 @@
 				]
 			}
 		],
-		"image": "images/usable/grape_sherbet.PNG",
+		"image": "newimages/usable/grape_sherbet.PNG",
 		"original_recipe": {"reference": "Bite-Sized Sorbet"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1125,7 +1125,7 @@
 				]
 			}
 		],
-		"image": "images/usable/muscat_sorbet.PNG",
+		"image": "newimages/usable/muscat_sorbet.PNG",
 		"original_recipe": {"reference": "Bite-Sized Sorbet"},
 		"character": "Nikki",
 		"idea_trigger": "After making Grape Sherbet"
@@ -1154,7 +1154,7 @@
 				]
 			}
 		],
-		"image": "images/usable/sweetsland.PNG",
+		"image": "newimages/usable/sweetsland.PNG",
 		"original_recipe": {"reference": "Sweets Paradise"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1187,7 +1187,7 @@
 			},
 			{"reference": "Goat Milk"}
 		],
-		"image": "images/usable/120_fruit.PNG",
+		"image": "newimages/usable/120_fruit.PNG",
 		"original_recipe": {"reference": "Fruit Juice"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1217,7 +1217,7 @@
 				]
 			}
 		],
-		"image": "images/usable/veggielicious.PNG",
+		"image": "newimages/usable/veggielicious.PNG",
 		"original_recipe": {"reference": "Fruit Juice"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Spinacherb"
@@ -1247,7 +1247,7 @@
 				]
 			}
 		],
-		"image": "images/usable/veggie_purple.PNG",
+		"image": "newimages/usable/veggie_purple.PNG",
 		"original_recipe": {"reference": "Fruit Juice"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1281,7 +1281,7 @@
 				]
 			}
 		],
-		"image": "images/usable/divine_shield.PNG",
+		"image": "newimages/usable/divine_shield.PNG",
 		"original_recipe": {"reference": "Radiating Disc"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1318,7 +1318,7 @@
 				]
 			}
 		],
-		"image": "images/usable/misty_curtain.PNG",
+		"image": "newimages/usable/misty_curtain.PNG",
 		"original_recipe": {"reference": "Magic Stake Cloth"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1352,7 +1352,7 @@
 				]
 			}
 		],
-		"image": "images/usable/treasure_cape.PNG",
+		"image": "newimages/usable/treasure_cape.PNG",
 		"original_recipe": {"reference": "Invisible Mantle"},
 		"character": "None",
 		"idea_trigger": "None"

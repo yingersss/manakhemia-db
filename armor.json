@@ -31,7 +31,7 @@
 				]
 			}
 		],
-		"image": "images/armor/leather_cuirass.PNG",
+		"image": "newimages/armor/leather_cuirass.PNG",
 		"original_recipe": {"reference": "Light Armor"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -63,7 +63,7 @@
 				]
 			}
 		],
-		"image": "images/armor/iron_plate.PNG",
+		"image": "newimages/armor/iron_plate.PNG",
 		"original_recipe": {"reference": "Platemail"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -100,7 +100,7 @@
 				]
 			}
 		],
-		"image": "images/armor/bronze_plate.PNG",
+		"image": "newimages/armor/bronze_plate.PNG",
 		"original_recipe": {"reference": "Platemail"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Red Steel"
@@ -150,7 +150,7 @@
 				]
 			}
 		],
-		"image": "images/armor/baked_plate.PNG",
+		"image": "newimages/armor/baked_plate.PNG",
 		"original_recipe": {"reference": "Platemail"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Monster Cookie or Sweetsland"
@@ -189,7 +189,7 @@
 				]
 			}
 		],
-		"image": "images/armor/armored_crab.PNG",
+		"image": "newimages/armor/armored_crab.PNG",
 		"original_recipe": {"reference": "Platemail"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to King Crab"
@@ -230,7 +230,7 @@
 				]
 			}
 		],
-		"image": "images/armor/kaiserfish_mail.PNG",
+		"image": "newimages/armor/kaiserfish_mail.PNG",
 		"original_recipe": {"reference": "Royal Metal Armor"},
 		"character": "Muppy",
 		"idea_trigger": "After making Armored Crab"
@@ -275,7 +275,7 @@
 				]
 			}
 		],
-		"image": "images/armor/silver_cuirass.PNG",
+		"image": "newimages/armor/silver_cuirass.PNG",
 		"original_recipe": {"reference": "Royal Metal Armor"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -315,7 +315,7 @@
 				]
 			}
 		],
-		"image": "images/armor/gold_mail.PNG",
+		"image": "newimages/armor/gold_mail.PNG",
 		"original_recipe": {"reference": "Royal Metal Armor"},
 		"character": "Flay",
 		"idea_trigger": "After making Silver Cuirass"
@@ -352,7 +352,7 @@
 				]
 			}
 		],
-		"image": "images/armor/male_uniform.PNG",
+		"image": "newimages/armor/male_uniform.PNG",
 		"original_recipe": {"reference": "Standard Uniform-M"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -388,7 +388,7 @@
 			},
 			{"reference": "Eternal Turnkey"}
 		],
-		"image": "images/armor/altered_uniform_m.PNG",
+		"image": "newimages/armor/altered_uniform_m.PNG",
 		"original_recipe": {"reference": "Standard Uniform-M"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Male Uniform"
@@ -432,7 +432,7 @@
 				]
 			}
 		],
-		"image": "images/armor/japanesque_uniform.PNG",
+		"image": "newimages/armor/japanesque_uniform.PNG",
 		"original_recipe": {"reference": "Oldschool Uniform"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -469,7 +469,7 @@
 				]
 			}
 		],
-		"image": "images/armor/white_japanesque_uniform.PNG",
+		"image": "newimages/armor/white_japanesque_uniform.PNG",
 		"original_recipe": {"reference": "Oldschool Uniform"},
 		"character": "Vayne",
 		"idea_trigger": "Change the first material to Japanesque Uniform"
@@ -510,7 +510,7 @@
 				]
 			}
 		],
-		"image": "images/armor/gangster.PNG",
+		"image": "newimages/armor/gangster.PNG",
 		"original_recipe": {"reference": "Oldschool Uniform"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to White Japanesque"
@@ -555,7 +555,7 @@
 				]
 			}
 		],
-		"image": "images/armor/king_style.PNG",
+		"image": "newimages/armor/king_style.PNG",
 		"original_recipe": {"reference": "Royal CLothes"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -592,7 +592,7 @@
 				]
 			}
 		],
-		"image": "images/armor/female_uniform.PNG",
+		"image": "newimages/armor/female_uniform.PNG",
 		"original_recipe": {"reference": "Standard Uniform-F"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -630,7 +630,7 @@
 			},
 			{"reference": "Eternal Turnkey"}
 		],
-		"image": "images/armor/altered_uniform_f.PNG",
+		"image": "newimages/armor/altered_uniform_f.PNG",
 		"original_recipe": {"reference": "Standard Uniform-F"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Female Uniform"
@@ -663,7 +663,7 @@
 			},
 			{"reference": "Asclepius"}
 		],
-		"image": "images/armor/long_uniform.PNG",
+		"image": "newimages/armor/long_uniform.PNG",
 		"original_recipe": {"reference": "Standard Uniform-F"},
 		"character": "Vayne",
 		"idea_trigger": "Just change the first material to Altered Uniform F"
@@ -708,7 +708,7 @@
 				]
 			}
 		],
-		"image": "images/armor/bad_girl.PNG",
+		"image": "newimages/armor/bad_girl.PNG",
 		"original_recipe": {"reference": "Retro Uniform"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -745,7 +745,7 @@
 			{"reference": "Aurora Curtain"},
 			{"reference": "Formell Fabric"}
 		],
-		"image": "images/armor/maiden.PNG",
+		"image": "newimages/armor/maiden.PNG",
 		"original_recipe": {"reference": "Retro Uniform"},
 		"character": "Anna",
 		"idea_trigger": "After making Bad Girl"
@@ -782,7 +782,7 @@
 			{"reference": "Misty Curtain"},
 			{"reference": "Silver Thread"}
 		],
-		"image": "images/armor/heavens_silk.PNG",
+		"image": "newimages/armor/heavens_silk.PNG",
 		"original_recipe": {"reference": "Elegant Clothes"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -825,7 +825,7 @@
 				]
 			}
 		],
-		"image": "images/armor/black_cat.PNG",
+		"image": "newimages/armor/black_cat.PNG",
 		"original_recipe": {"reference": "Cat Suit"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -872,7 +872,7 @@
 				]
 			}
 		],
-		"image": "images/armor/kitty_ear_maid.PNG",
+		"image": "newimages/armor/kitty_ear_maid.PNG",
 		"original_recipe": {"reference": "Cat Suit"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Heaven's Sik, Long Uniform, or Bad Girl"
@@ -922,7 +922,7 @@
 				]
 			}
 		],
-		"image": "images/armor/raven_robe.PNG",
+		"image": "newimages/armor/raven_robe.PNG",
 		"original_recipe": {"reference": "Robe"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Black Liquid, Black Powder, or Black Feather"
@@ -974,7 +974,7 @@
 				]
 			}
 		],
-		"image": "images/armor/arabesque_robe.PNG",
+		"image": "newimages/armor/arabesque_robe.PNG",
 		"original_recipe": {"reference": "Robe"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1020,7 +1020,7 @@
 				]
 			}
 		],
-		"image": "images/armor/la_matador.PNG",
+		"image": "newimages/armor/la_matador.PNG",
 		"original_recipe": {"reference": "Robe"},
 		"character": "Vayne",
 		"idea_trigger": "Just change the first material to Crimson Feather, Night-In-Grape, Cyprus Copper, or Red Petal"
@@ -1058,7 +1058,7 @@
 				]
 			}
 		],
-		"image": "images/armor/aurora_curtain.PNG",
+		"image": "newimages/armor/aurora_curtain.PNG",
 		"original_recipe": {"reference": "Magic Garments"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Rainbow Feather or Dunkelhite"
@@ -1096,7 +1096,7 @@
 			},
 			{"reference": "Symbol of Uroborus"}
 		],
-		"image": "images/armor/dragonscale_garb.PNG",
+		"image": "newimages/armor/dragonscale_garb.PNG",
 		"original_recipe": {"reference": "Magic Garments"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1150,7 +1150,7 @@
 				]
 			}
 		],
-		"image": "images/armor/fishscale_garb.PNG",
+		"image": "newimages/armor/fishscale_garb.PNG",
 		"original_recipe": {"reference": "Magic Garments"},
 		"character": "Anna",
 		"idea_trigger": "After making Dragonscale Garb"
@@ -1176,7 +1176,7 @@
 			{"reference": "Candy Eye"},
 			{"reference": "Bomb Ice"}
 		],
-		"image": "images/armor/chocolate_robe.PNG",
+		"image": "newimages/armor/chocolate_robe.PNG",
 		"original_recipe": {"reference": "Robe"},
 		"character": "Nikki",
 		"idea_trigger": "After making Arabesque Robe"
@@ -1225,7 +1225,7 @@
 				]
 			}
 		],
-		"image": "images/armor/estevan_guard.PNG",
+		"image": "newimages/armor/estevan_guard.PNG",
 		"original_recipe": {"reference": "Heavy Armor"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1263,7 +1263,7 @@
 				]
 			}
 		],
-		"image": "images/armor/bone_breastplate.PNG",
+		"image": "newimages/armor/bone_breastplate.PNG",
 		"original_recipe": {"reference": "Heavy Armor"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Iron Plate"
@@ -1303,7 +1303,7 @@
 				]
 			}
 		],
-		"image": "images/armor/crown_breastplate.PNG",
+		"image": "newimages/armor/crown_breastplate.PNG",
 		"original_recipe": {"reference": "Holy Armor"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1340,7 +1340,7 @@
 			},
 			{"reference": "Chrome Crystal"}
 		],
-		"image": "images/armor/panzer_cloak.PNG",
+		"image": "newimages/armor/panzer_cloak.PNG",
 		"original_recipe": {"reference": "Hardened Cloak"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1376,7 +1376,7 @@
 			},
 			{"reference": "Liquid Metal"}
 		],
-		"image": "images/armor/imperial_cloth.PNG",
+		"image": "newimages/armor/imperial_cloth.PNG",
 		"original_recipe": {"reference": "Hardened Cloak"},
 		"character": "Vayne",
 		"idea_trigger": "Change first material to Dragonscale Garb, Aurora Curtain, or Fishscale Garb"
@@ -1416,7 +1416,7 @@
 				]
 			}
 		],
-		"image": "images/armor/feathery_flow.PNG",
+		"image": "newimages/armor/feathery_flow.PNG",
 		"original_recipe": {"reference": "Women's Armor"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1454,7 +1454,7 @@
 				]
 			}
 		],
-		"image": "images/armor/star_queen.PNG",
+		"image": "newimages/armor/star_queen.PNG",
 		"original_recipe": {"reference": "Women's Armor"},
 		"character": "Anna",
 		"idea_trigger": "After making Angel Cloth"
@@ -1490,7 +1490,7 @@
 				]
 			}
 		],
-		"image": "images/armor/angel_cloth.PNG",
+		"image": "newimages/armor/angel_cloth.PNG",
 		"original_recipe": {"reference": "Women's Armor"},
 		"character": "Anna",
 		"idea_trigger": "After making Feathery Flow"
@@ -1530,7 +1530,7 @@
 				]
 			}
 		],
-		"image": "images/armor/alchemy_robe.PNG",
+		"image": "newimages/armor/alchemy_robe.PNG",
 		"original_recipe": {"reference": "Legendary Robe"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1560,7 +1560,7 @@
 			},
 			{"reference": "Aroma Material"}
 		],
-		"image": "images/armor/saints_garb.PNG",
+		"image": "newimages/armor/saints_garb.PNG",
 		"original_recipe": {"reference": "Legendary Robe"},
 		"character": "Pamela",
 		"idea_trigger": "After making Alchemy Robe"
@@ -1591,7 +1591,7 @@
 			{"reference": "Pentagle"},
 			{"reference": "Fallen Wing"}
 		],
-		"image": "images/armor/lucifers_leotard.PNG",
+		"image": "newimages/armor/lucifers_leotard.PNG",
 		"original_recipe": {"reference": "Sexy Outfit"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1617,7 +1617,7 @@
 			{"reference": "Stellar Globe"},
 			{"reference": "Symbol of Uroborus"}
 		],
-		"image": "images/armor/black_veil.PNG",
+		"image": "newimages/armor/black_veil.PNG",
 		"original_recipe": {"reference": "Dark Battlespirit"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1643,7 +1643,7 @@
 			{"reference": "Altena Ingot"},
 			{"reference": "Tera Flame"}
 		],
-		"image": "images/armor/gallant_mantle.PNG",
+		"image": "newimages/armor/gallant_mantle.PNG",
 		"original_recipe": {"reference": "Man's Mantle"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1669,7 +1669,7 @@
 			{"reference": "Philosopher's Hand"},
 			{"reference": "Glasses of Death"}
 		],
-		"image": "images/armor/grand_alchemist.PNG",
+		"image": "newimages/armor/grand_alchemist.PNG",
 		"original_recipe": {"reference": "Grand Robe"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1695,7 +1695,7 @@
 			{"reference": "Brilliant Stone"},
 			{"reference": "Aurora Curtain"}
 		],
-		"image": "images/armor/biohair_wig.PNG",
+		"image": "newimages/armor/biohair_wig.PNG",
 		"original_recipe": {"reference": "Sensitive Hair"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1721,7 +1721,7 @@
 			{"reference": "Bunny Ears"},
 			{"reference": "Super Nectar"}
 		],
-		"image": "images/armor/holy_beast_hide.PNG",
+		"image": "newimages/armor/holy_beast_hide.PNG",
 		"original_recipe": {"reference": "Beast Hide"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1747,7 +1747,7 @@
 			{"reference": "Symbol of Uroborus"},
 			{"reference": "Winged Boots"}
 		],
-		"image": "images/armor/knights_waistcoat.PNG",
+		"image": "newimages/armor/knights_waistcoat.PNG",
 		"original_recipe": {"reference": "Master's Outfit"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1773,7 +1773,7 @@
 			{"reference": "Elixir"},
 			{"reference": "Formell Fabric"}
 		],
-		"image": "images/armor/robe_of_life.PNG",
+		"image": "newimages/armor/robe_of_life.PNG",
 		"original_recipe": {"reference": "Incanter's Garb"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1812,7 +1812,7 @@
 				]
 			}
 		],
-		"image": "images/armor/rejuvenator_skin.PNG",
+		"image": "newimages/armor/rejuvenator_skin.PNG",
 		"original_recipe": {"reference": "Liquid Armor"},
 		"character": "None",
 		"idea_trigger": "None"
@@ -1831,7 +1831,7 @@
 			"RES": 150,
 			"SPD": 25
 		},
-		"image": "images/armor/mana-eurism_coat.PNG",
+		"image": "newimages/armor/mana-eurism_coat.PNG",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -1848,7 +1848,7 @@
 			"RES": 0,
 			"SPD": 0
 		},
-		"image": "images/armor/mans_clothes.PNG",
+		"image": "newimages/armor/mans_clothes.PNG",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -1865,7 +1865,7 @@
 			"RES": 200,
 			"SPD": 25
 		},
-		"image": "images/armor/meister_cloak.PNG",
+		"image": "newimages/armor/meister_cloak.PNG",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -1882,7 +1882,7 @@
 			"RES": 160,
 			"SPD": 0
 		},
-		"image": "images/armor/dames_hair.PNG",
+		"image": "newimages/armor/dames_hair.PNG",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -1899,7 +1899,7 @@
 			"RES": 125,
 			"SPD": 0
 		},
-		"image": "images/armor/beast_leather.PNG",
+		"image": "newimages/armor/beast_leather.PNG",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -1916,7 +1916,7 @@
 			"RES": 120,
 			"SPD": 50
 		},
-		"image": "images/armor/swiftwing_garb.PNG",
+		"image": "newimages/armor/swiftwing_garb.PNG",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -1933,7 +1933,7 @@
 			"RES": 150,
 			"SPD": 0
 		},
-		"image": "images/armor/platinum_robe.PNG",
+		"image": "newimages/armor/platinum_robe.PNG",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	},
 	{
@@ -1950,7 +1950,7 @@
 			"RES": 166,
 			"SPD": 0
 		},
-		"image": "images/armor/future_suit.PNG",
+		"image": "newimages/armor/future_suit.PNG",
 		"gathering spot":"Secret Dungeon (Beat the game first)"
 	}
 ]
